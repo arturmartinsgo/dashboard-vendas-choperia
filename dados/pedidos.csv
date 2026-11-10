@@ -1,0 +1,5436 @@
+pedido_id,data_pedido,forma_pagamento
+1,2025-01-01,Cartão de Débito
+2,2025-01-01,Pix
+3,2025-01-01,Cartão de Crédito
+4,2025-01-01,Pix
+5,2025-01-01,Pix
+6,2025-01-01,Dinheiro
+7,2025-01-02,Pix
+8,2025-01-02,Cartão de Débito
+9,2025-01-02,Cartão de Débito
+10,2025-01-02,Pix
+11,2025-01-02,Pix
+12,2025-01-02,Pix
+13,2025-01-02,Pix
+14,2025-01-03,Pix
+15,2025-01-03,Cartão de Crédito
+16,2025-01-03,Pix
+17,2025-01-03,Cartão de Débito
+18,2025-01-03,Pix
+19,2025-01-03,Cartão de Crédito
+20,2025-01-03,Cartão de Débito
+21,2025-01-03,Cartão de Crédito
+22,2025-01-03,Cartão de Crédito
+23,2025-01-03,Cartão de Débito
+24,2025-01-03,Dinheiro
+25,2025-01-03,Dinheiro
+26,2025-01-03,Cartão de Crédito
+27,2025-01-03,Dinheiro
+28,2025-01-03,Dinheiro
+29,2025-01-03,Dinheiro
+30,2025-01-03,Pix
+31,2025-01-03,Pix
+32,2025-01-03,Cartão de Crédito
+33,2025-01-03,Pix
+34,2025-01-03,Pix
+35,2025-01-03,Pix
+36,2025-01-03,Pix
+37,2025-01-03,Cartão de Crédito
+38,2025-01-03,Pix
+39,2025-01-03,Cartão de Crédito
+40,2025-01-04,Pix
+41,2025-01-04,Cartão de Débito
+42,2025-01-04,Cartão de Crédito
+43,2025-01-04,Pix
+44,2025-01-04,Cartão de Débito
+45,2025-01-04,Pix
+46,2025-01-04,Pix
+47,2025-01-04,Cartão de Crédito
+48,2025-01-04,Pix
+49,2025-01-04,Pix
+50,2025-01-04,Cartão de Débito
+51,2025-01-04,Pix
+52,2025-01-04,Pix
+53,2025-01-04,Pix
+54,2025-01-04,Cartão de Débito
+55,2025-01-04,Pix
+56,2025-01-04,Cartão de Débito
+57,2025-01-04,Cartão de Débito
+58,2025-01-04,Cartão de Débito
+59,2025-01-04,Cartão de Crédito
+60,2025-01-04,Cartão de Crédito
+61,2025-01-04,Dinheiro
+62,2025-01-04,Pix
+63,2025-01-04,Pix
+64,2025-01-04,Cartão de Crédito
+65,2025-01-04,Pix
+66,2025-01-04,Cartão de Crédito
+67,2025-01-04,Cartão de Crédito
+68,2025-01-04,Pix
+69,2025-01-04,Cartão de Crédito
+70,2025-01-04,Pix
+71,2025-01-04,Pix
+72,2025-01-04,Cartão de Crédito
+73,2025-01-04,Cartão de Débito
+74,2025-01-04,Pix
+75,2025-01-04,Pix
+76,2025-01-04,Cartão de Débito
+77,2025-01-04,Cartão de Crédito
+78,2025-01-04,Cartão de Crédito
+79,2025-01-05,Dinheiro
+80,2025-01-05,Cartão de Débito
+81,2025-01-05,Cartão de Crédito
+82,2025-01-05,Cartão de Crédito
+83,2025-01-05,Pix
+84,2025-01-05,Pix
+85,2025-01-05,Cartão de Crédito
+86,2025-01-05,Cartão de Débito
+87,2025-01-05,Cartão de Crédito
+88,2025-01-05,Cartão de Crédito
+89,2025-01-05,Pix
+90,2025-01-05,Cartão de Crédito
+91,2025-01-05,Cartão de Crédito
+92,2025-01-05,Pix
+93,2025-01-05,Cartão de Débito
+94,2025-01-05,Pix
+95,2025-01-05,Cartão de Débito
+96,2025-01-05,Cartão de Débito
+97,2025-01-05,Pix
+98,2025-01-05,Cartão de Crédito
+99,2025-01-05,Pix
+100,2025-01-05,Pix
+101,2025-01-05,Cartão de Crédito
+102,2025-01-05,Pix
+103,2025-01-05,Pix
+104,2025-01-05,Pix
+105,2025-01-05,Pix
+106,2025-01-05,Dinheiro
+107,2025-01-07,Pix
+108,2025-01-07,Cartão de Crédito
+109,2025-01-07,Cartão de Crédito
+110,2025-01-07,Cartão de Crédito
+111,2025-01-07,Pix
+112,2025-01-07,Cartão de Débito
+113,2025-01-07,Pix
+114,2025-01-08,Cartão de Débito
+115,2025-01-08,Pix
+116,2025-01-08,Cartão de Crédito
+117,2025-01-08,Cartão de Débito
+118,2025-01-08,Dinheiro
+119,2025-01-08,Cartão de Débito
+120,2025-01-08,Cartão de Débito
+121,2025-01-08,Pix
+122,2025-01-09,Cartão de Crédito
+123,2025-01-09,Cartão de Débito
+124,2025-01-09,Cartão de Débito
+125,2025-01-09,Pix
+126,2025-01-09,Cartão de Crédito
+127,2025-01-09,Dinheiro
+128,2025-01-09,Cartão de Crédito
+129,2025-01-09,Cartão de Crédito
+130,2025-01-09,Cartão de Crédito
+131,2025-01-09,Cartão de Débito
+132,2025-01-09,Dinheiro
+133,2025-01-09,Pix
+134,2025-01-09,Dinheiro
+135,2025-01-09,Pix
+136,2025-01-09,Pix
+137,2025-01-10,Cartão de Crédito
+138,2025-01-10,Pix
+139,2025-01-10,Cartão de Crédito
+140,2025-01-10,Dinheiro
+141,2025-01-10,Cartão de Crédito
+142,2025-01-10,Pix
+143,2025-01-10,Dinheiro
+144,2025-01-10,Pix
+145,2025-01-10,Dinheiro
+146,2025-01-10,Dinheiro
+147,2025-01-10,Cartão de Crédito
+148,2025-01-10,Cartão de Crédito
+149,2025-01-10,Cartão de Débito
+150,2025-01-10,Pix
+151,2025-01-10,Cartão de Débito
+152,2025-01-10,Cartão de Crédito
+153,2025-01-10,Pix
+154,2025-01-10,Pix
+155,2025-01-10,Pix
+156,2025-01-10,Cartão de Crédito
+157,2025-01-11,Pix
+158,2025-01-11,Pix
+159,2025-01-11,Pix
+160,2025-01-11,Cartão de Crédito
+161,2025-01-11,Pix
+162,2025-01-11,Cartão de Débito
+163,2025-01-11,Cartão de Crédito
+164,2025-01-11,Cartão de Crédito
+165,2025-01-11,Cartão de Débito
+166,2025-01-11,Cartão de Débito
+167,2025-01-11,Cartão de Crédito
+168,2025-01-11,Cartão de Débito
+169,2025-01-11,Dinheiro
+170,2025-01-11,Cartão de Crédito
+171,2025-01-11,Pix
+172,2025-01-11,Cartão de Crédito
+173,2025-01-11,Pix
+174,2025-01-11,Cartão de Crédito
+175,2025-01-11,Cartão de Crédito
+176,2025-01-11,Dinheiro
+177,2025-01-11,Cartão de Crédito
+178,2025-01-11,Pix
+179,2025-01-11,Pix
+180,2025-01-11,Dinheiro
+181,2025-01-11,Cartão de Débito
+182,2025-01-11,Pix
+183,2025-01-11,Pix
+184,2025-01-11,Pix
+185,2025-01-11,Pix
+186,2025-01-12,Cartão de Crédito
+187,2025-01-12,Dinheiro
+188,2025-01-12,Cartão de Crédito
+189,2025-01-12,Pix
+190,2025-01-12,Pix
+191,2025-01-12,Cartão de Crédito
+192,2025-01-12,Cartão de Débito
+193,2025-01-12,Cartão de Débito
+194,2025-01-12,Cartão de Crédito
+195,2025-01-12,Cartão de Débito
+196,2025-01-12,Cartão de Débito
+197,2025-01-12,Pix
+198,2025-01-12,Pix
+199,2025-01-12,Cartão de Débito
+200,2025-01-12,Dinheiro
+201,2025-01-12,Pix
+202,2025-01-12,Pix
+203,2025-01-12,Pix
+204,2025-01-12,Cartão de Débito
+205,2025-01-12,Cartão de Crédito
+206,2025-01-12,Cartão de Débito
+207,2025-01-12,Cartão de Débito
+208,2025-01-12,Pix
+209,2025-01-12,Pix
+210,2025-01-14,Cartão de Crédito
+211,2025-01-14,Cartão de Crédito
+212,2025-01-14,Cartão de Crédito
+213,2025-01-14,Cartão de Débito
+214,2025-01-14,Dinheiro
+215,2025-01-14,Pix
+216,2025-01-14,Cartão de Crédito
+217,2025-01-14,Cartão de Crédito
+218,2025-01-15,Pix
+219,2025-01-15,Dinheiro
+220,2025-01-15,Cartão de Crédito
+221,2025-01-15,Pix
+222,2025-01-15,Pix
+223,2025-01-15,Dinheiro
+224,2025-01-15,Pix
+225,2025-01-16,Pix
+226,2025-01-16,Pix
+227,2025-01-16,Dinheiro
+228,2025-01-16,Cartão de Crédito
+229,2025-01-16,Pix
+230,2025-01-16,Cartão de Crédito
+231,2025-01-16,Cartão de Crédito
+232,2025-01-16,Pix
+233,2025-01-16,Cartão de Débito
+234,2025-01-16,Dinheiro
+235,2025-01-16,Cartão de Crédito
+236,2025-01-16,Cartão de Crédito
+237,2025-01-17,Pix
+238,2025-01-17,Pix
+239,2025-01-17,Dinheiro
+240,2025-01-17,Pix
+241,2025-01-17,Cartão de Crédito
+242,2025-01-17,Cartão de Crédito
+243,2025-01-17,Cartão de Crédito
+244,2025-01-17,Pix
+245,2025-01-17,Pix
+246,2025-01-17,Pix
+247,2025-01-17,Cartão de Débito
+248,2025-01-17,Cartão de Crédito
+249,2025-01-17,Cartão de Débito
+250,2025-01-17,Cartão de Débito
+251,2025-01-17,Cartão de Débito
+252,2025-01-17,Cartão de Crédito
+253,2025-01-17,Cartão de Crédito
+254,2025-01-17,Cartão de Crédito
+255,2025-01-17,Cartão de Crédito
+256,2025-01-17,Cartão de Débito
+257,2025-01-17,Cartão de Débito
+258,2025-01-17,Cartão de Crédito
+259,2025-01-17,Cartão de Crédito
+260,2025-01-17,Dinheiro
+261,2025-01-17,Dinheiro
+262,2025-01-18,Cartão de Crédito
+263,2025-01-18,Dinheiro
+264,2025-01-18,Dinheiro
+265,2025-01-18,Cartão de Crédito
+266,2025-01-18,Dinheiro
+267,2025-01-18,Pix
+268,2025-01-18,Cartão de Crédito
+269,2025-01-18,Cartão de Débito
+270,2025-01-18,Cartão de Crédito
+271,2025-01-18,Cartão de Crédito
+272,2025-01-18,Dinheiro
+273,2025-01-18,Cartão de Débito
+274,2025-01-18,Pix
+275,2025-01-18,Pix
+276,2025-01-18,Dinheiro
+277,2025-01-18,Pix
+278,2025-01-18,Cartão de Débito
+279,2025-01-18,Pix
+280,2025-01-18,Cartão de Débito
+281,2025-01-18,Cartão de Crédito
+282,2025-01-18,Pix
+283,2025-01-18,Pix
+284,2025-01-18,Cartão de Débito
+285,2025-01-18,Pix
+286,2025-01-18,Pix
+287,2025-01-18,Cartão de Crédito
+288,2025-01-18,Cartão de Débito
+289,2025-01-18,Cartão de Débito
+290,2025-01-18,Dinheiro
+291,2025-01-18,Pix
+292,2025-01-18,Cartão de Débito
+293,2025-01-18,Cartão de Débito
+294,2025-01-19,Cartão de Crédito
+295,2025-01-19,Pix
+296,2025-01-19,Pix
+297,2025-01-19,Cartão de Crédito
+298,2025-01-19,Cartão de Débito
+299,2025-01-19,Cartão de Débito
+300,2025-01-19,Pix
+301,2025-01-19,Cartão de Débito
+302,2025-01-19,Cartão de Crédito
+303,2025-01-19,Cartão de Crédito
+304,2025-01-19,Dinheiro
+305,2025-01-19,Cartão de Crédito
+306,2025-01-19,Pix
+307,2025-01-19,Pix
+308,2025-01-19,Pix
+309,2025-01-19,Cartão de Débito
+310,2025-01-19,Cartão de Débito
+311,2025-01-19,Pix
+312,2025-01-19,Cartão de Crédito
+313,2025-01-19,Cartão de Débito
+314,2025-01-19,Pix
+315,2025-01-19,Cartão de Crédito
+316,2025-01-19,Pix
+317,2025-01-19,Cartão de Débito
+318,2025-01-19,Cartão de Crédito
+319,2025-01-19,Pix
+320,2025-01-19,Dinheiro
+321,2025-01-19,Dinheiro
+322,2025-01-19,Cartão de Crédito
+323,2025-01-19,Dinheiro
+324,2025-01-19,Cartão de Débito
+325,2025-01-21,Dinheiro
+326,2025-01-21,Pix
+327,2025-01-21,Pix
+328,2025-01-21,Dinheiro
+329,2025-01-22,Pix
+330,2025-01-22,Pix
+331,2025-01-22,Cartão de Crédito
+332,2025-01-22,Pix
+333,2025-01-22,Cartão de Débito
+334,2025-01-22,Cartão de Crédito
+335,2025-01-22,Pix
+336,2025-01-22,Cartão de Débito
+337,2025-01-23,Pix
+338,2025-01-23,Pix
+339,2025-01-23,Cartão de Crédito
+340,2025-01-23,Cartão de Débito
+341,2025-01-23,Cartão de Crédito
+342,2025-01-23,Dinheiro
+343,2025-01-23,Cartão de Débito
+344,2025-01-23,Pix
+345,2025-01-23,Pix
+346,2025-01-23,Pix
+347,2025-01-24,Cartão de Crédito
+348,2025-01-24,Cartão de Débito
+349,2025-01-24,Cartão de Débito
+350,2025-01-24,Dinheiro
+351,2025-01-24,Cartão de Crédito
+352,2025-01-24,Cartão de Débito
+353,2025-01-24,Cartão de Crédito
+354,2025-01-24,Pix
+355,2025-01-24,Pix
+356,2025-01-24,Dinheiro
+357,2025-01-24,Cartão de Débito
+358,2025-01-24,Pix
+359,2025-01-24,Cartão de Débito
+360,2025-01-24,Pix
+361,2025-01-24,Cartão de Crédito
+362,2025-01-24,Cartão de Crédito
+363,2025-01-24,Pix
+364,2025-01-24,Pix
+365,2025-01-25,Pix
+366,2025-01-25,Dinheiro
+367,2025-01-25,Cartão de Débito
+368,2025-01-25,Cartão de Débito
+369,2025-01-25,Pix
+370,2025-01-25,Cartão de Crédito
+371,2025-01-25,Pix
+372,2025-01-25,Cartão de Débito
+373,2025-01-25,Cartão de Crédito
+374,2025-01-25,Cartão de Débito
+375,2025-01-25,Pix
+376,2025-01-25,Cartão de Débito
+377,2025-01-25,Cartão de Débito
+378,2025-01-25,Cartão de Débito
+379,2025-01-25,Pix
+380,2025-01-25,Cartão de Crédito
+381,2025-01-25,Pix
+382,2025-01-25,Pix
+383,2025-01-25,Dinheiro
+384,2025-01-25,Cartão de Débito
+385,2025-01-25,Cartão de Débito
+386,2025-01-25,Dinheiro
+387,2025-01-25,Cartão de Débito
+388,2025-01-25,Cartão de Crédito
+389,2025-01-25,Pix
+390,2025-01-25,Pix
+391,2025-01-25,Cartão de Crédito
+392,2025-01-25,Pix
+393,2025-01-25,Dinheiro
+394,2025-01-25,Cartão de Débito
+395,2025-01-25,Cartão de Crédito
+396,2025-01-25,Pix
+397,2025-01-25,Dinheiro
+398,2025-01-25,Dinheiro
+399,2025-01-25,Cartão de Débito
+400,2025-01-25,Cartão de Débito
+401,2025-01-25,Pix
+402,2025-01-26,Pix
+403,2025-01-26,Pix
+404,2025-01-26,Pix
+405,2025-01-26,Cartão de Crédito
+406,2025-01-26,Pix
+407,2025-01-26,Pix
+408,2025-01-26,Dinheiro
+409,2025-01-26,Cartão de Crédito
+410,2025-01-26,Cartão de Crédito
+411,2025-01-26,Cartão de Débito
+412,2025-01-26,Pix
+413,2025-01-26,Cartão de Crédito
+414,2025-01-26,Cartão de Crédito
+415,2025-01-26,Pix
+416,2025-01-26,Cartão de Crédito
+417,2025-01-26,Pix
+418,2025-01-26,Pix
+419,2025-01-26,Cartão de Débito
+420,2025-01-26,Cartão de Débito
+421,2025-01-26,Cartão de Débito
+422,2025-01-26,Pix
+423,2025-01-26,Pix
+424,2025-01-28,Pix
+425,2025-01-28,Cartão de Crédito
+426,2025-01-28,Pix
+427,2025-01-28,Cartão de Débito
+428,2025-01-28,Cartão de Crédito
+429,2025-01-28,Cartão de Crédito
+430,2025-01-29,Cartão de Débito
+431,2025-01-29,Pix
+432,2025-01-29,Cartão de Débito
+433,2025-01-29,Cartão de Crédito
+434,2025-01-29,Dinheiro
+435,2025-01-29,Cartão de Crédito
+436,2025-01-29,Cartão de Débito
+437,2025-01-29,Pix
+438,2025-01-29,Dinheiro
+439,2025-01-29,Cartão de Débito
+440,2025-01-30,Cartão de Débito
+441,2025-01-30,Cartão de Crédito
+442,2025-01-30,Pix
+443,2025-01-30,Cartão de Crédito
+444,2025-01-30,Cartão de Crédito
+445,2025-01-30,Cartão de Crédito
+446,2025-01-30,Pix
+447,2025-01-30,Cartão de Débito
+448,2025-01-31,Cartão de Débito
+449,2025-01-31,Cartão de Crédito
+450,2025-01-31,Cartão de Crédito
+451,2025-01-31,Pix
+452,2025-01-31,Cartão de Débito
+453,2025-01-31,Cartão de Crédito
+454,2025-01-31,Pix
+455,2025-01-31,Cartão de Crédito
+456,2025-01-31,Pix
+457,2025-01-31,Cartão de Crédito
+458,2025-01-31,Pix
+459,2025-01-31,Cartão de Crédito
+460,2025-01-31,Dinheiro
+461,2025-01-31,Cartão de Débito
+462,2025-01-31,Cartão de Crédito
+463,2025-02-01,Pix
+464,2025-02-01,Cartão de Débito
+465,2025-02-01,Cartão de Débito
+466,2025-02-01,Cartão de Crédito
+467,2025-02-01,Dinheiro
+468,2025-02-01,Cartão de Crédito
+469,2025-02-01,Cartão de Crédito
+470,2025-02-01,Cartão de Crédito
+471,2025-02-01,Cartão de Crédito
+472,2025-02-01,Pix
+473,2025-02-01,Cartão de Débito
+474,2025-02-01,Pix
+475,2025-02-01,Cartão de Crédito
+476,2025-02-01,Cartão de Crédito
+477,2025-02-01,Pix
+478,2025-02-01,Cartão de Crédito
+479,2025-02-01,Cartão de Crédito
+480,2025-02-01,Pix
+481,2025-02-01,Pix
+482,2025-02-01,Pix
+483,2025-02-01,Cartão de Crédito
+484,2025-02-01,Pix
+485,2025-02-01,Pix
+486,2025-02-01,Cartão de Débito
+487,2025-02-01,Dinheiro
+488,2025-02-01,Pix
+489,2025-02-02,Cartão de Débito
+490,2025-02-02,Cartão de Débito
+491,2025-02-02,Pix
+492,2025-02-02,Cartão de Débito
+493,2025-02-02,Cartão de Débito
+494,2025-02-02,Cartão de Crédito
+495,2025-02-02,Cartão de Débito
+496,2025-02-02,Pix
+497,2025-02-02,Pix
+498,2025-02-02,Pix
+499,2025-02-02,Pix
+500,2025-02-02,Cartão de Débito
+501,2025-02-02,Pix
+502,2025-02-02,Cartão de Débito
+503,2025-02-02,Pix
+504,2025-02-02,Pix
+505,2025-02-02,Cartão de Crédito
+506,2025-02-02,Pix
+507,2025-02-02,Cartão de Débito
+508,2025-02-02,Cartão de Crédito
+509,2025-02-02,Cartão de Crédito
+510,2025-02-02,Cartão de Crédito
+511,2025-02-02,Pix
+512,2025-02-02,Cartão de Crédito
+513,2025-02-02,Cartão de Crédito
+514,2025-02-02,Cartão de Crédito
+515,2025-02-02,Cartão de Débito
+516,2025-02-02,Pix
+517,2025-02-04,Dinheiro
+518,2025-02-04,Pix
+519,2025-02-04,Pix
+520,2025-02-04,Pix
+521,2025-02-04,Pix
+522,2025-02-04,Cartão de Crédito
+523,2025-02-04,Cartão de Crédito
+524,2025-02-04,Cartão de Débito
+525,2025-02-04,Cartão de Débito
+526,2025-02-05,Cartão de Crédito
+527,2025-02-05,Pix
+528,2025-02-05,Cartão de Crédito
+529,2025-02-05,Cartão de Crédito
+530,2025-02-05,Cartão de Débito
+531,2025-02-05,Dinheiro
+532,2025-02-05,Cartão de Crédito
+533,2025-02-05,Pix
+534,2025-02-05,Pix
+535,2025-02-06,Pix
+536,2025-02-06,Pix
+537,2025-02-06,Cartão de Débito
+538,2025-02-06,Pix
+539,2025-02-06,Cartão de Crédito
+540,2025-02-06,Pix
+541,2025-02-06,Cartão de Crédito
+542,2025-02-06,Cartão de Crédito
+543,2025-02-06,Cartão de Débito
+544,2025-02-07,Cartão de Crédito
+545,2025-02-07,Cartão de Débito
+546,2025-02-07,Dinheiro
+547,2025-02-07,Cartão de Crédito
+548,2025-02-07,Cartão de Débito
+549,2025-02-07,Cartão de Crédito
+550,2025-02-07,Pix
+551,2025-02-07,Cartão de Crédito
+552,2025-02-07,Cartão de Débito
+553,2025-02-07,Cartão de Débito
+554,2025-02-07,Cartão de Crédito
+555,2025-02-07,Dinheiro
+556,2025-02-07,Cartão de Crédito
+557,2025-02-07,Cartão de Débito
+558,2025-02-07,Pix
+559,2025-02-07,Pix
+560,2025-02-07,Cartão de Crédito
+561,2025-02-07,Cartão de Débito
+562,2025-02-07,Dinheiro
+563,2025-02-07,Cartão de Débito
+564,2025-02-07,Cartão de Débito
+565,2025-02-08,Cartão de Débito
+566,2025-02-08,Cartão de Crédito
+567,2025-02-08,Cartão de Débito
+568,2025-02-08,Dinheiro
+569,2025-02-08,Cartão de Crédito
+570,2025-02-08,Pix
+571,2025-02-08,Cartão de Crédito
+572,2025-02-08,Cartão de Crédito
+573,2025-02-08,Pix
+574,2025-02-08,Pix
+575,2025-02-08,Pix
+576,2025-02-08,Dinheiro
+577,2025-02-08,Cartão de Débito
+578,2025-02-08,Cartão de Crédito
+579,2025-02-08,Pix
+580,2025-02-08,Cartão de Crédito
+581,2025-02-08,Cartão de Débito
+582,2025-02-08,Pix
+583,2025-02-08,Cartão de Débito
+584,2025-02-08,Pix
+585,2025-02-08,Pix
+586,2025-02-08,Cartão de Crédito
+587,2025-02-08,Pix
+588,2025-02-08,Cartão de Débito
+589,2025-02-08,Pix
+590,2025-02-08,Cartão de Débito
+591,2025-02-08,Pix
+592,2025-02-08,Cartão de Crédito
+593,2025-02-09,Cartão de Débito
+594,2025-02-09,Pix
+595,2025-02-09,Dinheiro
+596,2025-02-09,Pix
+597,2025-02-09,Cartão de Crédito
+598,2025-02-09,Cartão de Crédito
+599,2025-02-09,Dinheiro
+600,2025-02-09,Pix
+601,2025-02-09,Pix
+602,2025-02-09,Cartão de Crédito
+603,2025-02-09,Cartão de Débito
+604,2025-02-09,Cartão de Débito
+605,2025-02-09,Pix
+606,2025-02-09,Pix
+607,2025-02-09,Dinheiro
+608,2025-02-09,Cartão de Débito
+609,2025-02-09,Pix
+610,2025-02-09,Cartão de Crédito
+611,2025-02-09,Cartão de Débito
+612,2025-02-09,Dinheiro
+613,2025-02-09,Pix
+614,2025-02-09,Cartão de Crédito
+615,2025-02-09,Dinheiro
+616,2025-02-09,Cartão de Crédito
+617,2025-02-09,Cartão de Crédito
+618,2025-02-09,Pix
+619,2025-02-09,Pix
+620,2025-02-09,Cartão de Débito
+621,2025-02-09,Pix
+622,2025-02-09,Cartão de Débito
+623,2025-02-09,Dinheiro
+624,2025-02-11,Dinheiro
+625,2025-02-11,Pix
+626,2025-02-11,Pix
+627,2025-02-11,Pix
+628,2025-02-11,Cartão de Débito
+629,2025-02-11,Dinheiro
+630,2025-02-11,Pix
+631,2025-02-11,Cartão de Crédito
+632,2025-02-11,Pix
+633,2025-02-11,Cartão de Débito
+634,2025-02-11,Pix
+635,2025-02-12,Cartão de Débito
+636,2025-02-12,Pix
+637,2025-02-12,Pix
+638,2025-02-12,Dinheiro
+639,2025-02-12,Cartão de Crédito
+640,2025-02-12,Cartão de Crédito
+641,2025-02-12,Pix
+642,2025-02-12,Pix
+643,2025-02-13,Cartão de Crédito
+644,2025-02-13,Cartão de Débito
+645,2025-02-13,Pix
+646,2025-02-13,Pix
+647,2025-02-13,Cartão de Débito
+648,2025-02-14,Pix
+649,2025-02-14,Cartão de Crédito
+650,2025-02-14,Pix
+651,2025-02-14,Pix
+652,2025-02-14,Cartão de Crédito
+653,2025-02-14,Pix
+654,2025-02-14,Dinheiro
+655,2025-02-14,Cartão de Crédito
+656,2025-02-14,Cartão de Débito
+657,2025-02-14,Cartão de Crédito
+658,2025-02-14,Cartão de Débito
+659,2025-02-14,Cartão de Crédito
+660,2025-02-14,Cartão de Crédito
+661,2025-02-14,Pix
+662,2025-02-14,Pix
+663,2025-02-14,Dinheiro
+664,2025-02-14,Cartão de Crédito
+665,2025-02-14,Cartão de Crédito
+666,2025-02-14,Pix
+667,2025-02-14,Cartão de Débito
+668,2025-02-14,Pix
+669,2025-02-14,Cartão de Débito
+670,2025-02-14,Cartão de Débito
+671,2025-02-15,Pix
+672,2025-02-15,Cartão de Crédito
+673,2025-02-15,Pix
+674,2025-02-15,Pix
+675,2025-02-15,Pix
+676,2025-02-15,Pix
+677,2025-02-15,Pix
+678,2025-02-15,Cartão de Débito
+679,2025-02-15,Pix
+680,2025-02-15,Cartão de Crédito
+681,2025-02-15,Pix
+682,2025-02-15,Cartão de Débito
+683,2025-02-15,Pix
+684,2025-02-15,Dinheiro
+685,2025-02-15,Cartão de Crédito
+686,2025-02-15,Cartão de Débito
+687,2025-02-15,Cartão de Débito
+688,2025-02-15,Cartão de Débito
+689,2025-02-15,Pix
+690,2025-02-15,Pix
+691,2025-02-15,Cartão de Débito
+692,2025-02-15,Pix
+693,2025-02-15,Pix
+694,2025-02-15,Pix
+695,2025-02-15,Pix
+696,2025-02-15,Cartão de Crédito
+697,2025-02-15,Pix
+698,2025-02-16,Cartão de Débito
+699,2025-02-16,Cartão de Crédito
+700,2025-02-16,Cartão de Crédito
+701,2025-02-16,Cartão de Crédito
+702,2025-02-16,Pix
+703,2025-02-16,Pix
+704,2025-02-16,Cartão de Débito
+705,2025-02-16,Pix
+706,2025-02-16,Pix
+707,2025-02-16,Cartão de Crédito
+708,2025-02-16,Pix
+709,2025-02-16,Cartão de Crédito
+710,2025-02-16,Cartão de Crédito
+711,2025-02-16,Cartão de Débito
+712,2025-02-16,Cartão de Crédito
+713,2025-02-16,Cartão de Crédito
+714,2025-02-16,Pix
+715,2025-02-16,Pix
+716,2025-02-16,Pix
+717,2025-02-16,Pix
+718,2025-02-16,Cartão de Débito
+719,2025-02-16,Pix
+720,2025-02-16,Cartão de Crédito
+721,2025-02-18,Pix
+722,2025-02-18,Pix
+723,2025-02-18,Pix
+724,2025-02-18,Pix
+725,2025-02-18,Cartão de Crédito
+726,2025-02-18,Pix
+727,2025-02-18,Pix
+728,2025-02-18,Cartão de Crédito
+729,2025-02-18,Cartão de Crédito
+730,2025-02-18,Cartão de Débito
+731,2025-02-19,Cartão de Débito
+732,2025-02-19,Pix
+733,2025-02-19,Cartão de Débito
+734,2025-02-19,Cartão de Crédito
+735,2025-02-19,Pix
+736,2025-02-19,Pix
+737,2025-02-19,Pix
+738,2025-02-19,Pix
+739,2025-02-19,Pix
+740,2025-02-19,Cartão de Débito
+741,2025-02-20,Cartão de Crédito
+742,2025-02-20,Pix
+743,2025-02-20,Pix
+744,2025-02-20,Pix
+745,2025-02-20,Pix
+746,2025-02-20,Pix
+747,2025-02-20,Dinheiro
+748,2025-02-20,Cartão de Crédito
+749,2025-02-21,Pix
+750,2025-02-21,Cartão de Crédito
+751,2025-02-21,Pix
+752,2025-02-21,Pix
+753,2025-02-21,Pix
+754,2025-02-21,Cartão de Crédito
+755,2025-02-21,Pix
+756,2025-02-21,Pix
+757,2025-02-21,Cartão de Crédito
+758,2025-02-21,Cartão de Crédito
+759,2025-02-21,Pix
+760,2025-02-21,Cartão de Crédito
+761,2025-02-21,Cartão de Débito
+762,2025-02-21,Cartão de Crédito
+763,2025-02-21,Pix
+764,2025-02-21,Pix
+765,2025-02-21,Pix
+766,2025-02-21,Cartão de Débito
+767,2025-02-21,Pix
+768,2025-02-21,Cartão de Débito
+769,2025-02-21,Cartão de Crédito
+770,2025-02-22,Cartão de Crédito
+771,2025-02-22,Pix
+772,2025-02-22,Pix
+773,2025-02-22,Cartão de Crédito
+774,2025-02-22,Pix
+775,2025-02-22,Cartão de Crédito
+776,2025-02-22,Cartão de Débito
+777,2025-02-22,Pix
+778,2025-02-22,Cartão de Débito
+779,2025-02-22,Cartão de Débito
+780,2025-02-22,Cartão de Crédito
+781,2025-02-22,Cartão de Crédito
+782,2025-02-22,Cartão de Crédito
+783,2025-02-22,Cartão de Débito
+784,2025-02-22,Cartão de Crédito
+785,2025-02-22,Pix
+786,2025-02-22,Pix
+787,2025-02-22,Cartão de Débito
+788,2025-02-22,Cartão de Crédito
+789,2025-02-22,Cartão de Crédito
+790,2025-02-22,Pix
+791,2025-02-23,Pix
+792,2025-02-23,Pix
+793,2025-02-23,Pix
+794,2025-02-23,Pix
+795,2025-02-23,Cartão de Crédito
+796,2025-02-23,Pix
+797,2025-02-23,Cartão de Débito
+798,2025-02-23,Cartão de Débito
+799,2025-02-23,Pix
+800,2025-02-23,Cartão de Crédito
+801,2025-02-23,Cartão de Crédito
+802,2025-02-23,Dinheiro
+803,2025-02-23,Pix
+804,2025-02-23,Pix
+805,2025-02-23,Pix
+806,2025-02-23,Pix
+807,2025-02-23,Pix
+808,2025-02-23,Cartão de Débito
+809,2025-02-23,Pix
+810,2025-02-23,Pix
+811,2025-02-23,Cartão de Débito
+812,2025-02-23,Dinheiro
+813,2025-02-23,Cartão de Crédito
+814,2025-02-23,Cartão de Crédito
+815,2025-02-23,Cartão de Crédito
+816,2025-02-23,Dinheiro
+817,2025-02-23,Pix
+818,2025-02-23,Dinheiro
+819,2025-02-23,Cartão de Crédito
+820,2025-02-23,Pix
+821,2025-02-25,Cartão de Crédito
+822,2025-02-25,Cartão de Débito
+823,2025-02-25,Cartão de Débito
+824,2025-02-25,Cartão de Crédito
+825,2025-02-26,Pix
+826,2025-02-26,Cartão de Crédito
+827,2025-02-26,Cartão de Crédito
+828,2025-02-26,Cartão de Crédito
+829,2025-02-26,Pix
+830,2025-02-26,Cartão de Débito
+831,2025-02-26,Pix
+832,2025-02-26,Cartão de Crédito
+833,2025-02-26,Pix
+834,2025-02-26,Cartão de Débito
+835,2025-02-26,Cartão de Crédito
+836,2025-02-27,Dinheiro
+837,2025-02-27,Cartão de Débito
+838,2025-02-27,Cartão de Débito
+839,2025-02-27,Pix
+840,2025-02-27,Cartão de Débito
+841,2025-02-27,Pix
+842,2025-02-27,Pix
+843,2025-02-27,Pix
+844,2025-02-28,Pix
+845,2025-02-28,Cartão de Débito
+846,2025-02-28,Pix
+847,2025-02-28,Cartão de Débito
+848,2025-02-28,Pix
+849,2025-02-28,Pix
+850,2025-02-28,Pix
+851,2025-02-28,Pix
+852,2025-02-28,Pix
+853,2025-02-28,Pix
+854,2025-02-28,Pix
+855,2025-02-28,Cartão de Crédito
+856,2025-02-28,Cartão de Débito
+857,2025-02-28,Cartão de Crédito
+858,2025-02-28,Dinheiro
+859,2025-03-01,Dinheiro
+860,2025-03-01,Pix
+861,2025-03-01,Pix
+862,2025-03-01,Pix
+863,2025-03-01,Pix
+864,2025-03-01,Cartão de Débito
+865,2025-03-01,Cartão de Crédito
+866,2025-03-01,Cartão de Débito
+867,2025-03-01,Pix
+868,2025-03-01,Cartão de Débito
+869,2025-03-01,Pix
+870,2025-03-01,Cartão de Débito
+871,2025-03-01,Pix
+872,2025-03-01,Pix
+873,2025-03-01,Cartão de Débito
+874,2025-03-01,Cartão de Crédito
+875,2025-03-01,Dinheiro
+876,2025-03-01,Cartão de Débito
+877,2025-03-01,Dinheiro
+878,2025-03-02,Pix
+879,2025-03-02,Cartão de Débito
+880,2025-03-02,Cartão de Crédito
+881,2025-03-02,Dinheiro
+882,2025-03-02,Cartão de Crédito
+883,2025-03-02,Cartão de Crédito
+884,2025-03-02,Cartão de Crédito
+885,2025-03-02,Pix
+886,2025-03-02,Cartão de Crédito
+887,2025-03-02,Dinheiro
+888,2025-03-02,Pix
+889,2025-03-02,Cartão de Crédito
+890,2025-03-02,Pix
+891,2025-03-02,Cartão de Débito
+892,2025-03-02,Cartão de Crédito
+893,2025-03-02,Dinheiro
+894,2025-03-02,Pix
+895,2025-03-02,Pix
+896,2025-03-02,Cartão de Débito
+897,2025-03-02,Cartão de Crédito
+898,2025-03-02,Cartão de Débito
+899,2025-03-02,Dinheiro
+900,2025-03-02,Cartão de Crédito
+901,2025-03-02,Cartão de Débito
+902,2025-03-04,Pix
+903,2025-03-05,Dinheiro
+904,2025-03-05,Dinheiro
+905,2025-03-05,Cartão de Crédito
+906,2025-03-05,Cartão de Crédito
+907,2025-03-05,Cartão de Crédito
+908,2025-03-05,Dinheiro
+909,2025-03-05,Pix
+910,2025-03-06,Cartão de Crédito
+911,2025-03-06,Cartão de Crédito
+912,2025-03-06,Cartão de Crédito
+913,2025-03-06,Cartão de Crédito
+914,2025-03-06,Cartão de Crédito
+915,2025-03-06,Cartão de Débito
+916,2025-03-06,Cartão de Débito
+917,2025-03-06,Cartão de Débito
+918,2025-03-06,Pix
+919,2025-03-06,Pix
+920,2025-03-07,Pix
+921,2025-03-07,Dinheiro
+922,2025-03-07,Pix
+923,2025-03-07,Pix
+924,2025-03-07,Pix
+925,2025-03-07,Cartão de Crédito
+926,2025-03-07,Pix
+927,2025-03-07,Cartão de Crédito
+928,2025-03-07,Cartão de Crédito
+929,2025-03-07,Cartão de Crédito
+930,2025-03-07,Pix
+931,2025-03-07,Pix
+932,2025-03-07,Cartão de Crédito
+933,2025-03-07,Pix
+934,2025-03-08,Cartão de Débito
+935,2025-03-08,Cartão de Débito
+936,2025-03-08,Cartão de Débito
+937,2025-03-08,Cartão de Crédito
+938,2025-03-08,Pix
+939,2025-03-08,Cartão de Débito
+940,2025-03-08,Pix
+941,2025-03-08,Dinheiro
+942,2025-03-08,Pix
+943,2025-03-08,Pix
+944,2025-03-08,Pix
+945,2025-03-08,Cartão de Débito
+946,2025-03-08,Cartão de Crédito
+947,2025-03-08,Cartão de Crédito
+948,2025-03-08,Pix
+949,2025-03-08,Cartão de Débito
+950,2025-03-08,Pix
+951,2025-03-08,Dinheiro
+952,2025-03-08,Cartão de Débito
+953,2025-03-08,Cartão de Crédito
+954,2025-03-08,Cartão de Débito
+955,2025-03-08,Dinheiro
+956,2025-03-08,Pix
+957,2025-03-08,Cartão de Débito
+958,2025-03-08,Pix
+959,2025-03-08,Pix
+960,2025-03-08,Pix
+961,2025-03-08,Cartão de Crédito
+962,2025-03-08,Cartão de Débito
+963,2025-03-08,Cartão de Débito
+964,2025-03-08,Cartão de Crédito
+965,2025-03-08,Cartão de Débito
+966,2025-03-08,Pix
+967,2025-03-09,Cartão de Débito
+968,2025-03-09,Cartão de Crédito
+969,2025-03-09,Pix
+970,2025-03-09,Pix
+971,2025-03-09,Dinheiro
+972,2025-03-09,Cartão de Débito
+973,2025-03-09,Cartão de Crédito
+974,2025-03-09,Dinheiro
+975,2025-03-09,Pix
+976,2025-03-09,Cartão de Crédito
+977,2025-03-09,Pix
+978,2025-03-09,Dinheiro
+979,2025-03-09,Pix
+980,2025-03-09,Dinheiro
+981,2025-03-09,Cartão de Débito
+982,2025-03-09,Cartão de Débito
+983,2025-03-09,Cartão de Crédito
+984,2025-03-09,Cartão de Crédito
+985,2025-03-09,Dinheiro
+986,2025-03-09,Cartão de Crédito
+987,2025-03-09,Cartão de Crédito
+988,2025-03-09,Pix
+989,2025-03-11,Cartão de Débito
+990,2025-03-11,Pix
+991,2025-03-11,Pix
+992,2025-03-11,Cartão de Crédito
+993,2025-03-11,Cartão de Crédito
+994,2025-03-12,Pix
+995,2025-03-12,Pix
+996,2025-03-12,Dinheiro
+997,2025-03-12,Pix
+998,2025-03-12,Pix
+999,2025-03-13,Cartão de Débito
+1000,2025-03-13,Cartão de Débito
+1001,2025-03-13,Pix
+1002,2025-03-13,Pix
+1003,2025-03-13,Pix
+1004,2025-03-13,Cartão de Débito
+1005,2025-03-13,Pix
+1006,2025-03-13,Cartão de Crédito
+1007,2025-03-13,Pix
+1008,2025-03-13,Pix
+1009,2025-03-13,Pix
+1010,2025-03-13,Dinheiro
+1011,2025-03-13,Pix
+1012,2025-03-13,Cartão de Crédito
+1013,2025-03-13,Cartão de Crédito
+1014,2025-03-14,Cartão de Crédito
+1015,2025-03-14,Pix
+1016,2025-03-14,Cartão de Débito
+1017,2025-03-14,Dinheiro
+1018,2025-03-14,Pix
+1019,2025-03-14,Pix
+1020,2025-03-14,Pix
+1021,2025-03-14,Dinheiro
+1022,2025-03-14,Cartão de Débito
+1023,2025-03-14,Cartão de Crédito
+1024,2025-03-14,Cartão de Débito
+1025,2025-03-14,Pix
+1026,2025-03-14,Cartão de Crédito
+1027,2025-03-14,Pix
+1028,2025-03-14,Cartão de Crédito
+1029,2025-03-14,Pix
+1030,2025-03-14,Pix
+1031,2025-03-15,Cartão de Débito
+1032,2025-03-15,Pix
+1033,2025-03-15,Cartão de Débito
+1034,2025-03-15,Pix
+1035,2025-03-15,Cartão de Débito
+1036,2025-03-15,Pix
+1037,2025-03-15,Cartão de Débito
+1038,2025-03-15,Cartão de Débito
+1039,2025-03-15,Cartão de Débito
+1040,2025-03-15,Pix
+1041,2025-03-15,Cartão de Crédito
+1042,2025-03-15,Dinheiro
+1043,2025-03-15,Pix
+1044,2025-03-15,Dinheiro
+1045,2025-03-15,Pix
+1046,2025-03-15,Pix
+1047,2025-03-15,Pix
+1048,2025-03-15,Pix
+1049,2025-03-15,Cartão de Débito
+1050,2025-03-15,Pix
+1051,2025-03-15,Pix
+1052,2025-03-15,Pix
+1053,2025-03-15,Cartão de Débito
+1054,2025-03-15,Cartão de Crédito
+1055,2025-03-15,Pix
+1056,2025-03-15,Cartão de Débito
+1057,2025-03-15,Cartão de Débito
+1058,2025-03-15,Cartão de Crédito
+1059,2025-03-15,Pix
+1060,2025-03-15,Cartão de Crédito
+1061,2025-03-15,Cartão de Débito
+1062,2025-03-15,Cartão de Crédito
+1063,2025-03-16,Pix
+1064,2025-03-16,Cartão de Débito
+1065,2025-03-16,Dinheiro
+1066,2025-03-16,Pix
+1067,2025-03-16,Cartão de Débito
+1068,2025-03-16,Cartão de Débito
+1069,2025-03-16,Dinheiro
+1070,2025-03-16,Cartão de Crédito
+1071,2025-03-16,Cartão de Débito
+1072,2025-03-16,Pix
+1073,2025-03-16,Pix
+1074,2025-03-16,Cartão de Crédito
+1075,2025-03-16,Cartão de Débito
+1076,2025-03-16,Cartão de Débito
+1077,2025-03-16,Cartão de Débito
+1078,2025-03-16,Dinheiro
+1079,2025-03-16,Cartão de Débito
+1080,2025-03-16,Cartão de Débito
+1081,2025-03-16,Pix
+1082,2025-03-16,Dinheiro
+1083,2025-03-16,Cartão de Crédito
+1084,2025-03-18,Pix
+1085,2025-03-18,Cartão de Crédito
+1086,2025-03-18,Dinheiro
+1087,2025-03-18,Pix
+1088,2025-03-18,Cartão de Crédito
+1089,2025-03-19,Pix
+1090,2025-03-19,Cartão de Crédito
+1091,2025-03-19,Pix
+1092,2025-03-19,Dinheiro
+1093,2025-03-19,Dinheiro
+1094,2025-03-19,Dinheiro
+1095,2025-03-19,Cartão de Crédito
+1096,2025-03-19,Pix
+1097,2025-03-19,Dinheiro
+1098,2025-03-19,Cartão de Débito
+1099,2025-03-19,Cartão de Débito
+1100,2025-03-19,Cartão de Débito
+1101,2025-03-19,Cartão de Débito
+1102,2025-03-20,Cartão de Crédito
+1103,2025-03-20,Cartão de Crédito
+1104,2025-03-20,Pix
+1105,2025-03-20,Pix
+1106,2025-03-20,Cartão de Crédito
+1107,2025-03-20,Pix
+1108,2025-03-20,Cartão de Crédito
+1109,2025-03-20,Pix
+1110,2025-03-20,Cartão de Crédito
+1111,2025-03-20,Pix
+1112,2025-03-20,Dinheiro
+1113,2025-03-20,Pix
+1114,2025-03-21,Cartão de Crédito
+1115,2025-03-21,Cartão de Débito
+1116,2025-03-21,Cartão de Crédito
+1117,2025-03-21,Dinheiro
+1118,2025-03-21,Cartão de Débito
+1119,2025-03-21,Pix
+1120,2025-03-21,Cartão de Débito
+1121,2025-03-21,Cartão de Débito
+1122,2025-03-21,Cartão de Crédito
+1123,2025-03-21,Dinheiro
+1124,2025-03-21,Cartão de Crédito
+1125,2025-03-21,Pix
+1126,2025-03-21,Cartão de Crédito
+1127,2025-03-21,Pix
+1128,2025-03-21,Cartão de Crédito
+1129,2025-03-21,Cartão de Débito
+1130,2025-03-21,Cartão de Débito
+1131,2025-03-21,Pix
+1132,2025-03-21,Cartão de Crédito
+1133,2025-03-21,Pix
+1134,2025-03-21,Cartão de Crédito
+1135,2025-03-21,Pix
+1136,2025-03-21,Dinheiro
+1137,2025-03-21,Dinheiro
+1138,2025-03-21,Cartão de Crédito
+1139,2025-03-21,Pix
+1140,2025-03-21,Cartão de Débito
+1141,2025-03-21,Pix
+1142,2025-03-22,Pix
+1143,2025-03-22,Dinheiro
+1144,2025-03-22,Cartão de Crédito
+1145,2025-03-22,Cartão de Crédito
+1146,2025-03-22,Cartão de Crédito
+1147,2025-03-22,Cartão de Débito
+1148,2025-03-22,Pix
+1149,2025-03-22,Cartão de Débito
+1150,2025-03-22,Dinheiro
+1151,2025-03-22,Cartão de Crédito
+1152,2025-03-22,Dinheiro
+1153,2025-03-22,Pix
+1154,2025-03-22,Pix
+1155,2025-03-22,Cartão de Crédito
+1156,2025-03-22,Cartão de Débito
+1157,2025-03-22,Dinheiro
+1158,2025-03-22,Cartão de Débito
+1159,2025-03-22,Dinheiro
+1160,2025-03-22,Cartão de Débito
+1161,2025-03-22,Cartão de Crédito
+1162,2025-03-22,Pix
+1163,2025-03-22,Cartão de Crédito
+1164,2025-03-22,Cartão de Crédito
+1165,2025-03-22,Dinheiro
+1166,2025-03-22,Pix
+1167,2025-03-22,Cartão de Débito
+1168,2025-03-22,Pix
+1169,2025-03-22,Pix
+1170,2025-03-22,Pix
+1171,2025-03-22,Dinheiro
+1172,2025-03-22,Pix
+1173,2025-03-22,Dinheiro
+1174,2025-03-22,Cartão de Débito
+1175,2025-03-22,Pix
+1176,2025-03-22,Cartão de Crédito
+1177,2025-03-22,Cartão de Crédito
+1178,2025-03-22,Cartão de Débito
+1179,2025-03-22,Cartão de Crédito
+1180,2025-03-22,Cartão de Crédito
+1181,2025-03-23,Cartão de Crédito
+1182,2025-03-23,Cartão de Crédito
+1183,2025-03-23,Dinheiro
+1184,2025-03-23,Pix
+1185,2025-03-23,Cartão de Crédito
+1186,2025-03-23,Cartão de Débito
+1187,2025-03-23,Pix
+1188,2025-03-23,Cartão de Débito
+1189,2025-03-23,Cartão de Crédito
+1190,2025-03-23,Pix
+1191,2025-03-23,Cartão de Crédito
+1192,2025-03-23,Cartão de Débito
+1193,2025-03-23,Dinheiro
+1194,2025-03-23,Pix
+1195,2025-03-23,Pix
+1196,2025-03-23,Cartão de Crédito
+1197,2025-03-23,Pix
+1198,2025-03-23,Cartão de Crédito
+1199,2025-03-23,Pix
+1200,2025-03-23,Cartão de Crédito
+1201,2025-03-23,Dinheiro
+1202,2025-03-23,Cartão de Crédito
+1203,2025-03-23,Cartão de Crédito
+1204,2025-03-23,Cartão de Crédito
+1205,2025-03-23,Pix
+1206,2025-03-23,Cartão de Débito
+1207,2025-03-23,Dinheiro
+1208,2025-03-23,Pix
+1209,2025-03-23,Cartão de Débito
+1210,2025-03-23,Cartão de Débito
+1211,2025-03-23,Cartão de Débito
+1212,2025-03-23,Dinheiro
+1213,2025-03-23,Dinheiro
+1214,2025-03-25,Cartão de Débito
+1215,2025-03-25,Pix
+1216,2025-03-25,Cartão de Débito
+1217,2025-03-25,Cartão de Crédito
+1218,2025-03-25,Cartão de Débito
+1219,2025-03-25,Cartão de Crédito
+1220,2025-03-25,Dinheiro
+1221,2025-03-25,Cartão de Crédito
+1222,2025-03-25,Cartão de Crédito
+1223,2025-03-25,Dinheiro
+1224,2025-03-25,Cartão de Débito
+1225,2025-03-26,Cartão de Débito
+1226,2025-03-26,Cartão de Crédito
+1227,2025-03-26,Pix
+1228,2025-03-26,Cartão de Crédito
+1229,2025-03-26,Cartão de Débito
+1230,2025-03-26,Cartão de Crédito
+1231,2025-03-26,Cartão de Débito
+1232,2025-03-26,Cartão de Débito
+1233,2025-03-27,Cartão de Crédito
+1234,2025-03-27,Pix
+1235,2025-03-27,Cartão de Crédito
+1236,2025-03-27,Cartão de Crédito
+1237,2025-03-27,Dinheiro
+1238,2025-03-27,Pix
+1239,2025-03-27,Pix
+1240,2025-03-28,Cartão de Débito
+1241,2025-03-28,Dinheiro
+1242,2025-03-28,Cartão de Crédito
+1243,2025-03-28,Pix
+1244,2025-03-28,Pix
+1245,2025-03-28,Cartão de Débito
+1246,2025-03-28,Pix
+1247,2025-03-28,Pix
+1248,2025-03-28,Cartão de Débito
+1249,2025-03-28,Pix
+1250,2025-03-28,Cartão de Débito
+1251,2025-03-28,Pix
+1252,2025-03-28,Pix
+1253,2025-03-28,Pix
+1254,2025-03-28,Cartão de Crédito
+1255,2025-03-28,Cartão de Crédito
+1256,2025-03-28,Pix
+1257,2025-03-28,Pix
+1258,2025-03-28,Pix
+1259,2025-03-28,Pix
+1260,2025-03-28,Cartão de Crédito
+1261,2025-03-29,Cartão de Crédito
+1262,2025-03-29,Pix
+1263,2025-03-29,Cartão de Crédito
+1264,2025-03-29,Cartão de Débito
+1265,2025-03-29,Dinheiro
+1266,2025-03-29,Cartão de Crédito
+1267,2025-03-29,Cartão de Débito
+1268,2025-03-29,Dinheiro
+1269,2025-03-29,Dinheiro
+1270,2025-03-29,Dinheiro
+1271,2025-03-29,Cartão de Crédito
+1272,2025-03-29,Pix
+1273,2025-03-29,Pix
+1274,2025-03-29,Pix
+1275,2025-03-29,Pix
+1276,2025-03-29,Cartão de Débito
+1277,2025-03-29,Cartão de Crédito
+1278,2025-03-29,Pix
+1279,2025-03-29,Cartão de Crédito
+1280,2025-03-29,Cartão de Crédito
+1281,2025-03-29,Cartão de Débito
+1282,2025-03-29,Cartão de Débito
+1283,2025-03-29,Cartão de Crédito
+1284,2025-03-29,Cartão de Débito
+1285,2025-03-29,Cartão de Crédito
+1286,2025-03-29,Pix
+1287,2025-03-29,Cartão de Débito
+1288,2025-03-29,Pix
+1289,2025-03-29,Cartão de Crédito
+1290,2025-03-29,Pix
+1291,2025-03-29,Cartão de Débito
+1292,2025-03-29,Cartão de Crédito
+1293,2025-03-29,Cartão de Débito
+1294,2025-03-29,Cartão de Crédito
+1295,2025-03-29,Pix
+1296,2025-03-29,Cartão de Débito
+1297,2025-03-29,Pix
+1298,2025-03-29,Cartão de Crédito
+1299,2025-03-29,Pix
+1300,2025-03-30,Cartão de Crédito
+1301,2025-03-30,Pix
+1302,2025-03-30,Cartão de Crédito
+1303,2025-03-30,Pix
+1304,2025-03-30,Cartão de Crédito
+1305,2025-03-30,Pix
+1306,2025-03-30,Cartão de Crédito
+1307,2025-03-30,Cartão de Crédito
+1308,2025-03-30,Cartão de Crédito
+1309,2025-03-30,Dinheiro
+1310,2025-03-30,Dinheiro
+1311,2025-03-30,Dinheiro
+1312,2025-03-30,Pix
+1313,2025-03-30,Cartão de Crédito
+1314,2025-03-30,Cartão de Crédito
+1315,2025-03-30,Pix
+1316,2025-03-30,Dinheiro
+1317,2025-03-30,Pix
+1318,2025-03-30,Dinheiro
+1319,2025-03-30,Cartão de Crédito
+1320,2025-04-01,Pix
+1321,2025-04-01,Cartão de Débito
+1322,2025-04-01,Pix
+1323,2025-04-01,Cartão de Crédito
+1324,2025-04-01,Pix
+1325,2025-04-01,Pix
+1326,2025-04-01,Cartão de Débito
+1327,2025-04-01,Cartão de Crédito
+1328,2025-04-01,Dinheiro
+1329,2025-04-01,Pix
+1330,2025-04-01,Cartão de Crédito
+1331,2025-04-01,Cartão de Débito
+1332,2025-04-01,Dinheiro
+1333,2025-04-01,Pix
+1334,2025-04-02,Cartão de Débito
+1335,2025-04-02,Cartão de Débito
+1336,2025-04-02,Pix
+1337,2025-04-02,Pix
+1338,2025-04-02,Pix
+1339,2025-04-02,Pix
+1340,2025-04-02,Cartão de Débito
+1341,2025-04-03,Pix
+1342,2025-04-03,Cartão de Débito
+1343,2025-04-03,Pix
+1344,2025-04-03,Cartão de Crédito
+1345,2025-04-03,Pix
+1346,2025-04-03,Cartão de Crédito
+1347,2025-04-03,Cartão de Débito
+1348,2025-04-03,Pix
+1349,2025-04-03,Cartão de Crédito
+1350,2025-04-03,Pix
+1351,2025-04-03,Cartão de Débito
+1352,2025-04-03,Pix
+1353,2025-04-04,Cartão de Débito
+1354,2025-04-04,Cartão de Crédito
+1355,2025-04-04,Cartão de Débito
+1356,2025-04-04,Pix
+1357,2025-04-04,Dinheiro
+1358,2025-04-04,Cartão de Crédito
+1359,2025-04-04,Dinheiro
+1360,2025-04-04,Pix
+1361,2025-04-04,Cartão de Crédito
+1362,2025-04-04,Cartão de Crédito
+1363,2025-04-04,Dinheiro
+1364,2025-04-04,Cartão de Débito
+1365,2025-04-04,Pix
+1366,2025-04-04,Cartão de Débito
+1367,2025-04-04,Cartão de Crédito
+1368,2025-04-04,Pix
+1369,2025-04-04,Dinheiro
+1370,2025-04-04,Pix
+1371,2025-04-04,Pix
+1372,2025-04-04,Cartão de Débito
+1373,2025-04-04,Pix
+1374,2025-04-04,Cartão de Crédito
+1375,2025-04-04,Cartão de Crédito
+1376,2025-04-04,Pix
+1377,2025-04-05,Pix
+1378,2025-04-05,Pix
+1379,2025-04-05,Pix
+1380,2025-04-05,Dinheiro
+1381,2025-04-05,Cartão de Crédito
+1382,2025-04-05,Cartão de Crédito
+1383,2025-04-05,Pix
+1384,2025-04-05,Cartão de Débito
+1385,2025-04-05,Cartão de Débito
+1386,2025-04-05,Cartão de Débito
+1387,2025-04-05,Cartão de Crédito
+1388,2025-04-05,Cartão de Crédito
+1389,2025-04-05,Cartão de Crédito
+1390,2025-04-05,Pix
+1391,2025-04-05,Pix
+1392,2025-04-05,Cartão de Crédito
+1393,2025-04-05,Cartão de Crédito
+1394,2025-04-05,Cartão de Crédito
+1395,2025-04-05,Pix
+1396,2025-04-05,Dinheiro
+1397,2025-04-05,Cartão de Crédito
+1398,2025-04-05,Cartão de Crédito
+1399,2025-04-05,Pix
+1400,2025-04-05,Cartão de Crédito
+1401,2025-04-05,Pix
+1402,2025-04-05,Cartão de Crédito
+1403,2025-04-05,Cartão de Crédito
+1404,2025-04-05,Pix
+1405,2025-04-05,Pix
+1406,2025-04-05,Pix
+1407,2025-04-05,Cartão de Débito
+1408,2025-04-05,Pix
+1409,2025-04-06,Pix
+1410,2025-04-06,Cartão de Crédito
+1411,2025-04-06,Cartão de Débito
+1412,2025-04-06,Cartão de Crédito
+1413,2025-04-06,Pix
+1414,2025-04-06,Cartão de Débito
+1415,2025-04-06,Pix
+1416,2025-04-06,Pix
+1417,2025-04-06,Cartão de Crédito
+1418,2025-04-06,Cartão de Débito
+1419,2025-04-06,Cartão de Débito
+1420,2025-04-06,Cartão de Crédito
+1421,2025-04-06,Pix
+1422,2025-04-06,Pix
+1423,2025-04-06,Cartão de Crédito
+1424,2025-04-06,Pix
+1425,2025-04-06,Dinheiro
+1426,2025-04-06,Cartão de Crédito
+1427,2025-04-06,Pix
+1428,2025-04-06,Cartão de Débito
+1429,2025-04-06,Cartão de Débito
+1430,2025-04-06,Dinheiro
+1431,2025-04-06,Dinheiro
+1432,2025-04-06,Dinheiro
+1433,2025-04-06,Pix
+1434,2025-04-06,Dinheiro
+1435,2025-04-06,Pix
+1436,2025-04-08,Pix
+1437,2025-04-08,Pix
+1438,2025-04-08,Cartão de Crédito
+1439,2025-04-08,Cartão de Débito
+1440,2025-04-08,Dinheiro
+1441,2025-04-08,Cartão de Débito
+1442,2025-04-09,Cartão de Débito
+1443,2025-04-09,Pix
+1444,2025-04-09,Cartão de Débito
+1445,2025-04-09,Cartão de Crédito
+1446,2025-04-09,Pix
+1447,2025-04-09,Cartão de Débito
+1448,2025-04-10,Pix
+1449,2025-04-10,Cartão de Débito
+1450,2025-04-10,Cartão de Débito
+1451,2025-04-10,Cartão de Crédito
+1452,2025-04-10,Pix
+1453,2025-04-10,Pix
+1454,2025-04-10,Pix
+1455,2025-04-10,Pix
+1456,2025-04-10,Cartão de Crédito
+1457,2025-04-10,Cartão de Débito
+1458,2025-04-11,Cartão de Débito
+1459,2025-04-11,Pix
+1460,2025-04-11,Cartão de Crédito
+1461,2025-04-11,Pix
+1462,2025-04-11,Pix
+1463,2025-04-11,Pix
+1464,2025-04-11,Pix
+1465,2025-04-11,Pix
+1466,2025-04-11,Cartão de Débito
+1467,2025-04-11,Cartão de Crédito
+1468,2025-04-11,Cartão de Crédito
+1469,2025-04-11,Pix
+1470,2025-04-11,Pix
+1471,2025-04-11,Pix
+1472,2025-04-11,Pix
+1473,2025-04-11,Cartão de Débito
+1474,2025-04-11,Dinheiro
+1475,2025-04-11,Pix
+1476,2025-04-11,Cartão de Crédito
+1477,2025-04-11,Pix
+1478,2025-04-11,Cartão de Crédito
+1479,2025-04-11,Pix
+1480,2025-04-11,Pix
+1481,2025-04-11,Cartão de Crédito
+1482,2025-04-11,Cartão de Crédito
+1483,2025-04-11,Cartão de Crédito
+1484,2025-04-11,Cartão de Crédito
+1485,2025-04-11,Pix
+1486,2025-04-12,Cartão de Crédito
+1487,2025-04-12,Cartão de Débito
+1488,2025-04-12,Cartão de Débito
+1489,2025-04-12,Pix
+1490,2025-04-12,Cartão de Crédito
+1491,2025-04-12,Pix
+1492,2025-04-12,Pix
+1493,2025-04-12,Dinheiro
+1494,2025-04-12,Pix
+1495,2025-04-12,Cartão de Crédito
+1496,2025-04-12,Dinheiro
+1497,2025-04-12,Dinheiro
+1498,2025-04-12,Cartão de Crédito
+1499,2025-04-12,Pix
+1500,2025-04-12,Cartão de Crédito
+1501,2025-04-12,Cartão de Crédito
+1502,2025-04-12,Cartão de Débito
+1503,2025-04-12,Cartão de Crédito
+1504,2025-04-12,Cartão de Débito
+1505,2025-04-12,Cartão de Crédito
+1506,2025-04-12,Cartão de Crédito
+1507,2025-04-12,Cartão de Crédito
+1508,2025-04-12,Pix
+1509,2025-04-12,Cartão de Débito
+1510,2025-04-12,Pix
+1511,2025-04-12,Cartão de Débito
+1512,2025-04-12,Cartão de Crédito
+1513,2025-04-12,Cartão de Crédito
+1514,2025-04-12,Cartão de Crédito
+1515,2025-04-12,Cartão de Crédito
+1516,2025-04-12,Dinheiro
+1517,2025-04-13,Cartão de Crédito
+1518,2025-04-13,Cartão de Crédito
+1519,2025-04-13,Pix
+1520,2025-04-13,Cartão de Crédito
+1521,2025-04-13,Pix
+1522,2025-04-13,Cartão de Crédito
+1523,2025-04-13,Pix
+1524,2025-04-13,Cartão de Crédito
+1525,2025-04-13,Dinheiro
+1526,2025-04-13,Cartão de Crédito
+1527,2025-04-13,Cartão de Crédito
+1528,2025-04-13,Cartão de Crédito
+1529,2025-04-13,Cartão de Débito
+1530,2025-04-13,Pix
+1531,2025-04-13,Dinheiro
+1532,2025-04-13,Pix
+1533,2025-04-13,Pix
+1534,2025-04-13,Cartão de Crédito
+1535,2025-04-13,Pix
+1536,2025-04-13,Cartão de Crédito
+1537,2025-04-13,Pix
+1538,2025-04-13,Pix
+1539,2025-04-13,Cartão de Crédito
+1540,2025-04-13,Cartão de Débito
+1541,2025-04-13,Cartão de Crédito
+1542,2025-04-13,Cartão de Débito
+1543,2025-04-13,Pix
+1544,2025-04-13,Cartão de Crédito
+1545,2025-04-13,Pix
+1546,2025-04-13,Pix
+1547,2025-04-13,Dinheiro
+1548,2025-04-13,Cartão de Crédito
+1549,2025-04-13,Cartão de Débito
+1550,2025-04-13,Cartão de Crédito
+1551,2025-04-13,Cartão de Débito
+1552,2025-04-15,Pix
+1553,2025-04-15,Cartão de Crédito
+1554,2025-04-15,Dinheiro
+1555,2025-04-15,Pix
+1556,2025-04-15,Dinheiro
+1557,2025-04-16,Cartão de Crédito
+1558,2025-04-16,Pix
+1559,2025-04-16,Dinheiro
+1560,2025-04-16,Cartão de Crédito
+1561,2025-04-16,Cartão de Crédito
+1562,2025-04-16,Cartão de Débito
+1563,2025-04-17,Cartão de Crédito
+1564,2025-04-17,Cartão de Débito
+1565,2025-04-17,Cartão de Débito
+1566,2025-04-17,Dinheiro
+1567,2025-04-17,Cartão de Crédito
+1568,2025-04-17,Cartão de Crédito
+1569,2025-04-17,Pix
+1570,2025-04-17,Cartão de Crédito
+1571,2025-04-17,Cartão de Crédito
+1572,2025-04-18,Pix
+1573,2025-04-18,Cartão de Débito
+1574,2025-04-18,Cartão de Crédito
+1575,2025-04-18,Pix
+1576,2025-04-18,Dinheiro
+1577,2025-04-18,Pix
+1578,2025-04-18,Cartão de Débito
+1579,2025-04-18,Pix
+1580,2025-04-18,Pix
+1581,2025-04-18,Pix
+1582,2025-04-18,Dinheiro
+1583,2025-04-18,Cartão de Débito
+1584,2025-04-18,Cartão de Débito
+1585,2025-04-18,Pix
+1586,2025-04-18,Cartão de Crédito
+1587,2025-04-18,Cartão de Crédito
+1588,2025-04-18,Cartão de Crédito
+1589,2025-04-18,Pix
+1590,2025-04-18,Cartão de Crédito
+1591,2025-04-18,Dinheiro
+1592,2025-04-18,Cartão de Débito
+1593,2025-04-18,Cartão de Débito
+1594,2025-04-18,Pix
+1595,2025-04-18,Pix
+1596,2025-04-18,Cartão de Débito
+1597,2025-04-18,Cartão de Débito
+1598,2025-04-18,Dinheiro
+1599,2025-04-19,Pix
+1600,2025-04-19,Cartão de Crédito
+1601,2025-04-19,Pix
+1602,2025-04-19,Pix
+1603,2025-04-19,Pix
+1604,2025-04-19,Pix
+1605,2025-04-19,Dinheiro
+1606,2025-04-19,Dinheiro
+1607,2025-04-19,Cartão de Crédito
+1608,2025-04-19,Cartão de Crédito
+1609,2025-04-19,Cartão de Débito
+1610,2025-04-19,Dinheiro
+1611,2025-04-19,Cartão de Crédito
+1612,2025-04-19,Cartão de Crédito
+1613,2025-04-19,Cartão de Débito
+1614,2025-04-19,Pix
+1615,2025-04-19,Cartão de Débito
+1616,2025-04-19,Pix
+1617,2025-04-19,Cartão de Crédito
+1618,2025-04-19,Pix
+1619,2025-04-19,Pix
+1620,2025-04-19,Cartão de Crédito
+1621,2025-04-19,Cartão de Crédito
+1622,2025-04-19,Dinheiro
+1623,2025-04-19,Cartão de Crédito
+1624,2025-04-19,Pix
+1625,2025-04-19,Pix
+1626,2025-04-19,Cartão de Crédito
+1627,2025-04-19,Dinheiro
+1628,2025-04-20,Cartão de Crédito
+1629,2025-04-20,Cartão de Débito
+1630,2025-04-20,Cartão de Débito
+1631,2025-04-20,Cartão de Crédito
+1632,2025-04-20,Pix
+1633,2025-04-20,Dinheiro
+1634,2025-04-20,Cartão de Crédito
+1635,2025-04-20,Pix
+1636,2025-04-20,Cartão de Débito
+1637,2025-04-20,Pix
+1638,2025-04-20,Pix
+1639,2025-04-20,Pix
+1640,2025-04-20,Cartão de Débito
+1641,2025-04-20,Cartão de Débito
+1642,2025-04-20,Cartão de Débito
+1643,2025-04-20,Dinheiro
+1644,2025-04-20,Cartão de Crédito
+1645,2025-04-20,Pix
+1646,2025-04-20,Cartão de Débito
+1647,2025-04-20,Cartão de Crédito
+1648,2025-04-20,Pix
+1649,2025-04-20,Dinheiro
+1650,2025-04-20,Cartão de Débito
+1651,2025-04-20,Pix
+1652,2025-04-20,Cartão de Débito
+1653,2025-04-20,Cartão de Débito
+1654,2025-04-20,Cartão de Crédito
+1655,2025-04-20,Pix
+1656,2025-04-22,Cartão de Crédito
+1657,2025-04-22,Cartão de Crédito
+1658,2025-04-22,Cartão de Débito
+1659,2025-04-22,Pix
+1660,2025-04-22,Dinheiro
+1661,2025-04-22,Cartão de Débito
+1662,2025-04-22,Pix
+1663,2025-04-22,Dinheiro
+1664,2025-04-22,Pix
+1665,2025-04-22,Cartão de Débito
+1666,2025-04-22,Cartão de Crédito
+1667,2025-04-23,Cartão de Crédito
+1668,2025-04-23,Pix
+1669,2025-04-23,Cartão de Débito
+1670,2025-04-23,Cartão de Crédito
+1671,2025-04-24,Cartão de Débito
+1672,2025-04-24,Cartão de Crédito
+1673,2025-04-24,Cartão de Crédito
+1674,2025-04-24,Pix
+1675,2025-04-24,Pix
+1676,2025-04-24,Cartão de Débito
+1677,2025-04-24,Cartão de Crédito
+1678,2025-04-24,Pix
+1679,2025-04-24,Pix
+1680,2025-04-25,Cartão de Crédito
+1681,2025-04-25,Dinheiro
+1682,2025-04-25,Cartão de Crédito
+1683,2025-04-25,Pix
+1684,2025-04-25,Cartão de Crédito
+1685,2025-04-25,Cartão de Crédito
+1686,2025-04-25,Pix
+1687,2025-04-25,Pix
+1688,2025-04-25,Cartão de Débito
+1689,2025-04-25,Dinheiro
+1690,2025-04-25,Pix
+1691,2025-04-25,Cartão de Crédito
+1692,2025-04-25,Cartão de Crédito
+1693,2025-04-25,Pix
+1694,2025-04-25,Pix
+1695,2025-04-25,Pix
+1696,2025-04-25,Pix
+1697,2025-04-25,Cartão de Débito
+1698,2025-04-25,Pix
+1699,2025-04-25,Dinheiro
+1700,2025-04-25,Dinheiro
+1701,2025-04-26,Cartão de Débito
+1702,2025-04-26,Cartão de Débito
+1703,2025-04-26,Pix
+1704,2025-04-26,Cartão de Crédito
+1705,2025-04-26,Cartão de Débito
+1706,2025-04-26,Pix
+1707,2025-04-26,Cartão de Débito
+1708,2025-04-26,Pix
+1709,2025-04-26,Dinheiro
+1710,2025-04-26,Cartão de Crédito
+1711,2025-04-26,Pix
+1712,2025-04-26,Dinheiro
+1713,2025-04-26,Dinheiro
+1714,2025-04-26,Pix
+1715,2025-04-26,Pix
+1716,2025-04-26,Pix
+1717,2025-04-26,Pix
+1718,2025-04-26,Cartão de Crédito
+1719,2025-04-26,Cartão de Crédito
+1720,2025-04-26,Pix
+1721,2025-04-26,Cartão de Débito
+1722,2025-04-26,Pix
+1723,2025-04-26,Pix
+1724,2025-04-26,Cartão de Crédito
+1725,2025-04-26,Pix
+1726,2025-04-26,Cartão de Crédito
+1727,2025-04-26,Cartão de Crédito
+1728,2025-04-26,Pix
+1729,2025-04-26,Cartão de Débito
+1730,2025-04-26,Pix
+1731,2025-04-26,Pix
+1732,2025-04-26,Cartão de Débito
+1733,2025-04-26,Cartão de Débito
+1734,2025-04-26,Cartão de Débito
+1735,2025-04-26,Cartão de Crédito
+1736,2025-04-26,Pix
+1737,2025-04-26,Pix
+1738,2025-04-27,Pix
+1739,2025-04-27,Pix
+1740,2025-04-27,Pix
+1741,2025-04-27,Cartão de Débito
+1742,2025-04-27,Cartão de Crédito
+1743,2025-04-27,Dinheiro
+1744,2025-04-27,Dinheiro
+1745,2025-04-27,Pix
+1746,2025-04-27,Cartão de Débito
+1747,2025-04-27,Pix
+1748,2025-04-27,Pix
+1749,2025-04-27,Pix
+1750,2025-04-27,Cartão de Débito
+1751,2025-04-27,Dinheiro
+1752,2025-04-27,Cartão de Débito
+1753,2025-04-27,Pix
+1754,2025-04-27,Pix
+1755,2025-04-27,Cartão de Débito
+1756,2025-04-27,Cartão de Crédito
+1757,2025-04-27,Cartão de Crédito
+1758,2025-04-27,Pix
+1759,2025-04-27,Cartão de Crédito
+1760,2025-04-27,Cartão de Débito
+1761,2025-04-27,Cartão de Crédito
+1762,2025-04-27,Cartão de Crédito
+1763,2025-04-27,Pix
+1764,2025-04-27,Cartão de Crédito
+1765,2025-04-27,Pix
+1766,2025-04-27,Cartão de Crédito
+1767,2025-04-29,Pix
+1768,2025-04-29,Cartão de Débito
+1769,2025-04-29,Pix
+1770,2025-04-29,Cartão de Débito
+1771,2025-04-29,Dinheiro
+1772,2025-04-29,Pix
+1773,2025-04-29,Cartão de Crédito
+1774,2025-04-30,Cartão de Crédito
+1775,2025-04-30,Pix
+1776,2025-04-30,Pix
+1777,2025-04-30,Cartão de Crédito
+1778,2025-04-30,Pix
+1779,2025-04-30,Cartão de Débito
+1780,2025-04-30,Cartão de Crédito
+1781,2025-04-30,Dinheiro
+1782,2025-05-01,Pix
+1783,2025-05-01,Dinheiro
+1784,2025-05-01,Cartão de Crédito
+1785,2025-05-01,Cartão de Débito
+1786,2025-05-01,Pix
+1787,2025-05-01,Dinheiro
+1788,2025-05-01,Pix
+1789,2025-05-01,Cartão de Crédito
+1790,2025-05-01,Cartão de Débito
+1791,2025-05-01,Cartão de Crédito
+1792,2025-05-02,Pix
+1793,2025-05-02,Cartão de Crédito
+1794,2025-05-02,Cartão de Débito
+1795,2025-05-02,Cartão de Débito
+1796,2025-05-02,Pix
+1797,2025-05-02,Cartão de Crédito
+1798,2025-05-02,Pix
+1799,2025-05-02,Cartão de Débito
+1800,2025-05-02,Pix
+1801,2025-05-02,Cartão de Crédito
+1802,2025-05-02,Cartão de Crédito
+1803,2025-05-02,Pix
+1804,2025-05-02,Cartão de Crédito
+1805,2025-05-02,Cartão de Crédito
+1806,2025-05-02,Dinheiro
+1807,2025-05-02,Dinheiro
+1808,2025-05-03,Pix
+1809,2025-05-03,Cartão de Crédito
+1810,2025-05-03,Cartão de Crédito
+1811,2025-05-03,Dinheiro
+1812,2025-05-03,Dinheiro
+1813,2025-05-03,Pix
+1814,2025-05-03,Pix
+1815,2025-05-03,Pix
+1816,2025-05-03,Cartão de Crédito
+1817,2025-05-03,Cartão de Crédito
+1818,2025-05-03,Cartão de Débito
+1819,2025-05-03,Pix
+1820,2025-05-03,Dinheiro
+1821,2025-05-03,Pix
+1822,2025-05-03,Cartão de Débito
+1823,2025-05-03,Cartão de Crédito
+1824,2025-05-03,Pix
+1825,2025-05-03,Cartão de Crédito
+1826,2025-05-03,Pix
+1827,2025-05-03,Cartão de Crédito
+1828,2025-05-03,Cartão de Débito
+1829,2025-05-03,Cartão de Débito
+1830,2025-05-03,Pix
+1831,2025-05-03,Cartão de Débito
+1832,2025-05-03,Cartão de Crédito
+1833,2025-05-03,Cartão de Crédito
+1834,2025-05-03,Cartão de Débito
+1835,2025-05-04,Cartão de Débito
+1836,2025-05-04,Cartão de Débito
+1837,2025-05-04,Pix
+1838,2025-05-04,Pix
+1839,2025-05-04,Pix
+1840,2025-05-04,Cartão de Crédito
+1841,2025-05-04,Cartão de Débito
+1842,2025-05-04,Pix
+1843,2025-05-04,Cartão de Crédito
+1844,2025-05-04,Cartão de Débito
+1845,2025-05-04,Cartão de Crédito
+1846,2025-05-04,Cartão de Crédito
+1847,2025-05-04,Dinheiro
+1848,2025-05-04,Pix
+1849,2025-05-04,Cartão de Crédito
+1850,2025-05-04,Cartão de Crédito
+1851,2025-05-04,Pix
+1852,2025-05-04,Pix
+1853,2025-05-04,Pix
+1854,2025-05-04,Cartão de Crédito
+1855,2025-05-04,Cartão de Débito
+1856,2025-05-04,Cartão de Débito
+1857,2025-05-04,Cartão de Crédito
+1858,2025-05-04,Cartão de Débito
+1859,2025-05-04,Pix
+1860,2025-05-04,Cartão de Débito
+1861,2025-05-04,Pix
+1862,2025-05-04,Pix
+1863,2025-05-04,Cartão de Crédito
+1864,2025-05-04,Dinheiro
+1865,2025-05-04,Cartão de Débito
+1866,2025-05-04,Pix
+1867,2025-05-04,Pix
+1868,2025-05-04,Pix
+1869,2025-05-04,Pix
+1870,2025-05-04,Cartão de Crédito
+1871,2025-05-06,Dinheiro
+1872,2025-05-06,Dinheiro
+1873,2025-05-06,Cartão de Crédito
+1874,2025-05-06,Pix
+1875,2025-05-06,Cartão de Crédito
+1876,2025-05-06,Dinheiro
+1877,2025-05-06,Pix
+1878,2025-05-06,Cartão de Débito
+1879,2025-05-06,Pix
+1880,2025-05-06,Cartão de Débito
+1881,2025-05-06,Cartão de Crédito
+1882,2025-05-07,Cartão de Débito
+1883,2025-05-07,Pix
+1884,2025-05-07,Cartão de Débito
+1885,2025-05-07,Cartão de Débito
+1886,2025-05-07,Cartão de Débito
+1887,2025-05-07,Cartão de Débito
+1888,2025-05-07,Pix
+1889,2025-05-07,Pix
+1890,2025-05-07,Cartão de Débito
+1891,2025-05-08,Pix
+1892,2025-05-08,Cartão de Crédito
+1893,2025-05-08,Cartão de Débito
+1894,2025-05-08,Pix
+1895,2025-05-08,Cartão de Débito
+1896,2025-05-08,Cartão de Crédito
+1897,2025-05-08,Cartão de Débito
+1898,2025-05-08,Pix
+1899,2025-05-09,Cartão de Crédito
+1900,2025-05-09,Dinheiro
+1901,2025-05-09,Dinheiro
+1902,2025-05-09,Cartão de Crédito
+1903,2025-05-09,Cartão de Crédito
+1904,2025-05-09,Pix
+1905,2025-05-09,Pix
+1906,2025-05-09,Cartão de Crédito
+1907,2025-05-09,Cartão de Crédito
+1908,2025-05-09,Pix
+1909,2025-05-09,Dinheiro
+1910,2025-05-09,Cartão de Débito
+1911,2025-05-09,Dinheiro
+1912,2025-05-09,Dinheiro
+1913,2025-05-09,Pix
+1914,2025-05-09,Pix
+1915,2025-05-09,Pix
+1916,2025-05-09,Dinheiro
+1917,2025-05-09,Cartão de Débito
+1918,2025-05-09,Pix
+1919,2025-05-10,Pix
+1920,2025-05-10,Cartão de Crédito
+1921,2025-05-10,Cartão de Débito
+1922,2025-05-10,Dinheiro
+1923,2025-05-10,Cartão de Crédito
+1924,2025-05-10,Cartão de Débito
+1925,2025-05-10,Cartão de Crédito
+1926,2025-05-10,Cartão de Débito
+1927,2025-05-10,Cartão de Débito
+1928,2025-05-10,Cartão de Crédito
+1929,2025-05-10,Pix
+1930,2025-05-10,Pix
+1931,2025-05-10,Pix
+1932,2025-05-10,Cartão de Crédito
+1933,2025-05-10,Dinheiro
+1934,2025-05-10,Pix
+1935,2025-05-10,Cartão de Crédito
+1936,2025-05-10,Pix
+1937,2025-05-10,Cartão de Crédito
+1938,2025-05-10,Cartão de Crédito
+1939,2025-05-10,Cartão de Crédito
+1940,2025-05-10,Cartão de Débito
+1941,2025-05-10,Cartão de Débito
+1942,2025-05-10,Pix
+1943,2025-05-10,Pix
+1944,2025-05-10,Cartão de Débito
+1945,2025-05-11,Pix
+1946,2025-05-11,Cartão de Crédito
+1947,2025-05-11,Cartão de Débito
+1948,2025-05-11,Pix
+1949,2025-05-11,Cartão de Crédito
+1950,2025-05-11,Dinheiro
+1951,2025-05-11,Dinheiro
+1952,2025-05-11,Cartão de Débito
+1953,2025-05-11,Pix
+1954,2025-05-11,Cartão de Débito
+1955,2025-05-11,Dinheiro
+1956,2025-05-11,Cartão de Crédito
+1957,2025-05-11,Dinheiro
+1958,2025-05-11,Pix
+1959,2025-05-11,Cartão de Crédito
+1960,2025-05-11,Pix
+1961,2025-05-11,Cartão de Crédito
+1962,2025-05-11,Cartão de Débito
+1963,2025-05-11,Pix
+1964,2025-05-11,Pix
+1965,2025-05-11,Cartão de Crédito
+1966,2025-05-11,Cartão de Crédito
+1967,2025-05-11,Pix
+1968,2025-05-11,Cartão de Crédito
+1969,2025-05-11,Cartão de Crédito
+1970,2025-05-11,Dinheiro
+1971,2025-05-11,Cartão de Crédito
+1972,2025-05-13,Cartão de Débito
+1973,2025-05-13,Cartão de Crédito
+1974,2025-05-13,Pix
+1975,2025-05-13,Pix
+1976,2025-05-13,Cartão de Crédito
+1977,2025-05-13,Cartão de Débito
+1978,2025-05-14,Pix
+1979,2025-05-14,Pix
+1980,2025-05-14,Cartão de Crédito
+1981,2025-05-14,Pix
+1982,2025-05-14,Pix
+1983,2025-05-14,Pix
+1984,2025-05-14,Cartão de Débito
+1985,2025-05-14,Cartão de Débito
+1986,2025-05-14,Pix
+1987,2025-05-15,Pix
+1988,2025-05-15,Pix
+1989,2025-05-15,Cartão de Crédito
+1990,2025-05-15,Cartão de Crédito
+1991,2025-05-15,Pix
+1992,2025-05-15,Pix
+1993,2025-05-15,Pix
+1994,2025-05-15,Cartão de Crédito
+1995,2025-05-16,Cartão de Crédito
+1996,2025-05-16,Pix
+1997,2025-05-16,Cartão de Débito
+1998,2025-05-16,Pix
+1999,2025-05-16,Pix
+2000,2025-05-16,Cartão de Crédito
+2001,2025-05-16,Cartão de Débito
+2002,2025-05-16,Cartão de Débito
+2003,2025-05-16,Cartão de Débito
+2004,2025-05-16,Cartão de Débito
+2005,2025-05-16,Pix
+2006,2025-05-16,Pix
+2007,2025-05-16,Dinheiro
+2008,2025-05-16,Cartão de Crédito
+2009,2025-05-16,Pix
+2010,2025-05-16,Pix
+2011,2025-05-16,Pix
+2012,2025-05-17,Cartão de Crédito
+2013,2025-05-17,Cartão de Crédito
+2014,2025-05-17,Cartão de Débito
+2015,2025-05-17,Cartão de Débito
+2016,2025-05-17,Cartão de Crédito
+2017,2025-05-17,Pix
+2018,2025-05-17,Pix
+2019,2025-05-17,Pix
+2020,2025-05-17,Cartão de Crédito
+2021,2025-05-17,Pix
+2022,2025-05-17,Cartão de Crédito
+2023,2025-05-17,Dinheiro
+2024,2025-05-17,Cartão de Débito
+2025,2025-05-17,Dinheiro
+2026,2025-05-17,Cartão de Débito
+2027,2025-05-17,Cartão de Débito
+2028,2025-05-17,Pix
+2029,2025-05-17,Cartão de Crédito
+2030,2025-05-17,Pix
+2031,2025-05-17,Cartão de Débito
+2032,2025-05-17,Dinheiro
+2033,2025-05-17,Pix
+2034,2025-05-17,Cartão de Crédito
+2035,2025-05-17,Pix
+2036,2025-05-17,Pix
+2037,2025-05-17,Pix
+2038,2025-05-18,Cartão de Crédito
+2039,2025-05-18,Cartão de Débito
+2040,2025-05-18,Cartão de Crédito
+2041,2025-05-18,Cartão de Crédito
+2042,2025-05-18,Pix
+2043,2025-05-18,Pix
+2044,2025-05-18,Cartão de Crédito
+2045,2025-05-18,Cartão de Crédito
+2046,2025-05-18,Pix
+2047,2025-05-18,Cartão de Débito
+2048,2025-05-18,Pix
+2049,2025-05-18,Cartão de Crédito
+2050,2025-05-18,Dinheiro
+2051,2025-05-18,Pix
+2052,2025-05-18,Pix
+2053,2025-05-18,Cartão de Crédito
+2054,2025-05-18,Cartão de Crédito
+2055,2025-05-18,Cartão de Crédito
+2056,2025-05-18,Dinheiro
+2057,2025-05-18,Pix
+2058,2025-05-18,Pix
+2059,2025-05-18,Cartão de Crédito
+2060,2025-05-20,Pix
+2061,2025-05-20,Cartão de Débito
+2062,2025-05-20,Cartão de Crédito
+2063,2025-05-20,Pix
+2064,2025-05-20,Pix
+2065,2025-05-20,Cartão de Crédito
+2066,2025-05-20,Cartão de Crédito
+2067,2025-05-21,Cartão de Crédito
+2068,2025-05-21,Pix
+2069,2025-05-21,Cartão de Crédito
+2070,2025-05-21,Pix
+2071,2025-05-21,Cartão de Débito
+2072,2025-05-21,Cartão de Débito
+2073,2025-05-21,Pix
+2074,2025-05-21,Pix
+2075,2025-05-22,Cartão de Débito
+2076,2025-05-22,Pix
+2077,2025-05-22,Cartão de Débito
+2078,2025-05-22,Cartão de Crédito
+2079,2025-05-22,Pix
+2080,2025-05-22,Pix
+2081,2025-05-22,Cartão de Débito
+2082,2025-05-22,Dinheiro
+2083,2025-05-22,Cartão de Débito
+2084,2025-05-23,Pix
+2085,2025-05-23,Pix
+2086,2025-05-23,Cartão de Crédito
+2087,2025-05-23,Cartão de Débito
+2088,2025-05-23,Pix
+2089,2025-05-23,Cartão de Crédito
+2090,2025-05-23,Dinheiro
+2091,2025-05-23,Cartão de Débito
+2092,2025-05-23,Pix
+2093,2025-05-23,Pix
+2094,2025-05-23,Cartão de Crédito
+2095,2025-05-23,Cartão de Crédito
+2096,2025-05-23,Pix
+2097,2025-05-23,Cartão de Crédito
+2098,2025-05-23,Cartão de Crédito
+2099,2025-05-23,Cartão de Crédito
+2100,2025-05-23,Cartão de Crédito
+2101,2025-05-23,Cartão de Crédito
+2102,2025-05-23,Cartão de Débito
+2103,2025-05-23,Pix
+2104,2025-05-23,Cartão de Crédito
+2105,2025-05-24,Dinheiro
+2106,2025-05-24,Pix
+2107,2025-05-24,Cartão de Crédito
+2108,2025-05-24,Pix
+2109,2025-05-24,Cartão de Débito
+2110,2025-05-24,Pix
+2111,2025-05-24,Cartão de Débito
+2112,2025-05-24,Cartão de Débito
+2113,2025-05-24,Cartão de Crédito
+2114,2025-05-24,Cartão de Débito
+2115,2025-05-24,Cartão de Crédito
+2116,2025-05-24,Pix
+2117,2025-05-24,Pix
+2118,2025-05-24,Cartão de Débito
+2119,2025-05-24,Pix
+2120,2025-05-24,Cartão de Crédito
+2121,2025-05-24,Pix
+2122,2025-05-24,Pix
+2123,2025-05-24,Pix
+2124,2025-05-24,Cartão de Débito
+2125,2025-05-24,Pix
+2126,2025-05-24,Pix
+2127,2025-05-24,Cartão de Débito
+2128,2025-05-24,Cartão de Débito
+2129,2025-05-24,Cartão de Débito
+2130,2025-05-24,Pix
+2131,2025-05-24,Cartão de Débito
+2132,2025-05-24,Cartão de Crédito
+2133,2025-05-24,Cartão de Crédito
+2134,2025-05-24,Pix
+2135,2025-05-24,Cartão de Débito
+2136,2025-05-24,Pix
+2137,2025-05-25,Cartão de Crédito
+2138,2025-05-25,Cartão de Débito
+2139,2025-05-25,Cartão de Crédito
+2140,2025-05-25,Cartão de Crédito
+2141,2025-05-25,Pix
+2142,2025-05-25,Pix
+2143,2025-05-25,Pix
+2144,2025-05-25,Cartão de Débito
+2145,2025-05-25,Cartão de Débito
+2146,2025-05-25,Cartão de Débito
+2147,2025-05-25,Dinheiro
+2148,2025-05-25,Cartão de Crédito
+2149,2025-05-25,Dinheiro
+2150,2025-05-25,Cartão de Débito
+2151,2025-05-25,Pix
+2152,2025-05-25,Pix
+2153,2025-05-25,Pix
+2154,2025-05-25,Cartão de Débito
+2155,2025-05-25,Cartão de Crédito
+2156,2025-05-25,Cartão de Crédito
+2157,2025-05-25,Cartão de Crédito
+2158,2025-05-25,Cartão de Débito
+2159,2025-05-25,Dinheiro
+2160,2025-05-25,Pix
+2161,2025-05-25,Cartão de Débito
+2162,2025-05-27,Cartão de Crédito
+2163,2025-05-27,Cartão de Débito
+2164,2025-05-27,Cartão de Débito
+2165,2025-05-27,Cartão de Débito
+2166,2025-05-27,Cartão de Crédito
+2167,2025-05-27,Cartão de Crédito
+2168,2025-05-28,Dinheiro
+2169,2025-05-28,Dinheiro
+2170,2025-05-28,Cartão de Crédito
+2171,2025-05-28,Pix
+2172,2025-05-28,Pix
+2173,2025-05-28,Cartão de Débito
+2174,2025-05-28,Pix
+2175,2025-05-28,Pix
+2176,2025-05-29,Dinheiro
+2177,2025-05-29,Pix
+2178,2025-05-29,Cartão de Crédito
+2179,2025-05-29,Cartão de Débito
+2180,2025-05-29,Cartão de Crédito
+2181,2025-05-29,Cartão de Crédito
+2182,2025-05-29,Cartão de Débito
+2183,2025-05-29,Dinheiro
+2184,2025-05-29,Cartão de Crédito
+2185,2025-05-29,Dinheiro
+2186,2025-05-29,Pix
+2187,2025-05-29,Dinheiro
+2188,2025-05-30,Cartão de Crédito
+2189,2025-05-30,Pix
+2190,2025-05-30,Pix
+2191,2025-05-30,Cartão de Débito
+2192,2025-05-30,Cartão de Débito
+2193,2025-05-30,Dinheiro
+2194,2025-05-30,Pix
+2195,2025-05-30,Dinheiro
+2196,2025-05-30,Dinheiro
+2197,2025-05-30,Cartão de Crédito
+2198,2025-05-30,Pix
+2199,2025-05-30,Dinheiro
+2200,2025-05-30,Cartão de Crédito
+2201,2025-05-30,Dinheiro
+2202,2025-05-30,Cartão de Crédito
+2203,2025-05-30,Cartão de Débito
+2204,2025-05-31,Pix
+2205,2025-05-31,Cartão de Débito
+2206,2025-05-31,Dinheiro
+2207,2025-05-31,Cartão de Débito
+2208,2025-05-31,Cartão de Crédito
+2209,2025-05-31,Cartão de Débito
+2210,2025-05-31,Cartão de Débito
+2211,2025-05-31,Dinheiro
+2212,2025-05-31,Cartão de Débito
+2213,2025-05-31,Cartão de Débito
+2214,2025-05-31,Dinheiro
+2215,2025-05-31,Cartão de Crédito
+2216,2025-05-31,Pix
+2217,2025-05-31,Pix
+2218,2025-05-31,Pix
+2219,2025-05-31,Cartão de Crédito
+2220,2025-05-31,Pix
+2221,2025-05-31,Pix
+2222,2025-05-31,Pix
+2223,2025-05-31,Cartão de Crédito
+2224,2025-05-31,Cartão de Crédito
+2225,2025-05-31,Cartão de Débito
+2226,2025-05-31,Cartão de Crédito
+2227,2025-05-31,Pix
+2228,2025-05-31,Pix
+2229,2025-05-31,Pix
+2230,2025-05-31,Pix
+2231,2025-05-31,Pix
+2232,2025-05-31,Pix
+2233,2025-05-31,Pix
+2234,2025-05-31,Dinheiro
+2235,2025-05-31,Cartão de Débito
+2236,2025-06-01,Cartão de Crédito
+2237,2025-06-01,Cartão de Crédito
+2238,2025-06-01,Cartão de Débito
+2239,2025-06-01,Pix
+2240,2025-06-01,Pix
+2241,2025-06-01,Cartão de Débito
+2242,2025-06-01,Cartão de Débito
+2243,2025-06-01,Cartão de Crédito
+2244,2025-06-01,Cartão de Crédito
+2245,2025-06-01,Cartão de Crédito
+2246,2025-06-01,Pix
+2247,2025-06-01,Pix
+2248,2025-06-01,Pix
+2249,2025-06-01,Cartão de Crédito
+2250,2025-06-01,Cartão de Débito
+2251,2025-06-01,Cartão de Débito
+2252,2025-06-01,Cartão de Crédito
+2253,2025-06-01,Pix
+2254,2025-06-01,Cartão de Crédito
+2255,2025-06-01,Cartão de Débito
+2256,2025-06-01,Cartão de Débito
+2257,2025-06-01,Pix
+2258,2025-06-01,Cartão de Crédito
+2259,2025-06-01,Pix
+2260,2025-06-03,Pix
+2261,2025-06-03,Cartão de Crédito
+2262,2025-06-03,Pix
+2263,2025-06-03,Cartão de Crédito
+2264,2025-06-03,Pix
+2265,2025-06-03,Pix
+2266,2025-06-04,Pix
+2267,2025-06-04,Pix
+2268,2025-06-04,Cartão de Débito
+2269,2025-06-04,Pix
+2270,2025-06-04,Cartão de Crédito
+2271,2025-06-04,Dinheiro
+2272,2025-06-04,Pix
+2273,2025-06-04,Cartão de Débito
+2274,2025-06-04,Cartão de Crédito
+2275,2025-06-04,Cartão de Crédito
+2276,2025-06-04,Cartão de Crédito
+2277,2025-06-05,Pix
+2278,2025-06-05,Pix
+2279,2025-06-05,Cartão de Crédito
+2280,2025-06-05,Cartão de Débito
+2281,2025-06-05,Dinheiro
+2282,2025-06-05,Cartão de Crédito
+2283,2025-06-05,Pix
+2284,2025-06-05,Pix
+2285,2025-06-05,Cartão de Débito
+2286,2025-06-05,Cartão de Crédito
+2287,2025-06-05,Cartão de Crédito
+2288,2025-06-05,Cartão de Débito
+2289,2025-06-05,Cartão de Crédito
+2290,2025-06-06,Pix
+2291,2025-06-06,Cartão de Crédito
+2292,2025-06-06,Cartão de Débito
+2293,2025-06-06,Cartão de Crédito
+2294,2025-06-06,Dinheiro
+2295,2025-06-06,Cartão de Débito
+2296,2025-06-06,Cartão de Débito
+2297,2025-06-06,Dinheiro
+2298,2025-06-06,Pix
+2299,2025-06-06,Cartão de Crédito
+2300,2025-06-06,Pix
+2301,2025-06-06,Cartão de Débito
+2302,2025-06-06,Pix
+2303,2025-06-06,Dinheiro
+2304,2025-06-06,Cartão de Débito
+2305,2025-06-06,Pix
+2306,2025-06-06,Dinheiro
+2307,2025-06-06,Dinheiro
+2308,2025-06-06,Pix
+2309,2025-06-06,Cartão de Crédito
+2310,2025-06-07,Cartão de Crédito
+2311,2025-06-07,Dinheiro
+2312,2025-06-07,Pix
+2313,2025-06-07,Cartão de Débito
+2314,2025-06-07,Pix
+2315,2025-06-07,Pix
+2316,2025-06-07,Pix
+2317,2025-06-07,Cartão de Crédito
+2318,2025-06-07,Pix
+2319,2025-06-07,Cartão de Débito
+2320,2025-06-07,Pix
+2321,2025-06-07,Cartão de Débito
+2322,2025-06-07,Pix
+2323,2025-06-07,Cartão de Crédito
+2324,2025-06-07,Cartão de Crédito
+2325,2025-06-07,Pix
+2326,2025-06-07,Cartão de Crédito
+2327,2025-06-07,Cartão de Débito
+2328,2025-06-07,Cartão de Débito
+2329,2025-06-07,Cartão de Crédito
+2330,2025-06-07,Pix
+2331,2025-06-07,Pix
+2332,2025-06-07,Pix
+2333,2025-06-07,Pix
+2334,2025-06-07,Cartão de Débito
+2335,2025-06-07,Cartão de Crédito
+2336,2025-06-07,Pix
+2337,2025-06-07,Pix
+2338,2025-06-07,Cartão de Crédito
+2339,2025-06-07,Cartão de Crédito
+2340,2025-06-07,Pix
+2341,2025-06-07,Pix
+2342,2025-06-08,Cartão de Débito
+2343,2025-06-08,Cartão de Débito
+2344,2025-06-08,Pix
+2345,2025-06-08,Dinheiro
+2346,2025-06-08,Cartão de Débito
+2347,2025-06-08,Pix
+2348,2025-06-08,Dinheiro
+2349,2025-06-08,Cartão de Débito
+2350,2025-06-08,Cartão de Crédito
+2351,2025-06-08,Cartão de Débito
+2352,2025-06-08,Pix
+2353,2025-06-08,Cartão de Crédito
+2354,2025-06-08,Cartão de Débito
+2355,2025-06-08,Cartão de Débito
+2356,2025-06-08,Cartão de Débito
+2357,2025-06-08,Cartão de Débito
+2358,2025-06-08,Pix
+2359,2025-06-08,Pix
+2360,2025-06-08,Pix
+2361,2025-06-10,Cartão de Crédito
+2362,2025-06-10,Cartão de Débito
+2363,2025-06-10,Pix
+2364,2025-06-10,Cartão de Débito
+2365,2025-06-11,Pix
+2366,2025-06-11,Dinheiro
+2367,2025-06-11,Dinheiro
+2368,2025-06-11,Cartão de Débito
+2369,2025-06-11,Cartão de Crédito
+2370,2025-06-11,Cartão de Débito
+2371,2025-06-11,Pix
+2372,2025-06-11,Pix
+2373,2025-06-11,Pix
+2374,2025-06-11,Cartão de Débito
+2375,2025-06-12,Cartão de Débito
+2376,2025-06-12,Pix
+2377,2025-06-12,Cartão de Débito
+2378,2025-06-12,Pix
+2379,2025-06-12,Pix
+2380,2025-06-12,Cartão de Crédito
+2381,2025-06-12,Cartão de Débito
+2382,2025-06-12,Pix
+2383,2025-06-12,Cartão de Débito
+2384,2025-06-13,Pix
+2385,2025-06-13,Cartão de Débito
+2386,2025-06-13,Pix
+2387,2025-06-13,Pix
+2388,2025-06-13,Pix
+2389,2025-06-13,Dinheiro
+2390,2025-06-13,Cartão de Débito
+2391,2025-06-13,Cartão de Débito
+2392,2025-06-13,Cartão de Débito
+2393,2025-06-13,Cartão de Débito
+2394,2025-06-13,Pix
+2395,2025-06-13,Pix
+2396,2025-06-13,Cartão de Débito
+2397,2025-06-13,Cartão de Crédito
+2398,2025-06-13,Pix
+2399,2025-06-13,Cartão de Débito
+2400,2025-06-14,Cartão de Crédito
+2401,2025-06-14,Cartão de Crédito
+2402,2025-06-14,Pix
+2403,2025-06-14,Cartão de Débito
+2404,2025-06-14,Cartão de Débito
+2405,2025-06-14,Cartão de Crédito
+2406,2025-06-14,Cartão de Crédito
+2407,2025-06-14,Cartão de Crédito
+2408,2025-06-14,Cartão de Crédito
+2409,2025-06-14,Cartão de Débito
+2410,2025-06-14,Dinheiro
+2411,2025-06-14,Cartão de Débito
+2412,2025-06-14,Pix
+2413,2025-06-14,Cartão de Crédito
+2414,2025-06-14,Pix
+2415,2025-06-14,Cartão de Crédito
+2416,2025-06-14,Cartão de Crédito
+2417,2025-06-14,Cartão de Débito
+2418,2025-06-14,Pix
+2419,2025-06-14,Pix
+2420,2025-06-14,Cartão de Crédito
+2421,2025-06-14,Pix
+2422,2025-06-14,Pix
+2423,2025-06-14,Cartão de Crédito
+2424,2025-06-14,Cartão de Crédito
+2425,2025-06-14,Cartão de Débito
+2426,2025-06-14,Cartão de Crédito
+2427,2025-06-14,Pix
+2428,2025-06-14,Dinheiro
+2429,2025-06-15,Cartão de Débito
+2430,2025-06-15,Cartão de Crédito
+2431,2025-06-15,Cartão de Crédito
+2432,2025-06-15,Cartão de Crédito
+2433,2025-06-15,Cartão de Débito
+2434,2025-06-15,Cartão de Débito
+2435,2025-06-15,Dinheiro
+2436,2025-06-15,Cartão de Débito
+2437,2025-06-15,Cartão de Débito
+2438,2025-06-15,Dinheiro
+2439,2025-06-15,Pix
+2440,2025-06-15,Cartão de Débito
+2441,2025-06-15,Pix
+2442,2025-06-15,Pix
+2443,2025-06-15,Pix
+2444,2025-06-15,Pix
+2445,2025-06-15,Pix
+2446,2025-06-15,Pix
+2447,2025-06-15,Cartão de Crédito
+2448,2025-06-15,Cartão de Débito
+2449,2025-06-15,Cartão de Débito
+2450,2025-06-15,Dinheiro
+2451,2025-06-15,Dinheiro
+2452,2025-06-15,Pix
+2453,2025-06-17,Cartão de Crédito
+2454,2025-06-17,Cartão de Débito
+2455,2025-06-17,Cartão de Crédito
+2456,2025-06-17,Cartão de Crédito
+2457,2025-06-17,Dinheiro
+2458,2025-06-17,Cartão de Débito
+2459,2025-06-18,Pix
+2460,2025-06-18,Cartão de Crédito
+2461,2025-06-18,Cartão de Débito
+2462,2025-06-18,Pix
+2463,2025-06-18,Pix
+2464,2025-06-18,Cartão de Crédito
+2465,2025-06-18,Pix
+2466,2025-06-18,Pix
+2467,2025-06-18,Cartão de Crédito
+2468,2025-06-18,Cartão de Crédito
+2469,2025-06-19,Cartão de Débito
+2470,2025-06-19,Pix
+2471,2025-06-19,Cartão de Crédito
+2472,2025-06-19,Cartão de Débito
+2473,2025-06-19,Pix
+2474,2025-06-19,Cartão de Crédito
+2475,2025-06-19,Pix
+2476,2025-06-19,Cartão de Débito
+2477,2025-06-19,Pix
+2478,2025-06-19,Pix
+2479,2025-06-19,Dinheiro
+2480,2025-06-20,Pix
+2481,2025-06-20,Cartão de Débito
+2482,2025-06-20,Dinheiro
+2483,2025-06-20,Cartão de Crédito
+2484,2025-06-20,Pix
+2485,2025-06-20,Cartão de Crédito
+2486,2025-06-20,Dinheiro
+2487,2025-06-20,Cartão de Crédito
+2488,2025-06-20,Cartão de Crédito
+2489,2025-06-20,Cartão de Crédito
+2490,2025-06-20,Cartão de Débito
+2491,2025-06-20,Pix
+2492,2025-06-20,Pix
+2493,2025-06-20,Pix
+2494,2025-06-20,Cartão de Crédito
+2495,2025-06-20,Pix
+2496,2025-06-20,Cartão de Crédito
+2497,2025-06-20,Pix
+2498,2025-06-21,Cartão de Débito
+2499,2025-06-21,Pix
+2500,2025-06-21,Cartão de Débito
+2501,2025-06-21,Pix
+2502,2025-06-21,Pix
+2503,2025-06-21,Cartão de Débito
+2504,2025-06-21,Cartão de Crédito
+2505,2025-06-21,Cartão de Débito
+2506,2025-06-21,Pix
+2507,2025-06-21,Pix
+2508,2025-06-21,Pix
+2509,2025-06-21,Pix
+2510,2025-06-21,Pix
+2511,2025-06-21,Cartão de Crédito
+2512,2025-06-21,Pix
+2513,2025-06-21,Cartão de Débito
+2514,2025-06-21,Cartão de Débito
+2515,2025-06-21,Dinheiro
+2516,2025-06-21,Pix
+2517,2025-06-21,Pix
+2518,2025-06-21,Cartão de Débito
+2519,2025-06-21,Cartão de Crédito
+2520,2025-06-21,Pix
+2521,2025-06-21,Pix
+2522,2025-06-21,Dinheiro
+2523,2025-06-21,Pix
+2524,2025-06-21,Pix
+2525,2025-06-21,Cartão de Crédito
+2526,2025-06-21,Cartão de Crédito
+2527,2025-06-21,Pix
+2528,2025-06-21,Cartão de Débito
+2529,2025-06-21,Pix
+2530,2025-06-21,Pix
+2531,2025-06-21,Pix
+2532,2025-06-21,Pix
+2533,2025-06-21,Pix
+2534,2025-06-21,Pix
+2535,2025-06-21,Cartão de Débito
+2536,2025-06-21,Cartão de Débito
+2537,2025-06-22,Dinheiro
+2538,2025-06-22,Dinheiro
+2539,2025-06-22,Pix
+2540,2025-06-22,Pix
+2541,2025-06-22,Pix
+2542,2025-06-22,Cartão de Crédito
+2543,2025-06-22,Pix
+2544,2025-06-22,Cartão de Crédito
+2545,2025-06-22,Cartão de Débito
+2546,2025-06-22,Pix
+2547,2025-06-22,Cartão de Crédito
+2548,2025-06-22,Pix
+2549,2025-06-22,Pix
+2550,2025-06-22,Cartão de Débito
+2551,2025-06-22,Pix
+2552,2025-06-22,Cartão de Crédito
+2553,2025-06-22,Cartão de Débito
+2554,2025-06-22,Cartão de Crédito
+2555,2025-06-22,Pix
+2556,2025-06-22,Cartão de Crédito
+2557,2025-06-22,Pix
+2558,2025-06-22,Dinheiro
+2559,2025-06-22,Dinheiro
+2560,2025-06-22,Pix
+2561,2025-06-22,Cartão de Débito
+2562,2025-06-24,Pix
+2563,2025-06-24,Cartão de Crédito
+2564,2025-06-24,Cartão de Débito
+2565,2025-06-24,Cartão de Crédito
+2566,2025-06-24,Cartão de Crédito
+2567,2025-06-25,Pix
+2568,2025-06-25,Cartão de Débito
+2569,2025-06-25,Pix
+2570,2025-06-25,Pix
+2571,2025-06-25,Pix
+2572,2025-06-25,Pix
+2573,2025-06-25,Pix
+2574,2025-06-26,Cartão de Crédito
+2575,2025-06-26,Dinheiro
+2576,2025-06-26,Cartão de Crédito
+2577,2025-06-26,Pix
+2578,2025-06-26,Pix
+2579,2025-06-26,Dinheiro
+2580,2025-06-26,Pix
+2581,2025-06-26,Cartão de Débito
+2582,2025-06-26,Cartão de Crédito
+2583,2025-06-26,Pix
+2584,2025-06-26,Pix
+2585,2025-06-26,Pix
+2586,2025-06-26,Cartão de Débito
+2587,2025-06-27,Cartão de Crédito
+2588,2025-06-27,Pix
+2589,2025-06-27,Pix
+2590,2025-06-27,Cartão de Crédito
+2591,2025-06-27,Pix
+2592,2025-06-27,Pix
+2593,2025-06-27,Cartão de Débito
+2594,2025-06-27,Cartão de Crédito
+2595,2025-06-27,Cartão de Crédito
+2596,2025-06-27,Pix
+2597,2025-06-27,Pix
+2598,2025-06-27,Cartão de Crédito
+2599,2025-06-27,Cartão de Débito
+2600,2025-06-27,Cartão de Crédito
+2601,2025-06-27,Cartão de Débito
+2602,2025-06-28,Cartão de Débito
+2603,2025-06-28,Cartão de Crédito
+2604,2025-06-28,Pix
+2605,2025-06-28,Pix
+2606,2025-06-28,Pix
+2607,2025-06-28,Cartão de Débito
+2608,2025-06-28,Pix
+2609,2025-06-28,Cartão de Débito
+2610,2025-06-28,Pix
+2611,2025-06-28,Cartão de Crédito
+2612,2025-06-28,Pix
+2613,2025-06-28,Pix
+2614,2025-06-28,Pix
+2615,2025-06-28,Cartão de Débito
+2616,2025-06-28,Cartão de Crédito
+2617,2025-06-28,Cartão de Crédito
+2618,2025-06-28,Pix
+2619,2025-06-28,Cartão de Débito
+2620,2025-06-28,Pix
+2621,2025-06-28,Cartão de Débito
+2622,2025-06-28,Cartão de Débito
+2623,2025-06-28,Pix
+2624,2025-06-28,Pix
+2625,2025-06-28,Pix
+2626,2025-06-28,Pix
+2627,2025-06-28,Cartão de Débito
+2628,2025-06-28,Pix
+2629,2025-06-28,Cartão de Crédito
+2630,2025-06-28,Cartão de Crédito
+2631,2025-06-28,Cartão de Crédito
+2632,2025-06-28,Cartão de Débito
+2633,2025-06-28,Pix
+2634,2025-06-28,Cartão de Débito
+2635,2025-06-29,Cartão de Débito
+2636,2025-06-29,Cartão de Débito
+2637,2025-06-29,Cartão de Débito
+2638,2025-06-29,Cartão de Crédito
+2639,2025-06-29,Cartão de Crédito
+2640,2025-06-29,Cartão de Débito
+2641,2025-06-29,Cartão de Débito
+2642,2025-06-29,Cartão de Débito
+2643,2025-06-29,Pix
+2644,2025-06-29,Pix
+2645,2025-06-29,Cartão de Crédito
+2646,2025-06-29,Pix
+2647,2025-06-29,Dinheiro
+2648,2025-06-29,Cartão de Débito
+2649,2025-06-29,Pix
+2650,2025-06-29,Dinheiro
+2651,2025-06-29,Pix
+2652,2025-06-29,Cartão de Crédito
+2653,2025-06-29,Cartão de Crédito
+2654,2025-06-29,Cartão de Débito
+2655,2025-06-29,Cartão de Crédito
+2656,2025-07-01,Dinheiro
+2657,2025-07-01,Cartão de Crédito
+2658,2025-07-01,Cartão de Crédito
+2659,2025-07-01,Pix
+2660,2025-07-01,Cartão de Débito
+2661,2025-07-02,Pix
+2662,2025-07-02,Pix
+2663,2025-07-02,Cartão de Débito
+2664,2025-07-03,Dinheiro
+2665,2025-07-03,Pix
+2666,2025-07-03,Pix
+2667,2025-07-03,Dinheiro
+2668,2025-07-03,Cartão de Débito
+2669,2025-07-03,Pix
+2670,2025-07-03,Pix
+2671,2025-07-03,Pix
+2672,2025-07-03,Cartão de Débito
+2673,2025-07-03,Cartão de Crédito
+2674,2025-07-04,Pix
+2675,2025-07-04,Dinheiro
+2676,2025-07-04,Cartão de Crédito
+2677,2025-07-04,Pix
+2678,2025-07-04,Pix
+2679,2025-07-04,Cartão de Débito
+2680,2025-07-04,Pix
+2681,2025-07-04,Cartão de Débito
+2682,2025-07-04,Cartão de Crédito
+2683,2025-07-04,Cartão de Débito
+2684,2025-07-04,Pix
+2685,2025-07-04,Dinheiro
+2686,2025-07-04,Cartão de Débito
+2687,2025-07-04,Pix
+2688,2025-07-04,Dinheiro
+2689,2025-07-04,Cartão de Débito
+2690,2025-07-04,Pix
+2691,2025-07-04,Pix
+2692,2025-07-04,Pix
+2693,2025-07-04,Pix
+2694,2025-07-04,Pix
+2695,2025-07-05,Pix
+2696,2025-07-05,Cartão de Crédito
+2697,2025-07-05,Pix
+2698,2025-07-05,Cartão de Crédito
+2699,2025-07-05,Pix
+2700,2025-07-05,Pix
+2701,2025-07-05,Cartão de Crédito
+2702,2025-07-05,Dinheiro
+2703,2025-07-05,Cartão de Débito
+2704,2025-07-05,Pix
+2705,2025-07-05,Cartão de Débito
+2706,2025-07-05,Pix
+2707,2025-07-05,Pix
+2708,2025-07-05,Cartão de Débito
+2709,2025-07-05,Cartão de Débito
+2710,2025-07-05,Cartão de Crédito
+2711,2025-07-05,Pix
+2712,2025-07-05,Pix
+2713,2025-07-05,Dinheiro
+2714,2025-07-05,Pix
+2715,2025-07-05,Pix
+2716,2025-07-05,Cartão de Débito
+2717,2025-07-05,Dinheiro
+2718,2025-07-05,Pix
+2719,2025-07-05,Pix
+2720,2025-07-05,Cartão de Crédito
+2721,2025-07-05,Pix
+2722,2025-07-05,Pix
+2723,2025-07-05,Cartão de Débito
+2724,2025-07-05,Cartão de Débito
+2725,2025-07-05,Cartão de Crédito
+2726,2025-07-05,Cartão de Crédito
+2727,2025-07-06,Pix
+2728,2025-07-06,Pix
+2729,2025-07-06,Cartão de Crédito
+2730,2025-07-06,Pix
+2731,2025-07-06,Cartão de Crédito
+2732,2025-07-06,Pix
+2733,2025-07-06,Pix
+2734,2025-07-06,Cartão de Débito
+2735,2025-07-06,Pix
+2736,2025-07-06,Pix
+2737,2025-07-06,Cartão de Crédito
+2738,2025-07-06,Cartão de Crédito
+2739,2025-07-06,Pix
+2740,2025-07-06,Pix
+2741,2025-07-06,Cartão de Débito
+2742,2025-07-06,Cartão de Débito
+2743,2025-07-06,Pix
+2744,2025-07-06,Cartão de Crédito
+2745,2025-07-06,Pix
+2746,2025-07-06,Cartão de Crédito
+2747,2025-07-08,Cartão de Crédito
+2748,2025-07-08,Cartão de Crédito
+2749,2025-07-08,Cartão de Crédito
+2750,2025-07-08,Cartão de Débito
+2751,2025-07-08,Pix
+2752,2025-07-08,Cartão de Crédito
+2753,2025-07-08,Cartão de Crédito
+2754,2025-07-08,Cartão de Débito
+2755,2025-07-08,Cartão de Débito
+2756,2025-07-08,Cartão de Crédito
+2757,2025-07-09,Dinheiro
+2758,2025-07-09,Dinheiro
+2759,2025-07-09,Pix
+2760,2025-07-09,Cartão de Crédito
+2761,2025-07-09,Pix
+2762,2025-07-09,Cartão de Débito
+2763,2025-07-10,Pix
+2764,2025-07-10,Dinheiro
+2765,2025-07-10,Cartão de Crédito
+2766,2025-07-10,Pix
+2767,2025-07-10,Cartão de Crédito
+2768,2025-07-10,Cartão de Crédito
+2769,2025-07-10,Pix
+2770,2025-07-10,Cartão de Débito
+2771,2025-07-10,Cartão de Crédito
+2772,2025-07-11,Cartão de Crédito
+2773,2025-07-11,Cartão de Débito
+2774,2025-07-11,Pix
+2775,2025-07-11,Pix
+2776,2025-07-11,Pix
+2777,2025-07-11,Cartão de Débito
+2778,2025-07-11,Pix
+2779,2025-07-11,Cartão de Crédito
+2780,2025-07-11,Dinheiro
+2781,2025-07-11,Pix
+2782,2025-07-11,Pix
+2783,2025-07-11,Cartão de Crédito
+2784,2025-07-11,Cartão de Crédito
+2785,2025-07-11,Cartão de Débito
+2786,2025-07-11,Cartão de Débito
+2787,2025-07-11,Cartão de Crédito
+2788,2025-07-11,Pix
+2789,2025-07-11,Dinheiro
+2790,2025-07-12,Cartão de Crédito
+2791,2025-07-12,Dinheiro
+2792,2025-07-12,Dinheiro
+2793,2025-07-12,Dinheiro
+2794,2025-07-12,Cartão de Débito
+2795,2025-07-12,Cartão de Débito
+2796,2025-07-12,Cartão de Débito
+2797,2025-07-12,Cartão de Crédito
+2798,2025-07-12,Cartão de Crédito
+2799,2025-07-12,Pix
+2800,2025-07-12,Pix
+2801,2025-07-12,Cartão de Crédito
+2802,2025-07-12,Pix
+2803,2025-07-12,Cartão de Débito
+2804,2025-07-12,Pix
+2805,2025-07-12,Cartão de Crédito
+2806,2025-07-12,Cartão de Débito
+2807,2025-07-12,Cartão de Débito
+2808,2025-07-12,Pix
+2809,2025-07-12,Cartão de Débito
+2810,2025-07-12,Pix
+2811,2025-07-12,Pix
+2812,2025-07-12,Pix
+2813,2025-07-12,Dinheiro
+2814,2025-07-12,Pix
+2815,2025-07-12,Pix
+2816,2025-07-12,Cartão de Débito
+2817,2025-07-12,Pix
+2818,2025-07-12,Cartão de Débito
+2819,2025-07-12,Cartão de Débito
+2820,2025-07-13,Cartão de Débito
+2821,2025-07-13,Cartão de Débito
+2822,2025-07-13,Cartão de Débito
+2823,2025-07-13,Cartão de Débito
+2824,2025-07-13,Pix
+2825,2025-07-13,Pix
+2826,2025-07-13,Cartão de Crédito
+2827,2025-07-13,Cartão de Débito
+2828,2025-07-13,Pix
+2829,2025-07-13,Cartão de Crédito
+2830,2025-07-13,Cartão de Débito
+2831,2025-07-13,Cartão de Débito
+2832,2025-07-13,Cartão de Crédito
+2833,2025-07-13,Pix
+2834,2025-07-13,Cartão de Crédito
+2835,2025-07-13,Cartão de Débito
+2836,2025-07-13,Cartão de Crédito
+2837,2025-07-15,Cartão de Débito
+2838,2025-07-15,Cartão de Débito
+2839,2025-07-16,Pix
+2840,2025-07-16,Pix
+2841,2025-07-16,Cartão de Débito
+2842,2025-07-16,Cartão de Crédito
+2843,2025-07-16,Cartão de Débito
+2844,2025-07-17,Cartão de Crédito
+2845,2025-07-17,Pix
+2846,2025-07-17,Cartão de Débito
+2847,2025-07-17,Pix
+2848,2025-07-17,Cartão de Crédito
+2849,2025-07-17,Pix
+2850,2025-07-18,Pix
+2851,2025-07-18,Cartão de Crédito
+2852,2025-07-18,Pix
+2853,2025-07-18,Dinheiro
+2854,2025-07-18,Pix
+2855,2025-07-18,Pix
+2856,2025-07-18,Cartão de Crédito
+2857,2025-07-18,Pix
+2858,2025-07-18,Cartão de Crédito
+2859,2025-07-18,Cartão de Crédito
+2860,2025-07-18,Pix
+2861,2025-07-18,Cartão de Crédito
+2862,2025-07-18,Cartão de Crédito
+2863,2025-07-18,Cartão de Crédito
+2864,2025-07-18,Cartão de Débito
+2865,2025-07-18,Dinheiro
+2866,2025-07-18,Pix
+2867,2025-07-19,Pix
+2868,2025-07-19,Cartão de Débito
+2869,2025-07-19,Cartão de Débito
+2870,2025-07-19,Pix
+2871,2025-07-19,Cartão de Débito
+2872,2025-07-19,Pix
+2873,2025-07-19,Pix
+2874,2025-07-19,Pix
+2875,2025-07-19,Cartão de Débito
+2876,2025-07-19,Pix
+2877,2025-07-19,Dinheiro
+2878,2025-07-19,Cartão de Débito
+2879,2025-07-19,Dinheiro
+2880,2025-07-19,Pix
+2881,2025-07-19,Cartão de Crédito
+2882,2025-07-19,Dinheiro
+2883,2025-07-19,Pix
+2884,2025-07-19,Cartão de Débito
+2885,2025-07-19,Cartão de Crédito
+2886,2025-07-19,Pix
+2887,2025-07-19,Cartão de Crédito
+2888,2025-07-19,Cartão de Crédito
+2889,2025-07-19,Cartão de Débito
+2890,2025-07-19,Pix
+2891,2025-07-19,Cartão de Crédito
+2892,2025-07-19,Cartão de Crédito
+2893,2025-07-19,Pix
+2894,2025-07-20,Cartão de Débito
+2895,2025-07-20,Dinheiro
+2896,2025-07-20,Pix
+2897,2025-07-20,Pix
+2898,2025-07-20,Pix
+2899,2025-07-20,Pix
+2900,2025-07-20,Pix
+2901,2025-07-20,Cartão de Crédito
+2902,2025-07-20,Dinheiro
+2903,2025-07-20,Cartão de Débito
+2904,2025-07-20,Pix
+2905,2025-07-20,Dinheiro
+2906,2025-07-20,Pix
+2907,2025-07-20,Dinheiro
+2908,2025-07-20,Dinheiro
+2909,2025-07-20,Cartão de Crédito
+2910,2025-07-20,Pix
+2911,2025-07-20,Dinheiro
+2912,2025-07-20,Cartão de Crédito
+2913,2025-07-20,Cartão de Débito
+2914,2025-07-20,Cartão de Débito
+2915,2025-07-20,Pix
+2916,2025-07-20,Pix
+2917,2025-07-22,Cartão de Débito
+2918,2025-07-22,Pix
+2919,2025-07-22,Cartão de Débito
+2920,2025-07-22,Cartão de Crédito
+2921,2025-07-22,Pix
+2922,2025-07-22,Pix
+2923,2025-07-23,Pix
+2924,2025-07-23,Dinheiro
+2925,2025-07-23,Cartão de Crédito
+2926,2025-07-23,Pix
+2927,2025-07-23,Cartão de Crédito
+2928,2025-07-23,Cartão de Débito
+2929,2025-07-23,Pix
+2930,2025-07-24,Cartão de Crédito
+2931,2025-07-24,Pix
+2932,2025-07-24,Pix
+2933,2025-07-24,Cartão de Crédito
+2934,2025-07-24,Cartão de Crédito
+2935,2025-07-24,Cartão de Crédito
+2936,2025-07-24,Cartão de Crédito
+2937,2025-07-24,Cartão de Débito
+2938,2025-07-25,Dinheiro
+2939,2025-07-25,Pix
+2940,2025-07-25,Cartão de Crédito
+2941,2025-07-25,Pix
+2942,2025-07-25,Pix
+2943,2025-07-25,Pix
+2944,2025-07-25,Dinheiro
+2945,2025-07-25,Pix
+2946,2025-07-25,Pix
+2947,2025-07-25,Cartão de Débito
+2948,2025-07-25,Cartão de Crédito
+2949,2025-07-26,Pix
+2950,2025-07-26,Pix
+2951,2025-07-26,Cartão de Crédito
+2952,2025-07-26,Dinheiro
+2953,2025-07-26,Cartão de Crédito
+2954,2025-07-26,Pix
+2955,2025-07-26,Pix
+2956,2025-07-26,Pix
+2957,2025-07-26,Cartão de Crédito
+2958,2025-07-26,Cartão de Débito
+2959,2025-07-26,Cartão de Débito
+2960,2025-07-26,Cartão de Crédito
+2961,2025-07-26,Pix
+2962,2025-07-26,Cartão de Crédito
+2963,2025-07-26,Pix
+2964,2025-07-26,Pix
+2965,2025-07-26,Dinheiro
+2966,2025-07-26,Pix
+2967,2025-07-26,Pix
+2968,2025-07-26,Cartão de Débito
+2969,2025-07-26,Pix
+2970,2025-07-26,Cartão de Crédito
+2971,2025-07-26,Cartão de Débito
+2972,2025-07-26,Cartão de Crédito
+2973,2025-07-26,Pix
+2974,2025-07-26,Cartão de Crédito
+2975,2025-07-26,Dinheiro
+2976,2025-07-27,Cartão de Débito
+2977,2025-07-27,Pix
+2978,2025-07-27,Cartão de Débito
+2979,2025-07-27,Cartão de Débito
+2980,2025-07-27,Pix
+2981,2025-07-27,Pix
+2982,2025-07-27,Cartão de Débito
+2983,2025-07-27,Pix
+2984,2025-07-27,Cartão de Crédito
+2985,2025-07-27,Cartão de Débito
+2986,2025-07-27,Cartão de Crédito
+2987,2025-07-27,Pix
+2988,2025-07-27,Pix
+2989,2025-07-27,Dinheiro
+2990,2025-07-27,Cartão de Crédito
+2991,2025-07-27,Cartão de Débito
+2992,2025-07-27,Pix
+2993,2025-07-27,Pix
+2994,2025-07-27,Cartão de Débito
+2995,2025-07-27,Pix
+2996,2025-07-29,Cartão de Crédito
+2997,2025-07-29,Pix
+2998,2025-07-29,Cartão de Crédito
+2999,2025-07-29,Cartão de Débito
+3000,2025-07-29,Cartão de Débito
+3001,2025-07-30,Pix
+3002,2025-07-30,Pix
+3003,2025-07-30,Cartão de Crédito
+3004,2025-07-30,Cartão de Crédito
+3005,2025-07-30,Cartão de Crédito
+3006,2025-07-31,Cartão de Débito
+3007,2025-07-31,Pix
+3008,2025-07-31,Pix
+3009,2025-07-31,Cartão de Débito
+3010,2025-07-31,Dinheiro
+3011,2025-07-31,Cartão de Crédito
+3012,2025-07-31,Cartão de Débito
+3013,2025-07-31,Cartão de Crédito
+3014,2025-08-01,Cartão de Crédito
+3015,2025-08-01,Pix
+3016,2025-08-01,Pix
+3017,2025-08-01,Pix
+3018,2025-08-01,Cartão de Crédito
+3019,2025-08-01,Pix
+3020,2025-08-01,Cartão de Débito
+3021,2025-08-01,Cartão de Débito
+3022,2025-08-01,Cartão de Crédito
+3023,2025-08-01,Cartão de Crédito
+3024,2025-08-01,Pix
+3025,2025-08-01,Cartão de Débito
+3026,2025-08-01,Cartão de Crédito
+3027,2025-08-01,Cartão de Crédito
+3028,2025-08-01,Cartão de Débito
+3029,2025-08-01,Cartão de Crédito
+3030,2025-08-01,Cartão de Crédito
+3031,2025-08-01,Cartão de Débito
+3032,2025-08-01,Dinheiro
+3033,2025-08-01,Cartão de Crédito
+3034,2025-08-01,Pix
+3035,2025-08-01,Cartão de Crédito
+3036,2025-08-01,Cartão de Crédito
+3037,2025-08-01,Cartão de Débito
+3038,2025-08-01,Cartão de Crédito
+3039,2025-08-01,Pix
+3040,2025-08-01,Cartão de Crédito
+3041,2025-08-01,Pix
+3042,2025-08-01,Dinheiro
+3043,2025-08-01,Cartão de Débito
+3044,2025-08-01,Cartão de Crédito
+3045,2025-08-02,Dinheiro
+3046,2025-08-02,Pix
+3047,2025-08-02,Cartão de Débito
+3048,2025-08-02,Pix
+3049,2025-08-02,Cartão de Débito
+3050,2025-08-02,Cartão de Débito
+3051,2025-08-02,Cartão de Débito
+3052,2025-08-02,Cartão de Crédito
+3053,2025-08-02,Cartão de Débito
+3054,2025-08-02,Pix
+3055,2025-08-02,Cartão de Crédito
+3056,2025-08-02,Pix
+3057,2025-08-02,Pix
+3058,2025-08-02,Cartão de Crédito
+3059,2025-08-02,Cartão de Crédito
+3060,2025-08-02,Pix
+3061,2025-08-02,Cartão de Crédito
+3062,2025-08-02,Cartão de Débito
+3063,2025-08-02,Cartão de Débito
+3064,2025-08-02,Pix
+3065,2025-08-02,Pix
+3066,2025-08-02,Cartão de Crédito
+3067,2025-08-02,Pix
+3068,2025-08-02,Cartão de Crédito
+3069,2025-08-02,Pix
+3070,2025-08-02,Dinheiro
+3071,2025-08-02,Cartão de Débito
+3072,2025-08-02,Pix
+3073,2025-08-02,Cartão de Débito
+3074,2025-08-02,Pix
+3075,2025-08-02,Pix
+3076,2025-08-02,Pix
+3077,2025-08-02,Cartão de Crédito
+3078,2025-08-02,Dinheiro
+3079,2025-08-02,Pix
+3080,2025-08-02,Cartão de Crédito
+3081,2025-08-02,Cartão de Crédito
+3082,2025-08-02,Pix
+3083,2025-08-02,Pix
+3084,2025-08-02,Pix
+3085,2025-08-02,Cartão de Crédito
+3086,2025-08-03,Pix
+3087,2025-08-03,Cartão de Crédito
+3088,2025-08-03,Pix
+3089,2025-08-03,Dinheiro
+3090,2025-08-03,Dinheiro
+3091,2025-08-03,Cartão de Débito
+3092,2025-08-03,Cartão de Crédito
+3093,2025-08-03,Pix
+3094,2025-08-03,Cartão de Débito
+3095,2025-08-03,Cartão de Débito
+3096,2025-08-03,Cartão de Débito
+3097,2025-08-03,Pix
+3098,2025-08-03,Cartão de Débito
+3099,2025-08-03,Pix
+3100,2025-08-03,Cartão de Crédito
+3101,2025-08-03,Cartão de Crédito
+3102,2025-08-03,Dinheiro
+3103,2025-08-03,Pix
+3104,2025-08-03,Cartão de Débito
+3105,2025-08-03,Pix
+3106,2025-08-03,Cartão de Crédito
+3107,2025-08-03,Pix
+3108,2025-08-03,Cartão de Crédito
+3109,2025-08-03,Cartão de Débito
+3110,2025-08-03,Pix
+3111,2025-08-03,Pix
+3112,2025-08-03,Pix
+3113,2025-08-03,Pix
+3114,2025-08-03,Cartão de Crédito
+3115,2025-08-05,Cartão de Débito
+3116,2025-08-05,Pix
+3117,2025-08-05,Cartão de Crédito
+3118,2025-08-05,Cartão de Crédito
+3119,2025-08-05,Pix
+3120,2025-08-05,Cartão de Débito
+3121,2025-08-05,Cartão de Débito
+3122,2025-08-05,Cartão de Débito
+3123,2025-08-05,Pix
+3124,2025-08-05,Pix
+3125,2025-08-06,Pix
+3126,2025-08-06,Cartão de Débito
+3127,2025-08-06,Cartão de Crédito
+3128,2025-08-06,Cartão de Débito
+3129,2025-08-06,Pix
+3130,2025-08-06,Pix
+3131,2025-08-06,Dinheiro
+3132,2025-08-06,Cartão de Crédito
+3133,2025-08-06,Cartão de Crédito
+3134,2025-08-07,Dinheiro
+3135,2025-08-07,Pix
+3136,2025-08-07,Pix
+3137,2025-08-07,Cartão de Crédito
+3138,2025-08-07,Cartão de Débito
+3139,2025-08-07,Cartão de Crédito
+3140,2025-08-07,Cartão de Débito
+3141,2025-08-07,Cartão de Crédito
+3142,2025-08-07,Cartão de Crédito
+3143,2025-08-07,Pix
+3144,2025-08-07,Cartão de Débito
+3145,2025-08-07,Cartão de Crédito
+3146,2025-08-07,Cartão de Débito
+3147,2025-08-07,Pix
+3148,2025-08-07,Pix
+3149,2025-08-08,Cartão de Débito
+3150,2025-08-08,Cartão de Crédito
+3151,2025-08-08,Cartão de Débito
+3152,2025-08-08,Cartão de Débito
+3153,2025-08-08,Cartão de Crédito
+3154,2025-08-08,Pix
+3155,2025-08-08,Pix
+3156,2025-08-08,Pix
+3157,2025-08-08,Cartão de Débito
+3158,2025-08-08,Cartão de Débito
+3159,2025-08-08,Pix
+3160,2025-08-08,Cartão de Crédito
+3161,2025-08-08,Pix
+3162,2025-08-08,Cartão de Débito
+3163,2025-08-08,Pix
+3164,2025-08-08,Cartão de Crédito
+3165,2025-08-08,Cartão de Crédito
+3166,2025-08-08,Cartão de Crédito
+3167,2025-08-08,Cartão de Débito
+3168,2025-08-08,Cartão de Débito
+3169,2025-08-08,Pix
+3170,2025-08-08,Cartão de Débito
+3171,2025-08-09,Pix
+3172,2025-08-09,Pix
+3173,2025-08-09,Pix
+3174,2025-08-09,Pix
+3175,2025-08-09,Pix
+3176,2025-08-09,Cartão de Crédito
+3177,2025-08-09,Dinheiro
+3178,2025-08-09,Pix
+3179,2025-08-09,Cartão de Débito
+3180,2025-08-09,Pix
+3181,2025-08-09,Pix
+3182,2025-08-09,Cartão de Crédito
+3183,2025-08-09,Dinheiro
+3184,2025-08-09,Cartão de Crédito
+3185,2025-08-09,Pix
+3186,2025-08-09,Cartão de Crédito
+3187,2025-08-09,Pix
+3188,2025-08-09,Cartão de Crédito
+3189,2025-08-09,Pix
+3190,2025-08-09,Dinheiro
+3191,2025-08-09,Cartão de Débito
+3192,2025-08-09,Pix
+3193,2025-08-09,Pix
+3194,2025-08-09,Cartão de Crédito
+3195,2025-08-09,Cartão de Débito
+3196,2025-08-09,Dinheiro
+3197,2025-08-09,Cartão de Crédito
+3198,2025-08-09,Pix
+3199,2025-08-09,Cartão de Crédito
+3200,2025-08-09,Cartão de Débito
+3201,2025-08-09,Pix
+3202,2025-08-09,Cartão de Débito
+3203,2025-08-09,Cartão de Débito
+3204,2025-08-09,Pix
+3205,2025-08-10,Cartão de Crédito
+3206,2025-08-10,Cartão de Débito
+3207,2025-08-10,Cartão de Crédito
+3208,2025-08-10,Pix
+3209,2025-08-10,Cartão de Débito
+3210,2025-08-10,Pix
+3211,2025-08-10,Pix
+3212,2025-08-10,Cartão de Crédito
+3213,2025-08-10,Dinheiro
+3214,2025-08-10,Cartão de Crédito
+3215,2025-08-10,Pix
+3216,2025-08-10,Cartão de Débito
+3217,2025-08-10,Pix
+3218,2025-08-10,Pix
+3219,2025-08-10,Cartão de Crédito
+3220,2025-08-12,Cartão de Crédito
+3221,2025-08-12,Cartão de Débito
+3222,2025-08-12,Cartão de Crédito
+3223,2025-08-12,Cartão de Crédito
+3224,2025-08-12,Cartão de Débito
+3225,2025-08-12,Cartão de Débito
+3226,2025-08-12,Pix
+3227,2025-08-12,Pix
+3228,2025-08-13,Cartão de Crédito
+3229,2025-08-13,Cartão de Débito
+3230,2025-08-13,Cartão de Crédito
+3231,2025-08-13,Cartão de Crédito
+3232,2025-08-13,Cartão de Crédito
+3233,2025-08-13,Cartão de Débito
+3234,2025-08-13,Pix
+3235,2025-08-13,Pix
+3236,2025-08-13,Pix
+3237,2025-08-13,Pix
+3238,2025-08-13,Pix
+3239,2025-08-13,Dinheiro
+3240,2025-08-14,Pix
+3241,2025-08-14,Pix
+3242,2025-08-14,Pix
+3243,2025-08-14,Pix
+3244,2025-08-14,Cartão de Débito
+3245,2025-08-14,Cartão de Débito
+3246,2025-08-14,Pix
+3247,2025-08-14,Cartão de Débito
+3248,2025-08-14,Cartão de Crédito
+3249,2025-08-14,Cartão de Débito
+3250,2025-08-14,Cartão de Débito
+3251,2025-08-15,Pix
+3252,2025-08-15,Pix
+3253,2025-08-15,Dinheiro
+3254,2025-08-15,Cartão de Crédito
+3255,2025-08-15,Pix
+3256,2025-08-15,Pix
+3257,2025-08-15,Cartão de Débito
+3258,2025-08-15,Pix
+3259,2025-08-15,Pix
+3260,2025-08-15,Pix
+3261,2025-08-15,Cartão de Débito
+3262,2025-08-15,Pix
+3263,2025-08-15,Cartão de Crédito
+3264,2025-08-15,Cartão de Débito
+3265,2025-08-15,Cartão de Débito
+3266,2025-08-15,Pix
+3267,2025-08-15,Pix
+3268,2025-08-15,Pix
+3269,2025-08-15,Cartão de Crédito
+3270,2025-08-15,Cartão de Crédito
+3271,2025-08-15,Cartão de Crédito
+3272,2025-08-15,Pix
+3273,2025-08-15,Pix
+3274,2025-08-15,Cartão de Crédito
+3275,2025-08-15,Cartão de Débito
+3276,2025-08-16,Cartão de Crédito
+3277,2025-08-16,Pix
+3278,2025-08-16,Cartão de Débito
+3279,2025-08-16,Pix
+3280,2025-08-16,Cartão de Crédito
+3281,2025-08-16,Cartão de Crédito
+3282,2025-08-16,Pix
+3283,2025-08-16,Dinheiro
+3284,2025-08-16,Cartão de Débito
+3285,2025-08-16,Cartão de Crédito
+3286,2025-08-16,Pix
+3287,2025-08-16,Cartão de Crédito
+3288,2025-08-16,Pix
+3289,2025-08-16,Pix
+3290,2025-08-16,Cartão de Débito
+3291,2025-08-16,Dinheiro
+3292,2025-08-16,Dinheiro
+3293,2025-08-16,Cartão de Débito
+3294,2025-08-16,Cartão de Crédito
+3295,2025-08-16,Pix
+3296,2025-08-16,Cartão de Crédito
+3297,2025-08-16,Cartão de Débito
+3298,2025-08-16,Pix
+3299,2025-08-16,Cartão de Débito
+3300,2025-08-16,Cartão de Crédito
+3301,2025-08-16,Cartão de Débito
+3302,2025-08-16,Pix
+3303,2025-08-16,Cartão de Débito
+3304,2025-08-16,Pix
+3305,2025-08-16,Pix
+3306,2025-08-16,Pix
+3307,2025-08-16,Pix
+3308,2025-08-17,Cartão de Crédito
+3309,2025-08-17,Pix
+3310,2025-08-17,Cartão de Débito
+3311,2025-08-17,Cartão de Débito
+3312,2025-08-17,Cartão de Crédito
+3313,2025-08-17,Dinheiro
+3314,2025-08-17,Cartão de Crédito
+3315,2025-08-17,Cartão de Débito
+3316,2025-08-17,Cartão de Débito
+3317,2025-08-17,Cartão de Débito
+3318,2025-08-17,Cartão de Crédito
+3319,2025-08-17,Pix
+3320,2025-08-17,Pix
+3321,2025-08-17,Cartão de Crédito
+3322,2025-08-17,Dinheiro
+3323,2025-08-17,Cartão de Crédito
+3324,2025-08-17,Pix
+3325,2025-08-17,Cartão de Crédito
+3326,2025-08-17,Cartão de Crédito
+3327,2025-08-17,Pix
+3328,2025-08-17,Cartão de Crédito
+3329,2025-08-17,Pix
+3330,2025-08-17,Pix
+3331,2025-08-17,Pix
+3332,2025-08-19,Pix
+3333,2025-08-19,Cartão de Crédito
+3334,2025-08-19,Dinheiro
+3335,2025-08-19,Cartão de Crédito
+3336,2025-08-19,Dinheiro
+3337,2025-08-19,Pix
+3338,2025-08-19,Pix
+3339,2025-08-19,Dinheiro
+3340,2025-08-20,Cartão de Débito
+3341,2025-08-20,Cartão de Crédito
+3342,2025-08-20,Cartão de Débito
+3343,2025-08-20,Cartão de Débito
+3344,2025-08-20,Cartão de Crédito
+3345,2025-08-20,Dinheiro
+3346,2025-08-20,Pix
+3347,2025-08-20,Cartão de Débito
+3348,2025-08-20,Cartão de Débito
+3349,2025-08-20,Cartão de Débito
+3350,2025-08-21,Cartão de Débito
+3351,2025-08-21,Pix
+3352,2025-08-21,Pix
+3353,2025-08-21,Cartão de Crédito
+3354,2025-08-21,Cartão de Débito
+3355,2025-08-21,Cartão de Crédito
+3356,2025-08-21,Cartão de Débito
+3357,2025-08-21,Cartão de Débito
+3358,2025-08-21,Cartão de Crédito
+3359,2025-08-21,Cartão de Débito
+3360,2025-08-22,Cartão de Crédito
+3361,2025-08-22,Pix
+3362,2025-08-22,Cartão de Crédito
+3363,2025-08-22,Cartão de Débito
+3364,2025-08-22,Dinheiro
+3365,2025-08-22,Cartão de Débito
+3366,2025-08-22,Cartão de Débito
+3367,2025-08-22,Pix
+3368,2025-08-22,Cartão de Débito
+3369,2025-08-22,Pix
+3370,2025-08-22,Cartão de Crédito
+3371,2025-08-22,Dinheiro
+3372,2025-08-22,Dinheiro
+3373,2025-08-22,Cartão de Crédito
+3374,2025-08-22,Cartão de Débito
+3375,2025-08-22,Pix
+3376,2025-08-22,Cartão de Crédito
+3377,2025-08-22,Pix
+3378,2025-08-22,Pix
+3379,2025-08-22,Cartão de Débito
+3380,2025-08-22,Pix
+3381,2025-08-22,Pix
+3382,2025-08-22,Pix
+3383,2025-08-22,Cartão de Débito
+3384,2025-08-22,Pix
+3385,2025-08-22,Cartão de Crédito
+3386,2025-08-22,Cartão de Crédito
+3387,2025-08-22,Cartão de Débito
+3388,2025-08-23,Pix
+3389,2025-08-23,Cartão de Débito
+3390,2025-08-23,Dinheiro
+3391,2025-08-23,Pix
+3392,2025-08-23,Cartão de Débito
+3393,2025-08-23,Cartão de Crédito
+3394,2025-08-23,Dinheiro
+3395,2025-08-23,Pix
+3396,2025-08-23,Dinheiro
+3397,2025-08-23,Cartão de Débito
+3398,2025-08-23,Pix
+3399,2025-08-23,Cartão de Crédito
+3400,2025-08-23,Cartão de Crédito
+3401,2025-08-23,Cartão de Débito
+3402,2025-08-23,Pix
+3403,2025-08-23,Pix
+3404,2025-08-23,Pix
+3405,2025-08-23,Cartão de Débito
+3406,2025-08-23,Cartão de Crédito
+3407,2025-08-23,Pix
+3408,2025-08-23,Cartão de Débito
+3409,2025-08-23,Pix
+3410,2025-08-23,Cartão de Crédito
+3411,2025-08-23,Pix
+3412,2025-08-23,Cartão de Débito
+3413,2025-08-24,Dinheiro
+3414,2025-08-24,Pix
+3415,2025-08-24,Pix
+3416,2025-08-24,Cartão de Crédito
+3417,2025-08-24,Pix
+3418,2025-08-24,Cartão de Crédito
+3419,2025-08-24,Pix
+3420,2025-08-24,Cartão de Crédito
+3421,2025-08-24,Dinheiro
+3422,2025-08-24,Cartão de Crédito
+3423,2025-08-24,Pix
+3424,2025-08-24,Cartão de Crédito
+3425,2025-08-24,Pix
+3426,2025-08-24,Cartão de Débito
+3427,2025-08-24,Cartão de Débito
+3428,2025-08-24,Cartão de Débito
+3429,2025-08-24,Cartão de Crédito
+3430,2025-08-24,Pix
+3431,2025-08-24,Cartão de Crédito
+3432,2025-08-24,Cartão de Crédito
+3433,2025-08-24,Dinheiro
+3434,2025-08-24,Cartão de Débito
+3435,2025-08-24,Pix
+3436,2025-08-24,Pix
+3437,2025-08-24,Cartão de Crédito
+3438,2025-08-24,Dinheiro
+3439,2025-08-24,Cartão de Débito
+3440,2025-08-24,Pix
+3441,2025-08-24,Dinheiro
+3442,2025-08-24,Dinheiro
+3443,2025-08-26,Cartão de Débito
+3444,2025-08-26,Cartão de Crédito
+3445,2025-08-26,Cartão de Crédito
+3446,2025-08-26,Cartão de Débito
+3447,2025-08-27,Cartão de Débito
+3448,2025-08-27,Cartão de Crédito
+3449,2025-08-27,Cartão de Crédito
+3450,2025-08-27,Cartão de Crédito
+3451,2025-08-27,Cartão de Crédito
+3452,2025-08-27,Pix
+3453,2025-08-27,Pix
+3454,2025-08-28,Cartão de Crédito
+3455,2025-08-28,Cartão de Crédito
+3456,2025-08-28,Cartão de Crédito
+3457,2025-08-28,Cartão de Débito
+3458,2025-08-28,Cartão de Crédito
+3459,2025-08-28,Cartão de Débito
+3460,2025-08-29,Dinheiro
+3461,2025-08-29,Dinheiro
+3462,2025-08-29,Pix
+3463,2025-08-29,Cartão de Crédito
+3464,2025-08-29,Cartão de Crédito
+3465,2025-08-29,Dinheiro
+3466,2025-08-29,Cartão de Débito
+3467,2025-08-29,Pix
+3468,2025-08-29,Cartão de Crédito
+3469,2025-08-29,Dinheiro
+3470,2025-08-29,Cartão de Crédito
+3471,2025-08-29,Cartão de Débito
+3472,2025-08-29,Cartão de Crédito
+3473,2025-08-29,Pix
+3474,2025-08-29,Cartão de Crédito
+3475,2025-08-29,Pix
+3476,2025-08-29,Cartão de Crédito
+3477,2025-08-29,Cartão de Crédito
+3478,2025-08-29,Pix
+3479,2025-08-29,Pix
+3480,2025-08-30,Cartão de Débito
+3481,2025-08-30,Pix
+3482,2025-08-30,Cartão de Crédito
+3483,2025-08-30,Cartão de Crédito
+3484,2025-08-30,Cartão de Débito
+3485,2025-08-30,Pix
+3486,2025-08-30,Cartão de Débito
+3487,2025-08-30,Dinheiro
+3488,2025-08-30,Cartão de Crédito
+3489,2025-08-30,Pix
+3490,2025-08-30,Pix
+3491,2025-08-30,Pix
+3492,2025-08-30,Pix
+3493,2025-08-30,Pix
+3494,2025-08-30,Cartão de Crédito
+3495,2025-08-30,Cartão de Crédito
+3496,2025-08-30,Cartão de Débito
+3497,2025-08-30,Dinheiro
+3498,2025-08-30,Cartão de Débito
+3499,2025-08-30,Pix
+3500,2025-08-30,Cartão de Crédito
+3501,2025-08-30,Cartão de Crédito
+3502,2025-08-30,Pix
+3503,2025-08-30,Pix
+3504,2025-08-30,Dinheiro
+3505,2025-08-30,Cartão de Débito
+3506,2025-08-30,Pix
+3507,2025-08-30,Cartão de Crédito
+3508,2025-08-30,Dinheiro
+3509,2025-08-30,Pix
+3510,2025-08-30,Dinheiro
+3511,2025-08-30,Cartão de Débito
+3512,2025-08-30,Pix
+3513,2025-08-30,Cartão de Débito
+3514,2025-08-30,Cartão de Débito
+3515,2025-08-31,Dinheiro
+3516,2025-08-31,Cartão de Crédito
+3517,2025-08-31,Pix
+3518,2025-08-31,Cartão de Crédito
+3519,2025-08-31,Pix
+3520,2025-08-31,Pix
+3521,2025-08-31,Pix
+3522,2025-08-31,Pix
+3523,2025-08-31,Pix
+3524,2025-08-31,Pix
+3525,2025-08-31,Pix
+3526,2025-08-31,Pix
+3527,2025-08-31,Cartão de Crédito
+3528,2025-08-31,Cartão de Crédito
+3529,2025-08-31,Pix
+3530,2025-08-31,Cartão de Débito
+3531,2025-08-31,Pix
+3532,2025-08-31,Cartão de Débito
+3533,2025-08-31,Cartão de Débito
+3534,2025-08-31,Pix
+3535,2025-08-31,Cartão de Crédito
+3536,2025-08-31,Dinheiro
+3537,2025-08-31,Pix
+3538,2025-08-31,Pix
+3539,2025-08-31,Cartão de Crédito
+3540,2025-08-31,Pix
+3541,2025-08-31,Cartão de Débito
+3542,2025-08-31,Cartão de Crédito
+3543,2025-09-02,Pix
+3544,2025-09-02,Cartão de Crédito
+3545,2025-09-02,Dinheiro
+3546,2025-09-02,Pix
+3547,2025-09-02,Dinheiro
+3548,2025-09-02,Cartão de Crédito
+3549,2025-09-02,Dinheiro
+3550,2025-09-03,Cartão de Crédito
+3551,2025-09-03,Pix
+3552,2025-09-03,Cartão de Débito
+3553,2025-09-03,Cartão de Crédito
+3554,2025-09-03,Pix
+3555,2025-09-03,Cartão de Crédito
+3556,2025-09-04,Cartão de Débito
+3557,2025-09-04,Cartão de Crédito
+3558,2025-09-04,Cartão de Débito
+3559,2025-09-04,Cartão de Débito
+3560,2025-09-04,Cartão de Débito
+3561,2025-09-04,Cartão de Crédito
+3562,2025-09-04,Dinheiro
+3563,2025-09-04,Cartão de Débito
+3564,2025-09-04,Pix
+3565,2025-09-04,Cartão de Débito
+3566,2025-09-04,Cartão de Débito
+3567,2025-09-04,Cartão de Débito
+3568,2025-09-04,Cartão de Crédito
+3569,2025-09-04,Pix
+3570,2025-09-04,Cartão de Débito
+3571,2025-09-05,Cartão de Débito
+3572,2025-09-05,Pix
+3573,2025-09-05,Cartão de Crédito
+3574,2025-09-05,Cartão de Crédito
+3575,2025-09-05,Dinheiro
+3576,2025-09-05,Pix
+3577,2025-09-05,Dinheiro
+3578,2025-09-05,Cartão de Crédito
+3579,2025-09-05,Pix
+3580,2025-09-05,Dinheiro
+3581,2025-09-05,Cartão de Débito
+3582,2025-09-05,Cartão de Crédito
+3583,2025-09-05,Cartão de Crédito
+3584,2025-09-05,Cartão de Débito
+3585,2025-09-05,Cartão de Crédito
+3586,2025-09-05,Cartão de Débito
+3587,2025-09-06,Cartão de Crédito
+3588,2025-09-06,Cartão de Débito
+3589,2025-09-06,Cartão de Débito
+3590,2025-09-06,Dinheiro
+3591,2025-09-06,Cartão de Crédito
+3592,2025-09-06,Cartão de Débito
+3593,2025-09-06,Pix
+3594,2025-09-06,Pix
+3595,2025-09-06,Cartão de Débito
+3596,2025-09-06,Cartão de Crédito
+3597,2025-09-06,Pix
+3598,2025-09-06,Dinheiro
+3599,2025-09-06,Cartão de Crédito
+3600,2025-09-06,Pix
+3601,2025-09-06,Cartão de Débito
+3602,2025-09-06,Pix
+3603,2025-09-06,Cartão de Débito
+3604,2025-09-06,Pix
+3605,2025-09-06,Pix
+3606,2025-09-06,Pix
+3607,2025-09-06,Pix
+3608,2025-09-06,Pix
+3609,2025-09-06,Cartão de Crédito
+3610,2025-09-06,Pix
+3611,2025-09-06,Pix
+3612,2025-09-06,Cartão de Débito
+3613,2025-09-06,Pix
+3614,2025-09-06,Pix
+3615,2025-09-06,Cartão de Crédito
+3616,2025-09-06,Cartão de Débito
+3617,2025-09-06,Dinheiro
+3618,2025-09-06,Pix
+3619,2025-09-06,Pix
+3620,2025-09-06,Dinheiro
+3621,2025-09-06,Dinheiro
+3622,2025-09-07,Cartão de Crédito
+3623,2025-09-07,Pix
+3624,2025-09-07,Pix
+3625,2025-09-07,Pix
+3626,2025-09-07,Cartão de Débito
+3627,2025-09-07,Cartão de Crédito
+3628,2025-09-07,Cartão de Crédito
+3629,2025-09-07,Cartão de Crédito
+3630,2025-09-07,Cartão de Débito
+3631,2025-09-07,Dinheiro
+3632,2025-09-07,Cartão de Débito
+3633,2025-09-07,Cartão de Crédito
+3634,2025-09-07,Cartão de Débito
+3635,2025-09-07,Pix
+3636,2025-09-07,Cartão de Crédito
+3637,2025-09-07,Cartão de Crédito
+3638,2025-09-07,Pix
+3639,2025-09-07,Pix
+3640,2025-09-07,Cartão de Débito
+3641,2025-09-07,Pix
+3642,2025-09-07,Cartão de Crédito
+3643,2025-09-07,Pix
+3644,2025-09-07,Cartão de Crédito
+3645,2025-09-09,Dinheiro
+3646,2025-09-09,Cartão de Débito
+3647,2025-09-09,Pix
+3648,2025-09-09,Pix
+3649,2025-09-09,Pix
+3650,2025-09-09,Cartão de Débito
+3651,2025-09-09,Cartão de Débito
+3652,2025-09-10,Cartão de Crédito
+3653,2025-09-10,Pix
+3654,2025-09-10,Cartão de Crédito
+3655,2025-09-10,Pix
+3656,2025-09-10,Cartão de Débito
+3657,2025-09-10,Dinheiro
+3658,2025-09-10,Cartão de Débito
+3659,2025-09-10,Pix
+3660,2025-09-11,Pix
+3661,2025-09-11,Cartão de Crédito
+3662,2025-09-11,Pix
+3663,2025-09-11,Pix
+3664,2025-09-11,Dinheiro
+3665,2025-09-11,Cartão de Débito
+3666,2025-09-11,Pix
+3667,2025-09-11,Pix
+3668,2025-09-11,Pix
+3669,2025-09-11,Cartão de Crédito
+3670,2025-09-11,Cartão de Débito
+3671,2025-09-11,Dinheiro
+3672,2025-09-11,Dinheiro
+3673,2025-09-11,Pix
+3674,2025-09-11,Pix
+3675,2025-09-12,Pix
+3676,2025-09-12,Pix
+3677,2025-09-12,Dinheiro
+3678,2025-09-12,Cartão de Débito
+3679,2025-09-12,Cartão de Débito
+3680,2025-09-12,Pix
+3681,2025-09-12,Pix
+3682,2025-09-12,Dinheiro
+3683,2025-09-12,Cartão de Crédito
+3684,2025-09-12,Cartão de Crédito
+3685,2025-09-12,Cartão de Crédito
+3686,2025-09-12,Cartão de Crédito
+3687,2025-09-12,Cartão de Débito
+3688,2025-09-12,Dinheiro
+3689,2025-09-12,Cartão de Crédito
+3690,2025-09-12,Cartão de Crédito
+3691,2025-09-13,Cartão de Crédito
+3692,2025-09-13,Cartão de Crédito
+3693,2025-09-13,Cartão de Débito
+3694,2025-09-13,Cartão de Débito
+3695,2025-09-13,Dinheiro
+3696,2025-09-13,Cartão de Débito
+3697,2025-09-13,Cartão de Débito
+3698,2025-09-13,Dinheiro
+3699,2025-09-13,Cartão de Débito
+3700,2025-09-13,Cartão de Débito
+3701,2025-09-13,Dinheiro
+3702,2025-09-13,Cartão de Crédito
+3703,2025-09-13,Pix
+3704,2025-09-13,Cartão de Crédito
+3705,2025-09-13,Cartão de Débito
+3706,2025-09-13,Pix
+3707,2025-09-13,Dinheiro
+3708,2025-09-13,Dinheiro
+3709,2025-09-13,Pix
+3710,2025-09-13,Cartão de Débito
+3711,2025-09-13,Dinheiro
+3712,2025-09-13,Pix
+3713,2025-09-13,Pix
+3714,2025-09-13,Dinheiro
+3715,2025-09-13,Cartão de Crédito
+3716,2025-09-13,Pix
+3717,2025-09-13,Cartão de Crédito
+3718,2025-09-13,Pix
+3719,2025-09-13,Pix
+3720,2025-09-13,Dinheiro
+3721,2025-09-13,Pix
+3722,2025-09-14,Pix
+3723,2025-09-14,Pix
+3724,2025-09-14,Cartão de Crédito
+3725,2025-09-14,Cartão de Débito
+3726,2025-09-14,Dinheiro
+3727,2025-09-14,Pix
+3728,2025-09-14,Pix
+3729,2025-09-14,Cartão de Crédito
+3730,2025-09-14,Cartão de Crédito
+3731,2025-09-14,Cartão de Crédito
+3732,2025-09-14,Cartão de Débito
+3733,2025-09-14,Cartão de Débito
+3734,2025-09-14,Cartão de Débito
+3735,2025-09-14,Cartão de Crédito
+3736,2025-09-14,Cartão de Débito
+3737,2025-09-14,Pix
+3738,2025-09-14,Cartão de Débito
+3739,2025-09-14,Cartão de Crédito
+3740,2025-09-14,Pix
+3741,2025-09-14,Pix
+3742,2025-09-14,Dinheiro
+3743,2025-09-14,Cartão de Crédito
+3744,2025-09-14,Pix
+3745,2025-09-14,Cartão de Débito
+3746,2025-09-14,Pix
+3747,2025-09-14,Cartão de Crédito
+3748,2025-09-14,Cartão de Débito
+3749,2025-09-14,Pix
+3750,2025-09-16,Cartão de Crédito
+3751,2025-09-16,Cartão de Crédito
+3752,2025-09-16,Cartão de Débito
+3753,2025-09-16,Cartão de Crédito
+3754,2025-09-16,Cartão de Crédito
+3755,2025-09-16,Pix
+3756,2025-09-17,Pix
+3757,2025-09-17,Cartão de Crédito
+3758,2025-09-17,Dinheiro
+3759,2025-09-17,Pix
+3760,2025-09-17,Cartão de Crédito
+3761,2025-09-17,Dinheiro
+3762,2025-09-17,Pix
+3763,2025-09-17,Dinheiro
+3764,2025-09-18,Cartão de Crédito
+3765,2025-09-18,Dinheiro
+3766,2025-09-18,Cartão de Débito
+3767,2025-09-18,Cartão de Crédito
+3768,2025-09-18,Dinheiro
+3769,2025-09-18,Pix
+3770,2025-09-18,Cartão de Crédito
+3771,2025-09-18,Cartão de Crédito
+3772,2025-09-18,Pix
+3773,2025-09-18,Cartão de Crédito
+3774,2025-09-18,Cartão de Crédito
+3775,2025-09-18,Cartão de Crédito
+3776,2025-09-18,Cartão de Crédito
+3777,2025-09-18,Pix
+3778,2025-09-19,Cartão de Crédito
+3779,2025-09-19,Cartão de Crédito
+3780,2025-09-19,Dinheiro
+3781,2025-09-19,Cartão de Crédito
+3782,2025-09-19,Cartão de Débito
+3783,2025-09-19,Pix
+3784,2025-09-19,Cartão de Crédito
+3785,2025-09-19,Pix
+3786,2025-09-19,Pix
+3787,2025-09-19,Cartão de Crédito
+3788,2025-09-19,Pix
+3789,2025-09-19,Cartão de Débito
+3790,2025-09-19,Pix
+3791,2025-09-19,Cartão de Débito
+3792,2025-09-19,Pix
+3793,2025-09-19,Pix
+3794,2025-09-19,Cartão de Débito
+3795,2025-09-19,Pix
+3796,2025-09-19,Cartão de Débito
+3797,2025-09-20,Pix
+3798,2025-09-20,Cartão de Débito
+3799,2025-09-20,Dinheiro
+3800,2025-09-20,Pix
+3801,2025-09-20,Cartão de Crédito
+3802,2025-09-20,Pix
+3803,2025-09-20,Pix
+3804,2025-09-20,Pix
+3805,2025-09-20,Dinheiro
+3806,2025-09-20,Dinheiro
+3807,2025-09-20,Cartão de Débito
+3808,2025-09-20,Cartão de Crédito
+3809,2025-09-20,Cartão de Débito
+3810,2025-09-20,Pix
+3811,2025-09-20,Cartão de Débito
+3812,2025-09-20,Cartão de Crédito
+3813,2025-09-20,Pix
+3814,2025-09-20,Dinheiro
+3815,2025-09-20,Cartão de Débito
+3816,2025-09-20,Dinheiro
+3817,2025-09-20,Pix
+3818,2025-09-20,Cartão de Crédito
+3819,2025-09-20,Cartão de Crédito
+3820,2025-09-20,Pix
+3821,2025-09-20,Pix
+3822,2025-09-20,Pix
+3823,2025-09-21,Pix
+3824,2025-09-21,Cartão de Crédito
+3825,2025-09-21,Pix
+3826,2025-09-21,Dinheiro
+3827,2025-09-21,Cartão de Crédito
+3828,2025-09-21,Cartão de Débito
+3829,2025-09-21,Dinheiro
+3830,2025-09-21,Cartão de Crédito
+3831,2025-09-21,Dinheiro
+3832,2025-09-21,Pix
+3833,2025-09-21,Pix
+3834,2025-09-21,Pix
+3835,2025-09-21,Pix
+3836,2025-09-21,Pix
+3837,2025-09-21,Cartão de Crédito
+3838,2025-09-21,Pix
+3839,2025-09-21,Pix
+3840,2025-09-21,Pix
+3841,2025-09-21,Pix
+3842,2025-09-21,Cartão de Crédito
+3843,2025-09-21,Cartão de Débito
+3844,2025-09-21,Cartão de Débito
+3845,2025-09-21,Pix
+3846,2025-09-21,Cartão de Débito
+3847,2025-09-23,Cartão de Débito
+3848,2025-09-23,Cartão de Débito
+3849,2025-09-23,Cartão de Crédito
+3850,2025-09-23,Cartão de Débito
+3851,2025-09-23,Cartão de Crédito
+3852,2025-09-23,Pix
+3853,2025-09-23,Cartão de Crédito
+3854,2025-09-24,Cartão de Crédito
+3855,2025-09-24,Cartão de Crédito
+3856,2025-09-24,Cartão de Crédito
+3857,2025-09-24,Dinheiro
+3858,2025-09-24,Pix
+3859,2025-09-24,Cartão de Débito
+3860,2025-09-24,Cartão de Débito
+3861,2025-09-24,Dinheiro
+3862,2025-09-24,Cartão de Crédito
+3863,2025-09-24,Cartão de Crédito
+3864,2025-09-25,Pix
+3865,2025-09-25,Cartão de Débito
+3866,2025-09-25,Cartão de Crédito
+3867,2025-09-25,Cartão de Crédito
+3868,2025-09-25,Pix
+3869,2025-09-26,Pix
+3870,2025-09-26,Cartão de Crédito
+3871,2025-09-26,Dinheiro
+3872,2025-09-26,Pix
+3873,2025-09-26,Pix
+3874,2025-09-26,Pix
+3875,2025-09-26,Dinheiro
+3876,2025-09-26,Pix
+3877,2025-09-26,Pix
+3878,2025-09-26,Cartão de Débito
+3879,2025-09-26,Cartão de Débito
+3880,2025-09-26,Pix
+3881,2025-09-26,Cartão de Débito
+3882,2025-09-27,Pix
+3883,2025-09-27,Cartão de Débito
+3884,2025-09-27,Cartão de Débito
+3885,2025-09-27,Cartão de Débito
+3886,2025-09-27,Cartão de Débito
+3887,2025-09-27,Pix
+3888,2025-09-27,Cartão de Débito
+3889,2025-09-27,Pix
+3890,2025-09-27,Pix
+3891,2025-09-27,Cartão de Débito
+3892,2025-09-27,Pix
+3893,2025-09-27,Cartão de Crédito
+3894,2025-09-27,Cartão de Crédito
+3895,2025-09-27,Pix
+3896,2025-09-27,Cartão de Crédito
+3897,2025-09-27,Pix
+3898,2025-09-27,Cartão de Crédito
+3899,2025-09-27,Pix
+3900,2025-09-27,Pix
+3901,2025-09-27,Cartão de Crédito
+3902,2025-09-27,Pix
+3903,2025-09-27,Cartão de Débito
+3904,2025-09-27,Cartão de Crédito
+3905,2025-09-28,Dinheiro
+3906,2025-09-28,Cartão de Crédito
+3907,2025-09-28,Dinheiro
+3908,2025-09-28,Cartão de Débito
+3909,2025-09-28,Cartão de Débito
+3910,2025-09-28,Pix
+3911,2025-09-28,Cartão de Débito
+3912,2025-09-28,Cartão de Crédito
+3913,2025-09-28,Cartão de Crédito
+3914,2025-09-28,Pix
+3915,2025-09-28,Cartão de Crédito
+3916,2025-09-28,Cartão de Débito
+3917,2025-09-28,Pix
+3918,2025-09-28,Pix
+3919,2025-09-28,Pix
+3920,2025-09-28,Cartão de Crédito
+3921,2025-09-28,Dinheiro
+3922,2025-09-30,Pix
+3923,2025-09-30,Dinheiro
+3924,2025-09-30,Cartão de Débito
+3925,2025-09-30,Cartão de Débito
+3926,2025-09-30,Cartão de Débito
+3927,2025-09-30,Cartão de Crédito
+3928,2025-09-30,Cartão de Débito
+3929,2025-09-30,Cartão de Crédito
+3930,2025-09-30,Pix
+3931,2025-10-01,Cartão de Crédito
+3932,2025-10-01,Pix
+3933,2025-10-01,Dinheiro
+3934,2025-10-02,Cartão de Débito
+3935,2025-10-02,Cartão de Crédito
+3936,2025-10-02,Pix
+3937,2025-10-02,Pix
+3938,2025-10-02,Cartão de Crédito
+3939,2025-10-02,Pix
+3940,2025-10-02,Cartão de Crédito
+3941,2025-10-02,Cartão de Débito
+3942,2025-10-02,Cartão de Débito
+3943,2025-10-02,Pix
+3944,2025-10-02,Cartão de Crédito
+3945,2025-10-03,Cartão de Débito
+3946,2025-10-03,Pix
+3947,2025-10-03,Cartão de Crédito
+3948,2025-10-03,Cartão de Crédito
+3949,2025-10-03,Pix
+3950,2025-10-03,Pix
+3951,2025-10-03,Pix
+3952,2025-10-03,Pix
+3953,2025-10-03,Pix
+3954,2025-10-03,Cartão de Crédito
+3955,2025-10-03,Pix
+3956,2025-10-03,Cartão de Débito
+3957,2025-10-03,Cartão de Débito
+3958,2025-10-03,Cartão de Débito
+3959,2025-10-03,Cartão de Débito
+3960,2025-10-03,Cartão de Crédito
+3961,2025-10-03,Pix
+3962,2025-10-03,Pix
+3963,2025-10-03,Cartão de Crédito
+3964,2025-10-04,Cartão de Débito
+3965,2025-10-04,Dinheiro
+3966,2025-10-04,Cartão de Débito
+3967,2025-10-04,Cartão de Crédito
+3968,2025-10-04,Cartão de Débito
+3969,2025-10-04,Cartão de Débito
+3970,2025-10-04,Dinheiro
+3971,2025-10-04,Cartão de Débito
+3972,2025-10-04,Pix
+3973,2025-10-04,Cartão de Crédito
+3974,2025-10-04,Cartão de Débito
+3975,2025-10-04,Cartão de Crédito
+3976,2025-10-04,Pix
+3977,2025-10-04,Pix
+3978,2025-10-04,Pix
+3979,2025-10-04,Pix
+3980,2025-10-04,Pix
+3981,2025-10-04,Cartão de Débito
+3982,2025-10-04,Cartão de Débito
+3983,2025-10-04,Dinheiro
+3984,2025-10-04,Cartão de Débito
+3985,2025-10-04,Pix
+3986,2025-10-04,Pix
+3987,2025-10-04,Pix
+3988,2025-10-04,Pix
+3989,2025-10-04,Pix
+3990,2025-10-04,Cartão de Crédito
+3991,2025-10-04,Pix
+3992,2025-10-04,Cartão de Crédito
+3993,2025-10-04,Cartão de Crédito
+3994,2025-10-04,Cartão de Débito
+3995,2025-10-04,Dinheiro
+3996,2025-10-04,Cartão de Débito
+3997,2025-10-04,Cartão de Crédito
+3998,2025-10-04,Pix
+3999,2025-10-04,Pix
+4000,2025-10-04,Cartão de Débito
+4001,2025-10-04,Cartão de Crédito
+4002,2025-10-05,Cartão de Crédito
+4003,2025-10-05,Cartão de Crédito
+4004,2025-10-05,Pix
+4005,2025-10-05,Cartão de Débito
+4006,2025-10-05,Cartão de Débito
+4007,2025-10-05,Pix
+4008,2025-10-05,Cartão de Débito
+4009,2025-10-05,Pix
+4010,2025-10-05,Pix
+4011,2025-10-05,Cartão de Débito
+4012,2025-10-05,Pix
+4013,2025-10-05,Cartão de Crédito
+4014,2025-10-05,Pix
+4015,2025-10-05,Pix
+4016,2025-10-05,Cartão de Débito
+4017,2025-10-05,Cartão de Débito
+4018,2025-10-05,Cartão de Crédito
+4019,2025-10-05,Cartão de Débito
+4020,2025-10-05,Cartão de Débito
+4021,2025-10-05,Pix
+4022,2025-10-05,Pix
+4023,2025-10-07,Cartão de Crédito
+4024,2025-10-07,Cartão de Crédito
+4025,2025-10-07,Cartão de Crédito
+4026,2025-10-07,Cartão de Crédito
+4027,2025-10-08,Cartão de Crédito
+4028,2025-10-08,Cartão de Crédito
+4029,2025-10-08,Pix
+4030,2025-10-08,Dinheiro
+4031,2025-10-08,Pix
+4032,2025-10-08,Cartão de Crédito
+4033,2025-10-08,Dinheiro
+4034,2025-10-08,Pix
+4035,2025-10-08,Cartão de Crédito
+4036,2025-10-08,Cartão de Débito
+4037,2025-10-08,Cartão de Débito
+4038,2025-10-08,Cartão de Débito
+4039,2025-10-09,Cartão de Crédito
+4040,2025-10-09,Cartão de Crédito
+4041,2025-10-09,Cartão de Débito
+4042,2025-10-09,Pix
+4043,2025-10-09,Cartão de Débito
+4044,2025-10-09,Pix
+4045,2025-10-09,Pix
+4046,2025-10-09,Cartão de Crédito
+4047,2025-10-09,Dinheiro
+4048,2025-10-09,Pix
+4049,2025-10-10,Cartão de Crédito
+4050,2025-10-10,Pix
+4051,2025-10-10,Cartão de Débito
+4052,2025-10-10,Cartão de Crédito
+4053,2025-10-10,Cartão de Crédito
+4054,2025-10-10,Cartão de Crédito
+4055,2025-10-10,Pix
+4056,2025-10-10,Cartão de Débito
+4057,2025-10-10,Cartão de Débito
+4058,2025-10-10,Cartão de Débito
+4059,2025-10-10,Cartão de Débito
+4060,2025-10-10,Cartão de Débito
+4061,2025-10-10,Pix
+4062,2025-10-10,Cartão de Débito
+4063,2025-10-10,Cartão de Crédito
+4064,2025-10-10,Cartão de Crédito
+4065,2025-10-10,Pix
+4066,2025-10-10,Pix
+4067,2025-10-10,Pix
+4068,2025-10-10,Pix
+4069,2025-10-10,Pix
+4070,2025-10-10,Dinheiro
+4071,2025-10-10,Pix
+4072,2025-10-10,Pix
+4073,2025-10-11,Pix
+4074,2025-10-11,Cartão de Crédito
+4075,2025-10-11,Cartão de Débito
+4076,2025-10-11,Cartão de Crédito
+4077,2025-10-11,Dinheiro
+4078,2025-10-11,Pix
+4079,2025-10-11,Pix
+4080,2025-10-11,Dinheiro
+4081,2025-10-11,Pix
+4082,2025-10-11,Cartão de Crédito
+4083,2025-10-11,Pix
+4084,2025-10-11,Cartão de Crédito
+4085,2025-10-11,Cartão de Crédito
+4086,2025-10-11,Dinheiro
+4087,2025-10-11,Cartão de Débito
+4088,2025-10-11,Cartão de Débito
+4089,2025-10-11,Cartão de Débito
+4090,2025-10-11,Pix
+4091,2025-10-11,Cartão de Crédito
+4092,2025-10-11,Pix
+4093,2025-10-11,Pix
+4094,2025-10-11,Cartão de Crédito
+4095,2025-10-11,Dinheiro
+4096,2025-10-11,Pix
+4097,2025-10-11,Pix
+4098,2025-10-11,Pix
+4099,2025-10-11,Cartão de Crédito
+4100,2025-10-11,Cartão de Crédito
+4101,2025-10-11,Cartão de Débito
+4102,2025-10-11,Pix
+4103,2025-10-11,Dinheiro
+4104,2025-10-11,Pix
+4105,2025-10-11,Cartão de Crédito
+4106,2025-10-11,Cartão de Débito
+4107,2025-10-11,Cartão de Crédito
+4108,2025-10-11,Cartão de Débito
+4109,2025-10-11,Cartão de Crédito
+4110,2025-10-11,Cartão de Débito
+4111,2025-10-12,Cartão de Crédito
+4112,2025-10-12,Cartão de Crédito
+4113,2025-10-12,Cartão de Crédito
+4114,2025-10-12,Cartão de Débito
+4115,2025-10-12,Pix
+4116,2025-10-12,Pix
+4117,2025-10-12,Pix
+4118,2025-10-12,Pix
+4119,2025-10-12,Pix
+4120,2025-10-12,Cartão de Crédito
+4121,2025-10-12,Cartão de Débito
+4122,2025-10-12,Pix
+4123,2025-10-12,Dinheiro
+4124,2025-10-12,Pix
+4125,2025-10-12,Pix
+4126,2025-10-12,Cartão de Débito
+4127,2025-10-12,Pix
+4128,2025-10-12,Cartão de Crédito
+4129,2025-10-12,Cartão de Débito
+4130,2025-10-12,Cartão de Crédito
+4131,2025-10-12,Cartão de Débito
+4132,2025-10-12,Pix
+4133,2025-10-12,Cartão de Débito
+4134,2025-10-12,Cartão de Crédito
+4135,2025-10-12,Pix
+4136,2025-10-12,Cartão de Débito
+4137,2025-10-12,Pix
+4138,2025-10-12,Dinheiro
+4139,2025-10-12,Cartão de Crédito
+4140,2025-10-12,Cartão de Crédito
+4141,2025-10-12,Pix
+4142,2025-10-12,Pix
+4143,2025-10-12,Pix
+4144,2025-10-12,Cartão de Débito
+4145,2025-10-12,Pix
+4146,2025-10-14,Cartão de Débito
+4147,2025-10-14,Pix
+4148,2025-10-14,Pix
+4149,2025-10-14,Cartão de Crédito
+4150,2025-10-14,Cartão de Crédito
+4151,2025-10-14,Pix
+4152,2025-10-15,Cartão de Débito
+4153,2025-10-15,Cartão de Débito
+4154,2025-10-15,Pix
+4155,2025-10-15,Cartão de Crédito
+4156,2025-10-15,Dinheiro
+4157,2025-10-15,Cartão de Crédito
+4158,2025-10-16,Cartão de Débito
+4159,2025-10-16,Pix
+4160,2025-10-16,Pix
+4161,2025-10-16,Pix
+4162,2025-10-16,Cartão de Crédito
+4163,2025-10-16,Pix
+4164,2025-10-16,Dinheiro
+4165,2025-10-16,Cartão de Crédito
+4166,2025-10-16,Pix
+4167,2025-10-16,Pix
+4168,2025-10-16,Cartão de Débito
+4169,2025-10-16,Pix
+4170,2025-10-16,Cartão de Débito
+4171,2025-10-17,Cartão de Débito
+4172,2025-10-17,Cartão de Crédito
+4173,2025-10-17,Pix
+4174,2025-10-17,Cartão de Crédito
+4175,2025-10-17,Pix
+4176,2025-10-17,Cartão de Débito
+4177,2025-10-17,Pix
+4178,2025-10-17,Cartão de Débito
+4179,2025-10-17,Pix
+4180,2025-10-17,Pix
+4181,2025-10-17,Cartão de Crédito
+4182,2025-10-17,Cartão de Crédito
+4183,2025-10-17,Cartão de Débito
+4184,2025-10-18,Cartão de Crédito
+4185,2025-10-18,Dinheiro
+4186,2025-10-18,Pix
+4187,2025-10-18,Dinheiro
+4188,2025-10-18,Pix
+4189,2025-10-18,Pix
+4190,2025-10-18,Pix
+4191,2025-10-18,Cartão de Crédito
+4192,2025-10-18,Dinheiro
+4193,2025-10-18,Pix
+4194,2025-10-18,Cartão de Crédito
+4195,2025-10-18,Cartão de Crédito
+4196,2025-10-18,Cartão de Débito
+4197,2025-10-18,Cartão de Débito
+4198,2025-10-18,Pix
+4199,2025-10-18,Cartão de Crédito
+4200,2025-10-18,Dinheiro
+4201,2025-10-18,Pix
+4202,2025-10-18,Cartão de Débito
+4203,2025-10-18,Pix
+4204,2025-10-18,Pix
+4205,2025-10-18,Pix
+4206,2025-10-18,Cartão de Crédito
+4207,2025-10-18,Pix
+4208,2025-10-18,Cartão de Débito
+4209,2025-10-18,Pix
+4210,2025-10-18,Cartão de Débito
+4211,2025-10-18,Cartão de Crédito
+4212,2025-10-18,Cartão de Crédito
+4213,2025-10-19,Pix
+4214,2025-10-19,Cartão de Débito
+4215,2025-10-19,Cartão de Débito
+4216,2025-10-19,Dinheiro
+4217,2025-10-19,Cartão de Débito
+4218,2025-10-19,Pix
+4219,2025-10-19,Pix
+4220,2025-10-19,Cartão de Débito
+4221,2025-10-19,Cartão de Crédito
+4222,2025-10-19,Pix
+4223,2025-10-19,Pix
+4224,2025-10-19,Dinheiro
+4225,2025-10-19,Cartão de Crédito
+4226,2025-10-19,Pix
+4227,2025-10-19,Dinheiro
+4228,2025-10-19,Pix
+4229,2025-10-19,Pix
+4230,2025-10-19,Cartão de Débito
+4231,2025-10-19,Cartão de Débito
+4232,2025-10-21,Cartão de Crédito
+4233,2025-10-21,Cartão de Crédito
+4234,2025-10-21,Dinheiro
+4235,2025-10-21,Cartão de Crédito
+4236,2025-10-21,Dinheiro
+4237,2025-10-21,Cartão de Crédito
+4238,2025-10-21,Cartão de Crédito
+4239,2025-10-22,Cartão de Crédito
+4240,2025-10-22,Pix
+4241,2025-10-22,Cartão de Débito
+4242,2025-10-22,Pix
+4243,2025-10-22,Pix
+4244,2025-10-22,Cartão de Crédito
+4245,2025-10-22,Cartão de Crédito
+4246,2025-10-22,Pix
+4247,2025-10-23,Cartão de Crédito
+4248,2025-10-23,Dinheiro
+4249,2025-10-23,Pix
+4250,2025-10-23,Cartão de Débito
+4251,2025-10-23,Cartão de Débito
+4252,2025-10-23,Cartão de Crédito
+4253,2025-10-23,Cartão de Crédito
+4254,2025-10-24,Cartão de Crédito
+4255,2025-10-24,Cartão de Débito
+4256,2025-10-24,Dinheiro
+4257,2025-10-24,Pix
+4258,2025-10-24,Pix
+4259,2025-10-24,Dinheiro
+4260,2025-10-24,Cartão de Crédito
+4261,2025-10-24,Pix
+4262,2025-10-24,Pix
+4263,2025-10-24,Cartão de Crédito
+4264,2025-10-24,Pix
+4265,2025-10-24,Pix
+4266,2025-10-24,Pix
+4267,2025-10-24,Cartão de Crédito
+4268,2025-10-24,Cartão de Débito
+4269,2025-10-24,Cartão de Débito
+4270,2025-10-24,Pix
+4271,2025-10-24,Cartão de Crédito
+4272,2025-10-24,Cartão de Débito
+4273,2025-10-24,Cartão de Crédito
+4274,2025-10-25,Pix
+4275,2025-10-25,Cartão de Crédito
+4276,2025-10-25,Pix
+4277,2025-10-25,Pix
+4278,2025-10-25,Cartão de Crédito
+4279,2025-10-25,Pix
+4280,2025-10-25,Pix
+4281,2025-10-25,Pix
+4282,2025-10-25,Pix
+4283,2025-10-25,Cartão de Crédito
+4284,2025-10-25,Cartão de Crédito
+4285,2025-10-25,Cartão de Débito
+4286,2025-10-25,Pix
+4287,2025-10-25,Dinheiro
+4288,2025-10-25,Cartão de Crédito
+4289,2025-10-25,Pix
+4290,2025-10-25,Cartão de Débito
+4291,2025-10-25,Pix
+4292,2025-10-25,Dinheiro
+4293,2025-10-25,Pix
+4294,2025-10-25,Cartão de Crédito
+4295,2025-10-25,Cartão de Crédito
+4296,2025-10-25,Pix
+4297,2025-10-25,Cartão de Crédito
+4298,2025-10-26,Cartão de Crédito
+4299,2025-10-26,Cartão de Crédito
+4300,2025-10-26,Cartão de Crédito
+4301,2025-10-26,Cartão de Débito
+4302,2025-10-26,Cartão de Crédito
+4303,2025-10-26,Pix
+4304,2025-10-26,Cartão de Crédito
+4305,2025-10-26,Cartão de Crédito
+4306,2025-10-26,Dinheiro
+4307,2025-10-26,Pix
+4308,2025-10-26,Pix
+4309,2025-10-26,Dinheiro
+4310,2025-10-26,Cartão de Débito
+4311,2025-10-26,Cartão de Crédito
+4312,2025-10-26,Cartão de Crédito
+4313,2025-10-26,Pix
+4314,2025-10-26,Cartão de Crédito
+4315,2025-10-26,Pix
+4316,2025-10-26,Cartão de Crédito
+4317,2025-10-26,Dinheiro
+4318,2025-10-26,Pix
+4319,2025-10-26,Cartão de Crédito
+4320,2025-10-26,Pix
+4321,2025-10-26,Cartão de Débito
+4322,2025-10-28,Pix
+4323,2025-10-28,Pix
+4324,2025-10-28,Dinheiro
+4325,2025-10-28,Pix
+4326,2025-10-28,Cartão de Débito
+4327,2025-10-28,Pix
+4328,2025-10-28,Pix
+4329,2025-10-28,Pix
+4330,2025-10-28,Cartão de Crédito
+4331,2025-10-28,Cartão de Crédito
+4332,2025-10-28,Pix
+4333,2025-10-28,Dinheiro
+4334,2025-10-28,Cartão de Débito
+4335,2025-10-29,Cartão de Crédito
+4336,2025-10-29,Cartão de Débito
+4337,2025-10-29,Cartão de Crédito
+4338,2025-10-29,Pix
+4339,2025-10-29,Pix
+4340,2025-10-29,Pix
+4341,2025-10-29,Cartão de Crédito
+4342,2025-10-29,Cartão de Crédito
+4343,2025-10-29,Cartão de Débito
+4344,2025-10-29,Pix
+4345,2025-10-29,Pix
+4346,2025-10-29,Pix
+4347,2025-10-30,Dinheiro
+4348,2025-10-30,Cartão de Crédito
+4349,2025-10-30,Pix
+4350,2025-10-30,Cartão de Crédito
+4351,2025-10-30,Dinheiro
+4352,2025-10-30,Pix
+4353,2025-10-30,Cartão de Débito
+4354,2025-10-30,Pix
+4355,2025-10-31,Dinheiro
+4356,2025-10-31,Cartão de Débito
+4357,2025-10-31,Pix
+4358,2025-10-31,Cartão de Débito
+4359,2025-10-31,Pix
+4360,2025-10-31,Pix
+4361,2025-10-31,Cartão de Crédito
+4362,2025-10-31,Cartão de Crédito
+4363,2025-10-31,Dinheiro
+4364,2025-10-31,Cartão de Débito
+4365,2025-10-31,Cartão de Crédito
+4366,2025-10-31,Cartão de Débito
+4367,2025-10-31,Cartão de Crédito
+4368,2025-10-31,Cartão de Débito
+4369,2025-10-31,Cartão de Crédito
+4370,2025-10-31,Dinheiro
+4371,2025-10-31,Pix
+4372,2025-10-31,Pix
+4373,2025-11-01,Cartão de Crédito
+4374,2025-11-01,Pix
+4375,2025-11-01,Cartão de Débito
+4376,2025-11-01,Cartão de Débito
+4377,2025-11-01,Pix
+4378,2025-11-01,Cartão de Crédito
+4379,2025-11-01,Pix
+4380,2025-11-01,Cartão de Crédito
+4381,2025-11-01,Pix
+4382,2025-11-01,Cartão de Crédito
+4383,2025-11-01,Cartão de Crédito
+4384,2025-11-01,Pix
+4385,2025-11-01,Cartão de Crédito
+4386,2025-11-01,Cartão de Débito
+4387,2025-11-01,Pix
+4388,2025-11-01,Dinheiro
+4389,2025-11-01,Cartão de Crédito
+4390,2025-11-01,Pix
+4391,2025-11-01,Cartão de Crédito
+4392,2025-11-01,Cartão de Crédito
+4393,2025-11-01,Dinheiro
+4394,2025-11-01,Cartão de Débito
+4395,2025-11-01,Cartão de Débito
+4396,2025-11-01,Pix
+4397,2025-11-01,Pix
+4398,2025-11-01,Cartão de Débito
+4399,2025-11-01,Pix
+4400,2025-11-01,Dinheiro
+4401,2025-11-01,Pix
+4402,2025-11-01,Cartão de Crédito
+4403,2025-11-01,Cartão de Crédito
+4404,2025-11-01,Dinheiro
+4405,2025-11-01,Cartão de Débito
+4406,2025-11-01,Cartão de Crédito
+4407,2025-11-01,Cartão de Crédito
+4408,2025-11-01,Cartão de Débito
+4409,2025-11-01,Cartão de Débito
+4410,2025-11-01,Cartão de Débito
+4411,2025-11-02,Pix
+4412,2025-11-02,Pix
+4413,2025-11-02,Cartão de Crédito
+4414,2025-11-02,Pix
+4415,2025-11-02,Pix
+4416,2025-11-02,Cartão de Crédito
+4417,2025-11-02,Cartão de Débito
+4418,2025-11-02,Pix
+4419,2025-11-02,Cartão de Crédito
+4420,2025-11-02,Cartão de Crédito
+4421,2025-11-02,Dinheiro
+4422,2025-11-02,Cartão de Crédito
+4423,2025-11-02,Pix
+4424,2025-11-02,Pix
+4425,2025-11-02,Dinheiro
+4426,2025-11-02,Cartão de Crédito
+4427,2025-11-02,Cartão de Débito
+4428,2025-11-02,Cartão de Débito
+4429,2025-11-02,Cartão de Crédito
+4430,2025-11-02,Cartão de Débito
+4431,2025-11-02,Pix
+4432,2025-11-02,Dinheiro
+4433,2025-11-02,Cartão de Crédito
+4434,2025-11-02,Pix
+4435,2025-11-02,Pix
+4436,2025-11-02,Pix
+4437,2025-11-02,Cartão de Débito
+4438,2025-11-02,Pix
+4439,2025-11-02,Cartão de Crédito
+4440,2025-11-02,Cartão de Débito
+4441,2025-11-04,Pix
+4442,2025-11-04,Pix
+4443,2025-11-04,Cartão de Crédito
+4444,2025-11-04,Cartão de Débito
+4445,2025-11-04,Pix
+4446,2025-11-05,Pix
+4447,2025-11-05,Dinheiro
+4448,2025-11-05,Cartão de Débito
+4449,2025-11-05,Cartão de Crédito
+4450,2025-11-05,Pix
+4451,2025-11-05,Pix
+4452,2025-11-05,Pix
+4453,2025-11-05,Pix
+4454,2025-11-05,Cartão de Débito
+4455,2025-11-05,Cartão de Crédito
+4456,2025-11-05,Dinheiro
+4457,2025-11-05,Cartão de Crédito
+4458,2025-11-05,Cartão de Crédito
+4459,2025-11-05,Cartão de Débito
+4460,2025-11-05,Dinheiro
+4461,2025-11-06,Cartão de Crédito
+4462,2025-11-06,Cartão de Débito
+4463,2025-11-06,Cartão de Débito
+4464,2025-11-06,Cartão de Débito
+4465,2025-11-06,Dinheiro
+4466,2025-11-06,Cartão de Crédito
+4467,2025-11-06,Pix
+4468,2025-11-06,Pix
+4469,2025-11-06,Dinheiro
+4470,2025-11-06,Cartão de Crédito
+4471,2025-11-06,Cartão de Crédito
+4472,2025-11-07,Cartão de Crédito
+4473,2025-11-07,Pix
+4474,2025-11-07,Pix
+4475,2025-11-07,Cartão de Crédito
+4476,2025-11-07,Cartão de Crédito
+4477,2025-11-07,Cartão de Crédito
+4478,2025-11-07,Pix
+4479,2025-11-07,Dinheiro
+4480,2025-11-07,Pix
+4481,2025-11-07,Cartão de Débito
+4482,2025-11-07,Cartão de Crédito
+4483,2025-11-07,Dinheiro
+4484,2025-11-07,Cartão de Crédito
+4485,2025-11-07,Cartão de Crédito
+4486,2025-11-07,Cartão de Crédito
+4487,2025-11-07,Pix
+4488,2025-11-07,Cartão de Débito
+4489,2025-11-07,Dinheiro
+4490,2025-11-07,Cartão de Crédito
+4491,2025-11-07,Cartão de Débito
+4492,2025-11-07,Pix
+4493,2025-11-07,Cartão de Crédito
+4494,2025-11-07,Cartão de Débito
+4495,2025-11-07,Pix
+4496,2025-11-08,Cartão de Débito
+4497,2025-11-08,Cartão de Crédito
+4498,2025-11-08,Cartão de Débito
+4499,2025-11-08,Dinheiro
+4500,2025-11-08,Pix
+4501,2025-11-08,Cartão de Crédito
+4502,2025-11-08,Dinheiro
+4503,2025-11-08,Cartão de Crédito
+4504,2025-11-08,Pix
+4505,2025-11-08,Cartão de Débito
+4506,2025-11-08,Cartão de Crédito
+4507,2025-11-08,Dinheiro
+4508,2025-11-08,Pix
+4509,2025-11-08,Pix
+4510,2025-11-08,Cartão de Crédito
+4511,2025-11-08,Cartão de Débito
+4512,2025-11-08,Pix
+4513,2025-11-08,Dinheiro
+4514,2025-11-08,Pix
+4515,2025-11-08,Cartão de Débito
+4516,2025-11-08,Cartão de Débito
+4517,2025-11-08,Cartão de Crédito
+4518,2025-11-08,Pix
+4519,2025-11-08,Cartão de Débito
+4520,2025-11-08,Cartão de Crédito
+4521,2025-11-08,Cartão de Crédito
+4522,2025-11-08,Cartão de Débito
+4523,2025-11-08,Cartão de Crédito
+4524,2025-11-08,Cartão de Débito
+4525,2025-11-08,Pix
+4526,2025-11-08,Cartão de Crédito
+4527,2025-11-08,Pix
+4528,2025-11-08,Cartão de Crédito
+4529,2025-11-08,Cartão de Crédito
+4530,2025-11-09,Cartão de Crédito
+4531,2025-11-09,Cartão de Crédito
+4532,2025-11-09,Cartão de Crédito
+4533,2025-11-09,Pix
+4534,2025-11-09,Dinheiro
+4535,2025-11-09,Pix
+4536,2025-11-09,Dinheiro
+4537,2025-11-09,Cartão de Débito
+4538,2025-11-09,Pix
+4539,2025-11-09,Cartão de Débito
+4540,2025-11-09,Pix
+4541,2025-11-09,Cartão de Débito
+4542,2025-11-09,Cartão de Crédito
+4543,2025-11-09,Pix
+4544,2025-11-09,Pix
+4545,2025-11-09,Pix
+4546,2025-11-09,Pix
+4547,2025-11-09,Pix
+4548,2025-11-09,Pix
+4549,2025-11-09,Pix
+4550,2025-11-09,Cartão de Crédito
+4551,2025-11-09,Pix
+4552,2025-11-09,Pix
+4553,2025-11-09,Cartão de Débito
+4554,2025-11-09,Cartão de Crédito
+4555,2025-11-09,Dinheiro
+4556,2025-11-09,Cartão de Crédito
+4557,2025-11-09,Cartão de Crédito
+4558,2025-11-09,Cartão de Crédito
+4559,2025-11-09,Cartão de Crédito
+4560,2025-11-09,Pix
+4561,2025-11-11,Pix
+4562,2025-11-11,Cartão de Crédito
+4563,2025-11-11,Pix
+4564,2025-11-11,Cartão de Débito
+4565,2025-11-11,Pix
+4566,2025-11-11,Cartão de Débito
+4567,2025-11-11,Pix
+4568,2025-11-12,Dinheiro
+4569,2025-11-12,Cartão de Débito
+4570,2025-11-12,Cartão de Crédito
+4571,2025-11-12,Cartão de Débito
+4572,2025-11-12,Cartão de Crédito
+4573,2025-11-12,Cartão de Crédito
+4574,2025-11-12,Cartão de Crédito
+4575,2025-11-12,Dinheiro
+4576,2025-11-12,Cartão de Crédito
+4577,2025-11-12,Pix
+4578,2025-11-12,Cartão de Débito
+4579,2025-11-13,Cartão de Débito
+4580,2025-11-13,Pix
+4581,2025-11-13,Dinheiro
+4582,2025-11-13,Cartão de Crédito
+4583,2025-11-13,Pix
+4584,2025-11-13,Cartão de Crédito
+4585,2025-11-13,Cartão de Crédito
+4586,2025-11-13,Cartão de Débito
+4587,2025-11-13,Cartão de Débito
+4588,2025-11-13,Pix
+4589,2025-11-13,Cartão de Débito
+4590,2025-11-13,Pix
+4591,2025-11-13,Cartão de Crédito
+4592,2025-11-13,Cartão de Crédito
+4593,2025-11-14,Cartão de Crédito
+4594,2025-11-14,Pix
+4595,2025-11-14,Pix
+4596,2025-11-14,Pix
+4597,2025-11-14,Dinheiro
+4598,2025-11-14,Dinheiro
+4599,2025-11-14,Cartão de Débito
+4600,2025-11-14,Pix
+4601,2025-11-14,Pix
+4602,2025-11-14,Cartão de Débito
+4603,2025-11-14,Cartão de Débito
+4604,2025-11-14,Dinheiro
+4605,2025-11-14,Pix
+4606,2025-11-14,Pix
+4607,2025-11-14,Cartão de Débito
+4608,2025-11-14,Dinheiro
+4609,2025-11-14,Pix
+4610,2025-11-14,Cartão de Débito
+4611,2025-11-14,Pix
+4612,2025-11-14,Pix
+4613,2025-11-15,Pix
+4614,2025-11-15,Cartão de Crédito
+4615,2025-11-15,Pix
+4616,2025-11-15,Pix
+4617,2025-11-15,Cartão de Crédito
+4618,2025-11-15,Pix
+4619,2025-11-15,Cartão de Crédito
+4620,2025-11-15,Cartão de Crédito
+4621,2025-11-15,Cartão de Débito
+4622,2025-11-15,Cartão de Débito
+4623,2025-11-15,Pix
+4624,2025-11-15,Cartão de Crédito
+4625,2025-11-15,Cartão de Crédito
+4626,2025-11-15,Dinheiro
+4627,2025-11-15,Pix
+4628,2025-11-15,Pix
+4629,2025-11-15,Dinheiro
+4630,2025-11-15,Pix
+4631,2025-11-15,Dinheiro
+4632,2025-11-15,Pix
+4633,2025-11-15,Cartão de Débito
+4634,2025-11-15,Dinheiro
+4635,2025-11-15,Dinheiro
+4636,2025-11-15,Cartão de Crédito
+4637,2025-11-15,Pix
+4638,2025-11-15,Pix
+4639,2025-11-15,Pix
+4640,2025-11-15,Cartão de Débito
+4641,2025-11-15,Cartão de Débito
+4642,2025-11-15,Cartão de Crédito
+4643,2025-11-15,Cartão de Crédito
+4644,2025-11-15,Cartão de Crédito
+4645,2025-11-15,Dinheiro
+4646,2025-11-15,Pix
+4647,2025-11-15,Pix
+4648,2025-11-15,Pix
+4649,2025-11-15,Pix
+4650,2025-11-15,Cartão de Crédito
+4651,2025-11-15,Dinheiro
+4652,2025-11-15,Cartão de Crédito
+4653,2025-11-16,Cartão de Crédito
+4654,2025-11-16,Cartão de Débito
+4655,2025-11-16,Pix
+4656,2025-11-16,Cartão de Crédito
+4657,2025-11-16,Cartão de Crédito
+4658,2025-11-16,Cartão de Débito
+4659,2025-11-16,Dinheiro
+4660,2025-11-16,Pix
+4661,2025-11-16,Cartão de Crédito
+4662,2025-11-16,Dinheiro
+4663,2025-11-16,Cartão de Crédito
+4664,2025-11-16,Pix
+4665,2025-11-16,Cartão de Débito
+4666,2025-11-16,Cartão de Débito
+4667,2025-11-16,Cartão de Crédito
+4668,2025-11-16,Cartão de Débito
+4669,2025-11-16,Cartão de Crédito
+4670,2025-11-16,Cartão de Crédito
+4671,2025-11-16,Cartão de Débito
+4672,2025-11-16,Pix
+4673,2025-11-16,Cartão de Débito
+4674,2025-11-16,Pix
+4675,2025-11-16,Pix
+4676,2025-11-16,Pix
+4677,2025-11-16,Cartão de Crédito
+4678,2025-11-16,Cartão de Crédito
+4679,2025-11-16,Cartão de Crédito
+4680,2025-11-18,Pix
+4681,2025-11-18,Dinheiro
+4682,2025-11-18,Cartão de Crédito
+4683,2025-11-18,Pix
+4684,2025-11-18,Cartão de Débito
+4685,2025-11-18,Cartão de Débito
+4686,2025-11-18,Cartão de Crédito
+4687,2025-11-19,Pix
+4688,2025-11-19,Pix
+4689,2025-11-19,Pix
+4690,2025-11-19,Dinheiro
+4691,2025-11-19,Pix
+4692,2025-11-19,Pix
+4693,2025-11-19,Cartão de Débito
+4694,2025-11-19,Pix
+4695,2025-11-19,Cartão de Crédito
+4696,2025-11-19,Pix
+4697,2025-11-19,Pix
+4698,2025-11-19,Cartão de Crédito
+4699,2025-11-19,Pix
+4700,2025-11-19,Cartão de Débito
+4701,2025-11-19,Pix
+4702,2025-11-20,Pix
+4703,2025-11-20,Cartão de Débito
+4704,2025-11-20,Cartão de Débito
+4705,2025-11-20,Pix
+4706,2025-11-20,Pix
+4707,2025-11-20,Pix
+4708,2025-11-20,Pix
+4709,2025-11-20,Cartão de Crédito
+4710,2025-11-20,Dinheiro
+4711,2025-11-20,Cartão de Débito
+4712,2025-11-20,Cartão de Crédito
+4713,2025-11-20,Cartão de Crédito
+4714,2025-11-20,Pix
+4715,2025-11-20,Pix
+4716,2025-11-21,Pix
+4717,2025-11-21,Pix
+4718,2025-11-21,Cartão de Débito
+4719,2025-11-21,Cartão de Débito
+4720,2025-11-21,Pix
+4721,2025-11-21,Cartão de Crédito
+4722,2025-11-21,Pix
+4723,2025-11-21,Cartão de Débito
+4724,2025-11-21,Cartão de Débito
+4725,2025-11-21,Pix
+4726,2025-11-21,Cartão de Débito
+4727,2025-11-21,Cartão de Crédito
+4728,2025-11-21,Cartão de Débito
+4729,2025-11-21,Pix
+4730,2025-11-21,Cartão de Débito
+4731,2025-11-21,Pix
+4732,2025-11-21,Cartão de Crédito
+4733,2025-11-21,Dinheiro
+4734,2025-11-21,Pix
+4735,2025-11-21,Cartão de Débito
+4736,2025-11-21,Cartão de Débito
+4737,2025-11-21,Cartão de Crédito
+4738,2025-11-21,Cartão de Crédito
+4739,2025-11-21,Cartão de Débito
+4740,2025-11-22,Pix
+4741,2025-11-22,Pix
+4742,2025-11-22,Pix
+4743,2025-11-22,Pix
+4744,2025-11-22,Dinheiro
+4745,2025-11-22,Cartão de Crédito
+4746,2025-11-22,Cartão de Débito
+4747,2025-11-22,Pix
+4748,2025-11-22,Dinheiro
+4749,2025-11-22,Pix
+4750,2025-11-22,Cartão de Crédito
+4751,2025-11-22,Cartão de Crédito
+4752,2025-11-22,Cartão de Crédito
+4753,2025-11-22,Cartão de Débito
+4754,2025-11-22,Dinheiro
+4755,2025-11-22,Cartão de Crédito
+4756,2025-11-22,Dinheiro
+4757,2025-11-22,Pix
+4758,2025-11-22,Cartão de Débito
+4759,2025-11-22,Pix
+4760,2025-11-22,Cartão de Débito
+4761,2025-11-22,Cartão de Débito
+4762,2025-11-22,Pix
+4763,2025-11-22,Cartão de Crédito
+4764,2025-11-22,Cartão de Crédito
+4765,2025-11-22,Dinheiro
+4766,2025-11-22,Pix
+4767,2025-11-22,Cartão de Débito
+4768,2025-11-22,Cartão de Crédito
+4769,2025-11-22,Cartão de Crédito
+4770,2025-11-22,Pix
+4771,2025-11-22,Pix
+4772,2025-11-22,Cartão de Débito
+4773,2025-11-22,Dinheiro
+4774,2025-11-22,Cartão de Crédito
+4775,2025-11-22,Pix
+4776,2025-11-22,Dinheiro
+4777,2025-11-22,Pix
+4778,2025-11-22,Cartão de Crédito
+4779,2025-11-22,Dinheiro
+4780,2025-11-22,Pix
+4781,2025-11-22,Dinheiro
+4782,2025-11-22,Pix
+4783,2025-11-23,Pix
+4784,2025-11-23,Cartão de Débito
+4785,2025-11-23,Dinheiro
+4786,2025-11-23,Pix
+4787,2025-11-23,Dinheiro
+4788,2025-11-23,Cartão de Crédito
+4789,2025-11-23,Pix
+4790,2025-11-23,Cartão de Crédito
+4791,2025-11-23,Cartão de Crédito
+4792,2025-11-23,Cartão de Crédito
+4793,2025-11-23,Pix
+4794,2025-11-23,Pix
+4795,2025-11-23,Cartão de Débito
+4796,2025-11-23,Cartão de Crédito
+4797,2025-11-23,Pix
+4798,2025-11-23,Cartão de Débito
+4799,2025-11-23,Cartão de Débito
+4800,2025-11-23,Cartão de Crédito
+4801,2025-11-23,Dinheiro
+4802,2025-11-23,Dinheiro
+4803,2025-11-23,Cartão de Crédito
+4804,2025-11-23,Pix
+4805,2025-11-23,Cartão de Crédito
+4806,2025-11-23,Cartão de Débito
+4807,2025-11-23,Dinheiro
+4808,2025-11-23,Cartão de Débito
+4809,2025-11-23,Cartão de Débito
+4810,2025-11-23,Pix
+4811,2025-11-23,Cartão de Débito
+4812,2025-11-23,Cartão de Crédito
+4813,2025-11-23,Cartão de Crédito
+4814,2025-11-23,Pix
+4815,2025-11-23,Pix
+4816,2025-11-23,Cartão de Crédito
+4817,2025-11-23,Cartão de Débito
+4818,2025-11-23,Cartão de Débito
+4819,2025-11-25,Cartão de Crédito
+4820,2025-11-25,Cartão de Débito
+4821,2025-11-25,Cartão de Crédito
+4822,2025-11-25,Cartão de Crédito
+4823,2025-11-26,Cartão de Débito
+4824,2025-11-26,Cartão de Crédito
+4825,2025-11-26,Cartão de Crédito
+4826,2025-11-26,Pix
+4827,2025-11-26,Cartão de Crédito
+4828,2025-11-26,Pix
+4829,2025-11-26,Cartão de Débito
+4830,2025-11-26,Cartão de Crédito
+4831,2025-11-26,Cartão de Crédito
+4832,2025-11-26,Pix
+4833,2025-11-26,Pix
+4834,2025-11-27,Cartão de Débito
+4835,2025-11-27,Cartão de Débito
+4836,2025-11-27,Cartão de Débito
+4837,2025-11-27,Pix
+4838,2025-11-27,Pix
+4839,2025-11-27,Pix
+4840,2025-11-27,Pix
+4841,2025-11-27,Pix
+4842,2025-11-27,Pix
+4843,2025-11-27,Cartão de Débito
+4844,2025-11-27,Cartão de Crédito
+4845,2025-11-27,Pix
+4846,2025-11-27,Pix
+4847,2025-11-27,Cartão de Débito
+4848,2025-11-27,Cartão de Crédito
+4849,2025-11-28,Cartão de Débito
+4850,2025-11-28,Dinheiro
+4851,2025-11-28,Dinheiro
+4852,2025-11-28,Cartão de Débito
+4853,2025-11-28,Cartão de Crédito
+4854,2025-11-28,Cartão de Crédito
+4855,2025-11-28,Cartão de Débito
+4856,2025-11-28,Pix
+4857,2025-11-28,Dinheiro
+4858,2025-11-28,Cartão de Crédito
+4859,2025-11-28,Pix
+4860,2025-11-28,Pix
+4861,2025-11-28,Cartão de Crédito
+4862,2025-11-28,Pix
+4863,2025-11-28,Pix
+4864,2025-11-28,Pix
+4865,2025-11-28,Cartão de Débito
+4866,2025-11-28,Dinheiro
+4867,2025-11-28,Pix
+4868,2025-11-29,Pix
+4869,2025-11-29,Cartão de Crédito
+4870,2025-11-29,Cartão de Crédito
+4871,2025-11-29,Cartão de Crédito
+4872,2025-11-29,Cartão de Débito
+4873,2025-11-29,Cartão de Débito
+4874,2025-11-29,Cartão de Crédito
+4875,2025-11-29,Pix
+4876,2025-11-29,Cartão de Débito
+4877,2025-11-29,Cartão de Débito
+4878,2025-11-29,Cartão de Débito
+4879,2025-11-29,Pix
+4880,2025-11-29,Pix
+4881,2025-11-29,Cartão de Débito
+4882,2025-11-29,Cartão de Débito
+4883,2025-11-29,Cartão de Crédito
+4884,2025-11-29,Cartão de Crédito
+4885,2025-11-29,Cartão de Crédito
+4886,2025-11-29,Pix
+4887,2025-11-29,Pix
+4888,2025-11-29,Cartão de Crédito
+4889,2025-11-29,Cartão de Débito
+4890,2025-11-29,Pix
+4891,2025-11-29,Dinheiro
+4892,2025-11-29,Cartão de Débito
+4893,2025-11-29,Cartão de Débito
+4894,2025-11-29,Cartão de Débito
+4895,2025-11-29,Pix
+4896,2025-11-29,Cartão de Débito
+4897,2025-11-29,Cartão de Débito
+4898,2025-11-29,Cartão de Crédito
+4899,2025-11-29,Cartão de Débito
+4900,2025-11-29,Pix
+4901,2025-11-29,Pix
+4902,2025-11-29,Pix
+4903,2025-11-29,Pix
+4904,2025-11-29,Pix
+4905,2025-11-29,Cartão de Crédito
+4906,2025-11-29,Pix
+4907,2025-11-29,Cartão de Débito
+4908,2025-11-30,Cartão de Crédito
+4909,2025-11-30,Cartão de Crédito
+4910,2025-11-30,Cartão de Crédito
+4911,2025-11-30,Cartão de Crédito
+4912,2025-11-30,Pix
+4913,2025-11-30,Pix
+4914,2025-11-30,Pix
+4915,2025-11-30,Dinheiro
+4916,2025-11-30,Pix
+4917,2025-11-30,Pix
+4918,2025-11-30,Cartão de Crédito
+4919,2025-11-30,Pix
+4920,2025-11-30,Pix
+4921,2025-11-30,Cartão de Crédito
+4922,2025-11-30,Pix
+4923,2025-11-30,Pix
+4924,2025-11-30,Cartão de Débito
+4925,2025-11-30,Dinheiro
+4926,2025-11-30,Pix
+4927,2025-11-30,Cartão de Crédito
+4928,2025-11-30,Cartão de Débito
+4929,2025-11-30,Dinheiro
+4930,2025-11-30,Pix
+4931,2025-11-30,Cartão de Débito
+4932,2025-11-30,Dinheiro
+4933,2025-11-30,Cartão de Débito
+4934,2025-11-30,Cartão de Débito
+4935,2025-11-30,Cartão de Crédito
+4936,2025-11-30,Cartão de Débito
+4937,2025-11-30,Cartão de Crédito
+4938,2025-11-30,Dinheiro
+4939,2025-12-02,Cartão de Crédito
+4940,2025-12-02,Dinheiro
+4941,2025-12-02,Pix
+4942,2025-12-02,Pix
+4943,2025-12-02,Pix
+4944,2025-12-02,Dinheiro
+4945,2025-12-02,Pix
+4946,2025-12-03,Pix
+4947,2025-12-03,Cartão de Débito
+4948,2025-12-03,Pix
+4949,2025-12-03,Cartão de Débito
+4950,2025-12-03,Pix
+4951,2025-12-03,Pix
+4952,2025-12-03,Pix
+4953,2025-12-03,Cartão de Crédito
+4954,2025-12-03,Cartão de Crédito
+4955,2025-12-03,Cartão de Débito
+4956,2025-12-03,Cartão de Débito
+4957,2025-12-03,Pix
+4958,2025-12-03,Cartão de Crédito
+4959,2025-12-03,Pix
+4960,2025-12-04,Pix
+4961,2025-12-04,Pix
+4962,2025-12-04,Cartão de Débito
+4963,2025-12-04,Cartão de Crédito
+4964,2025-12-04,Pix
+4965,2025-12-04,Cartão de Crédito
+4966,2025-12-04,Cartão de Crédito
+4967,2025-12-04,Cartão de Débito
+4968,2025-12-05,Pix
+4969,2025-12-05,Cartão de Crédito
+4970,2025-12-05,Pix
+4971,2025-12-05,Pix
+4972,2025-12-05,Pix
+4973,2025-12-05,Pix
+4974,2025-12-05,Pix
+4975,2025-12-05,Cartão de Crédito
+4976,2025-12-05,Pix
+4977,2025-12-05,Pix
+4978,2025-12-05,Pix
+4979,2025-12-05,Cartão de Crédito
+4980,2025-12-05,Pix
+4981,2025-12-05,Pix
+4982,2025-12-05,Pix
+4983,2025-12-05,Dinheiro
+4984,2025-12-05,Dinheiro
+4985,2025-12-05,Cartão de Débito
+4986,2025-12-05,Pix
+4987,2025-12-05,Cartão de Crédito
+4988,2025-12-05,Cartão de Crédito
+4989,2025-12-06,Dinheiro
+4990,2025-12-06,Pix
+4991,2025-12-06,Dinheiro
+4992,2025-12-06,Cartão de Crédito
+4993,2025-12-06,Cartão de Débito
+4994,2025-12-06,Pix
+4995,2025-12-06,Pix
+4996,2025-12-06,Cartão de Débito
+4997,2025-12-06,Pix
+4998,2025-12-06,Pix
+4999,2025-12-06,Cartão de Crédito
+5000,2025-12-06,Dinheiro
+5001,2025-12-06,Cartão de Crédito
+5002,2025-12-06,Pix
+5003,2025-12-06,Pix
+5004,2025-12-06,Pix
+5005,2025-12-06,Pix
+5006,2025-12-06,Cartão de Crédito
+5007,2025-12-06,Cartão de Crédito
+5008,2025-12-06,Pix
+5009,2025-12-06,Cartão de Crédito
+5010,2025-12-06,Cartão de Crédito
+5011,2025-12-06,Cartão de Débito
+5012,2025-12-06,Pix
+5013,2025-12-06,Cartão de Débito
+5014,2025-12-06,Dinheiro
+5015,2025-12-06,Cartão de Crédito
+5016,2025-12-06,Cartão de Débito
+5017,2025-12-06,Cartão de Crédito
+5018,2025-12-06,Cartão de Débito
+5019,2025-12-06,Dinheiro
+5020,2025-12-06,Pix
+5021,2025-12-07,Pix
+5022,2025-12-07,Pix
+5023,2025-12-07,Pix
+5024,2025-12-07,Dinheiro
+5025,2025-12-07,Pix
+5026,2025-12-07,Pix
+5027,2025-12-07,Pix
+5028,2025-12-07,Cartão de Crédito
+5029,2025-12-07,Cartão de Crédito
+5030,2025-12-07,Cartão de Crédito
+5031,2025-12-07,Cartão de Débito
+5032,2025-12-07,Pix
+5033,2025-12-07,Cartão de Crédito
+5034,2025-12-07,Pix
+5035,2025-12-07,Cartão de Crédito
+5036,2025-12-07,Pix
+5037,2025-12-07,Cartão de Débito
+5038,2025-12-07,Cartão de Crédito
+5039,2025-12-07,Pix
+5040,2025-12-09,Cartão de Crédito
+5041,2025-12-09,Cartão de Débito
+5042,2025-12-09,Pix
+5043,2025-12-09,Cartão de Débito
+5044,2025-12-09,Pix
+5045,2025-12-09,Dinheiro
+5046,2025-12-09,Cartão de Crédito
+5047,2025-12-09,Cartão de Débito
+5048,2025-12-10,Cartão de Crédito
+5049,2025-12-10,Cartão de Crédito
+5050,2025-12-10,Pix
+5051,2025-12-10,Pix
+5052,2025-12-10,Pix
+5053,2025-12-10,Pix
+5054,2025-12-10,Cartão de Crédito
+5055,2025-12-10,Cartão de Crédito
+5056,2025-12-10,Cartão de Crédito
+5057,2025-12-10,Pix
+5058,2025-12-11,Cartão de Crédito
+5059,2025-12-11,Pix
+5060,2025-12-11,Cartão de Débito
+5061,2025-12-11,Cartão de Crédito
+5062,2025-12-11,Cartão de Crédito
+5063,2025-12-11,Cartão de Débito
+5064,2025-12-11,Dinheiro
+5065,2025-12-11,Pix
+5066,2025-12-11,Cartão de Crédito
+5067,2025-12-11,Cartão de Crédito
+5068,2025-12-12,Cartão de Crédito
+5069,2025-12-12,Cartão de Crédito
+5070,2025-12-12,Cartão de Débito
+5071,2025-12-12,Dinheiro
+5072,2025-12-12,Cartão de Débito
+5073,2025-12-12,Pix
+5074,2025-12-12,Pix
+5075,2025-12-12,Dinheiro
+5076,2025-12-12,Pix
+5077,2025-12-12,Pix
+5078,2025-12-12,Pix
+5079,2025-12-12,Pix
+5080,2025-12-12,Pix
+5081,2025-12-12,Pix
+5082,2025-12-12,Pix
+5083,2025-12-12,Dinheiro
+5084,2025-12-12,Pix
+5085,2025-12-12,Cartão de Débito
+5086,2025-12-12,Pix
+5087,2025-12-12,Cartão de Débito
+5088,2025-12-12,Pix
+5089,2025-12-12,Cartão de Débito
+5090,2025-12-12,Cartão de Débito
+5091,2025-12-12,Pix
+5092,2025-12-12,Pix
+5093,2025-12-12,Pix
+5094,2025-12-12,Pix
+5095,2025-12-13,Pix
+5096,2025-12-13,Pix
+5097,2025-12-13,Cartão de Crédito
+5098,2025-12-13,Cartão de Crédito
+5099,2025-12-13,Pix
+5100,2025-12-13,Cartão de Débito
+5101,2025-12-13,Pix
+5102,2025-12-13,Pix
+5103,2025-12-13,Pix
+5104,2025-12-13,Cartão de Crédito
+5105,2025-12-13,Pix
+5106,2025-12-13,Cartão de Crédito
+5107,2025-12-13,Pix
+5108,2025-12-13,Cartão de Débito
+5109,2025-12-13,Pix
+5110,2025-12-13,Pix
+5111,2025-12-13,Cartão de Crédito
+5112,2025-12-13,Cartão de Crédito
+5113,2025-12-13,Pix
+5114,2025-12-13,Pix
+5115,2025-12-13,Pix
+5116,2025-12-13,Cartão de Crédito
+5117,2025-12-13,Pix
+5118,2025-12-13,Cartão de Débito
+5119,2025-12-13,Pix
+5120,2025-12-13,Cartão de Débito
+5121,2025-12-13,Dinheiro
+5122,2025-12-13,Dinheiro
+5123,2025-12-13,Cartão de Crédito
+5124,2025-12-13,Pix
+5125,2025-12-13,Pix
+5126,2025-12-13,Dinheiro
+5127,2025-12-13,Pix
+5128,2025-12-13,Cartão de Crédito
+5129,2025-12-13,Cartão de Crédito
+5130,2025-12-13,Cartão de Débito
+5131,2025-12-13,Dinheiro
+5132,2025-12-13,Cartão de Crédito
+5133,2025-12-13,Pix
+5134,2025-12-13,Cartão de Débito
+5135,2025-12-13,Cartão de Débito
+5136,2025-12-13,Cartão de Crédito
+5137,2025-12-13,Cartão de Crédito
+5138,2025-12-13,Pix
+5139,2025-12-14,Pix
+5140,2025-12-14,Pix
+5141,2025-12-14,Cartão de Débito
+5142,2025-12-14,Cartão de Crédito
+5143,2025-12-14,Dinheiro
+5144,2025-12-14,Pix
+5145,2025-12-14,Cartão de Crédito
+5146,2025-12-14,Cartão de Débito
+5147,2025-12-14,Pix
+5148,2025-12-14,Cartão de Crédito
+5149,2025-12-14,Cartão de Débito
+5150,2025-12-14,Pix
+5151,2025-12-14,Pix
+5152,2025-12-14,Pix
+5153,2025-12-14,Cartão de Crédito
+5154,2025-12-14,Cartão de Crédito
+5155,2025-12-14,Pix
+5156,2025-12-14,Dinheiro
+5157,2025-12-14,Pix
+5158,2025-12-14,Cartão de Crédito
+5159,2025-12-14,Pix
+5160,2025-12-14,Cartão de Crédito
+5161,2025-12-14,Pix
+5162,2025-12-14,Cartão de Débito
+5163,2025-12-14,Pix
+5164,2025-12-14,Cartão de Crédito
+5165,2025-12-14,Pix
+5166,2025-12-14,Cartão de Débito
+5167,2025-12-14,Cartão de Crédito
+5168,2025-12-14,Pix
+5169,2025-12-14,Pix
+5170,2025-12-14,Cartão de Débito
+5171,2025-12-14,Pix
+5172,2025-12-14,Pix
+5173,2025-12-14,Cartão de Débito
+5174,2025-12-14,Pix
+5175,2025-12-14,Cartão de Débito
+5176,2025-12-16,Pix
+5177,2025-12-16,Dinheiro
+5178,2025-12-16,Pix
+5179,2025-12-16,Cartão de Débito
+5180,2025-12-16,Pix
+5181,2025-12-16,Dinheiro
+5182,2025-12-16,Pix
+5183,2025-12-16,Cartão de Débito
+5184,2025-12-16,Cartão de Crédito
+5185,2025-12-16,Pix
+5186,2025-12-16,Pix
+5187,2025-12-17,Cartão de Crédito
+5188,2025-12-17,Pix
+5189,2025-12-17,Pix
+5190,2025-12-17,Pix
+5191,2025-12-17,Cartão de Crédito
+5192,2025-12-17,Cartão de Crédito
+5193,2025-12-17,Cartão de Débito
+5194,2025-12-17,Cartão de Débito
+5195,2025-12-18,Cartão de Crédito
+5196,2025-12-18,Pix
+5197,2025-12-18,Cartão de Crédito
+5198,2025-12-18,Cartão de Crédito
+5199,2025-12-18,Dinheiro
+5200,2025-12-18,Pix
+5201,2025-12-18,Pix
+5202,2025-12-18,Cartão de Débito
+5203,2025-12-18,Cartão de Crédito
+5204,2025-12-18,Cartão de Crédito
+5205,2025-12-19,Cartão de Crédito
+5206,2025-12-19,Dinheiro
+5207,2025-12-19,Cartão de Crédito
+5208,2025-12-19,Pix
+5209,2025-12-19,Cartão de Crédito
+5210,2025-12-19,Cartão de Débito
+5211,2025-12-19,Cartão de Crédito
+5212,2025-12-19,Cartão de Crédito
+5213,2025-12-19,Cartão de Crédito
+5214,2025-12-19,Cartão de Crédito
+5215,2025-12-19,Cartão de Débito
+5216,2025-12-19,Cartão de Débito
+5217,2025-12-19,Cartão de Débito
+5218,2025-12-19,Cartão de Débito
+5219,2025-12-19,Pix
+5220,2025-12-19,Pix
+5221,2025-12-19,Cartão de Crédito
+5222,2025-12-19,Pix
+5223,2025-12-19,Pix
+5224,2025-12-19,Dinheiro
+5225,2025-12-19,Cartão de Crédito
+5226,2025-12-19,Pix
+5227,2025-12-19,Cartão de Débito
+5228,2025-12-19,Pix
+5229,2025-12-19,Pix
+5230,2025-12-19,Cartão de Crédito
+5231,2025-12-19,Pix
+5232,2025-12-19,Pix
+5233,2025-12-19,Dinheiro
+5234,2025-12-20,Pix
+5235,2025-12-20,Pix
+5236,2025-12-20,Cartão de Débito
+5237,2025-12-20,Cartão de Crédito
+5238,2025-12-20,Cartão de Crédito
+5239,2025-12-20,Cartão de Crédito
+5240,2025-12-20,Cartão de Crédito
+5241,2025-12-20,Pix
+5242,2025-12-20,Cartão de Débito
+5243,2025-12-20,Cartão de Crédito
+5244,2025-12-20,Cartão de Crédito
+5245,2025-12-20,Cartão de Débito
+5246,2025-12-20,Pix
+5247,2025-12-20,Pix
+5248,2025-12-20,Cartão de Débito
+5249,2025-12-20,Cartão de Débito
+5250,2025-12-20,Cartão de Crédito
+5251,2025-12-20,Cartão de Débito
+5252,2025-12-20,Dinheiro
+5253,2025-12-20,Pix
+5254,2025-12-20,Dinheiro
+5255,2025-12-20,Pix
+5256,2025-12-20,Cartão de Débito
+5257,2025-12-20,Pix
+5258,2025-12-20,Cartão de Crédito
+5259,2025-12-20,Cartão de Débito
+5260,2025-12-20,Cartão de Crédito
+5261,2025-12-20,Cartão de Débito
+5262,2025-12-20,Pix
+5263,2025-12-20,Cartão de Crédito
+5264,2025-12-20,Cartão de Débito
+5265,2025-12-20,Pix
+5266,2025-12-20,Cartão de Débito
+5267,2025-12-20,Cartão de Crédito
+5268,2025-12-21,Cartão de Crédito
+5269,2025-12-21,Cartão de Crédito
+5270,2025-12-21,Cartão de Débito
+5271,2025-12-21,Cartão de Crédito
+5272,2025-12-21,Cartão de Crédito
+5273,2025-12-21,Pix
+5274,2025-12-21,Pix
+5275,2025-12-21,Cartão de Débito
+5276,2025-12-21,Cartão de Crédito
+5277,2025-12-21,Pix
+5278,2025-12-21,Pix
+5279,2025-12-21,Cartão de Débito
+5280,2025-12-21,Cartão de Crédito
+5281,2025-12-21,Pix
+5282,2025-12-21,Cartão de Crédito
+5283,2025-12-21,Cartão de Crédito
+5284,2025-12-21,Cartão de Débito
+5285,2025-12-21,Pix
+5286,2025-12-21,Pix
+5287,2025-12-21,Cartão de Débito
+5288,2025-12-21,Pix
+5289,2025-12-21,Cartão de Crédito
+5290,2025-12-21,Pix
+5291,2025-12-21,Pix
+5292,2025-12-21,Cartão de Crédito
+5293,2025-12-21,Pix
+5294,2025-12-21,Cartão de Crédito
+5295,2025-12-21,Pix
+5296,2025-12-21,Cartão de Débito
+5297,2025-12-21,Pix
+5298,2025-12-21,Dinheiro
+5299,2025-12-23,Pix
+5300,2025-12-23,Pix
+5301,2025-12-23,Cartão de Débito
+5302,2025-12-23,Cartão de Débito
+5303,2025-12-23,Cartão de Crédito
+5304,2025-12-23,Dinheiro
+5305,2025-12-23,Pix
+5306,2025-12-23,Cartão de Crédito
+5307,2025-12-23,Cartão de Crédito
+5308,2025-12-23,Pix
+5309,2025-12-23,Pix
+5310,2025-12-24,Cartão de Débito
+5311,2025-12-24,Cartão de Crédito
+5312,2025-12-24,Pix
+5313,2025-12-24,Pix
+5314,2025-12-24,Cartão de Débito
+5315,2025-12-24,Cartão de Débito
+5316,2025-12-24,Pix
+5317,2025-12-24,Pix
+5318,2025-12-24,Cartão de Crédito
+5319,2025-12-24,Pix
+5320,2025-12-24,Cartão de Débito
+5321,2025-12-24,Cartão de Débito
+5322,2025-12-24,Pix
+5323,2025-12-25,Cartão de Débito
+5324,2025-12-25,Pix
+5325,2025-12-25,Pix
+5326,2025-12-25,Cartão de Crédito
+5327,2025-12-25,Cartão de Crédito
+5328,2025-12-25,Pix
+5329,2025-12-25,Cartão de Crédito
+5330,2025-12-25,Cartão de Débito
+5331,2025-12-26,Pix
+5332,2025-12-26,Dinheiro
+5333,2025-12-26,Cartão de Crédito
+5334,2025-12-26,Cartão de Débito
+5335,2025-12-26,Cartão de Débito
+5336,2025-12-26,Cartão de Débito
+5337,2025-12-26,Dinheiro
+5338,2025-12-26,Cartão de Crédito
+5339,2025-12-26,Pix
+5340,2025-12-26,Cartão de Débito
+5341,2025-12-26,Cartão de Crédito
+5342,2025-12-26,Dinheiro
+5343,2025-12-26,Pix
+5344,2025-12-26,Cartão de Crédito
+5345,2025-12-26,Pix
+5346,2025-12-26,Pix
+5347,2025-12-26,Cartão de Crédito
+5348,2025-12-26,Dinheiro
+5349,2025-12-26,Cartão de Débito
+5350,2025-12-26,Pix
+5351,2025-12-26,Cartão de Débito
+5352,2025-12-26,Pix
+5353,2025-12-26,Cartão de Débito
+5354,2025-12-26,Cartão de Crédito
+5355,2025-12-26,Cartão de Débito
+5356,2025-12-26,Cartão de Crédito
+5357,2025-12-27,Pix
+5358,2025-12-27,Pix
+5359,2025-12-27,Pix
+5360,2025-12-27,Cartão de Crédito
+5361,2025-12-27,Pix
+5362,2025-12-27,Pix
+5363,2025-12-27,Cartão de Débito
+5364,2025-12-27,Cartão de Débito
+5365,2025-12-27,Pix
+5366,2025-12-27,Pix
+5367,2025-12-27,Cartão de Crédito
+5368,2025-12-27,Cartão de Débito
+5369,2025-12-27,Cartão de Débito
+5370,2025-12-27,Cartão de Crédito
+5371,2025-12-27,Dinheiro
+5372,2025-12-27,Cartão de Crédito
+5373,2025-12-27,Dinheiro
+5374,2025-12-27,Cartão de Crédito
+5375,2025-12-27,Cartão de Crédito
+5376,2025-12-27,Pix
+5377,2025-12-27,Cartão de Débito
+5378,2025-12-27,Dinheiro
+5379,2025-12-27,Pix
+5380,2025-12-27,Pix
+5381,2025-12-27,Cartão de Crédito
+5382,2025-12-27,Pix
+5383,2025-12-27,Cartão de Crédito
+5384,2025-12-27,Cartão de Débito
+5385,2025-12-27,Dinheiro
+5386,2025-12-27,Cartão de Crédito
+5387,2025-12-27,Cartão de Crédito
+5388,2025-12-27,Pix
+5389,2025-12-27,Cartão de Crédito
+5390,2025-12-28,Pix
+5391,2025-12-28,Cartão de Débito
+5392,2025-12-28,Pix
+5393,2025-12-28,Dinheiro
+5394,2025-12-28,Pix
+5395,2025-12-28,Cartão de Crédito
+5396,2025-12-28,Cartão de Débito
+5397,2025-12-28,Pix
+5398,2025-12-28,Pix
+5399,2025-12-28,Cartão de Crédito
+5400,2025-12-28,Cartão de Crédito
+5401,2025-12-28,Cartão de Crédito
+5402,2025-12-28,Cartão de Crédito
+5403,2025-12-28,Cartão de Crédito
+5404,2025-12-28,Pix
+5405,2025-12-28,Pix
+5406,2025-12-28,Cartão de Crédito
+5407,2025-12-28,Pix
+5408,2025-12-28,Dinheiro
+5409,2025-12-28,Dinheiro
+5410,2025-12-28,Cartão de Débito
+5411,2025-12-28,Pix
+5412,2025-12-28,Pix
+5413,2025-12-28,Dinheiro
+5414,2025-12-28,Pix
+5415,2025-12-28,Cartão de Débito
+5416,2025-12-28,Cartão de Débito
+5417,2025-12-28,Pix
+5418,2025-12-30,Cartão de Débito
+5419,2025-12-30,Cartão de Débito
+5420,2025-12-30,Cartão de Crédito
+5421,2025-12-30,Cartão de Débito
+5422,2025-12-30,Pix
+5423,2025-12-31,Pix
+5424,2025-12-31,Dinheiro
+5425,2025-12-31,Cartão de Crédito
+5426,2025-12-31,Cartão de Crédito
+5427,2025-12-31,Dinheiro
+5428,2025-12-31,Pix
+5429,2025-12-31,Cartão de Débito
+5430,2025-12-31,Dinheiro
+5431,2025-12-31,Pix
+5432,2025-12-31,Pix
+5433,2025-12-31,Pix
+5434,2025-12-31,Cartão de Crédito
+5435,2025-12-31,Cartão de Crédito

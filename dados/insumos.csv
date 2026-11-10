@@ -1,0 +1,7 @@
+insumo_id,insumo,unidade,qtd_embalagem,estoque_minimo,custo_unitario
+1,Barril Pilsen 50L,L,50,6,320.0
+2,Barril IPA 50L,L,50,4,480.0
+3,Barril Weiss 50L,L,50,3,420.0
+4,Batata congelada 2kg,kg,2,10,22.0
+5,Calabresa 1kg,kg,1,8,28.0
+6,Refrigerante lata,un,1,48,3.0
